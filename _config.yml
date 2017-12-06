@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Scott Yih"
   avatar           : "profile.png"
-  bio              : "Research Scientist at <a href="http://allenai.org/">Allen Institute for Artificial Intelligence (AI2)</a>"
+  bio              : "Research Scientist at <a href='http://allenai.org/'>Allen Institute for Artificial Intelligence (AI2)</a>"
   location         : "Seattle, WA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=8rDNIMsAAAAJ"

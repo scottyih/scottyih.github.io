@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
+Will be updated soon. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">my Google Scholar profile</a></u> or on <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/1725604">my Semantic Scholar profile</a></u>.
+
+
 {% comment %}
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

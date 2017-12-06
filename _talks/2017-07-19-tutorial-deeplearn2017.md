@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Continuous Representations for Natural Language Understanding"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2017-07-19-tutorial-deeplearn2017

@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Will be updated soon. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">my Google Scholar profile</a></u> or on <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/1725604">my Semantic Scholar profile</a></u>.
+Will be updated soon. You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">Google Scholar profile</a></u> or on my <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/1725604">Semantic Scholar profile</a></u>.
 
 
 {% comment %}

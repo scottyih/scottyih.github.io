@@ -17,8 +17,9 @@ Will be updated soon. You can also find my articles on my <u><a href="https://sc
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{% endcomment %}
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% endcomment %}

@@ -80,13 +80,15 @@ for row, item in publications.iterrows():
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
-    
+
+    md += "\nauthor: '" + html_escape(item.author) + "'"
+
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    #md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
@@ -98,11 +100,14 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    #md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 
-
+    if len(str(item.bibtex)) > 5:
+        bib_filename = str(item.pub_date) + "-" + item.url_slug + ".txt"
+        with open("../_publications/" + bib_filename, 'w') as f:
+            f.write(item.bibtex)

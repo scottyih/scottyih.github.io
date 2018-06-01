@@ -1,4 +1,35 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2018-06-01	Natural Language to Structured Query Generation via Meta-Learning	NAACL-HLT-2018	This paper is about the number 1. The number 2 is left for future work.	"Your Name, You. (2009). ""Paper Title Number 1."" <i>Journal 1</i>. 1(1)."	PT-MAML	https://arxiv.org/pdf/1803.02400.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	"Your Name, You. (2010). ""Paper Title Number 2."" <i>Journal 1</i>. 1(2)."	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	"Your Name, You. (2015). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3)."	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+pub_date	title	venue	author	excerpt	bibtex	url_slug	paper_url	slides_poster	video	dataset	code
+2018-06-01	Natural Language to Structured Query Generation via Meta-Learning	NAACL-HLT-2018	"Po-Sen Huang, Chenglong Wang, Rishabh Singh, Wen-tau Yih and Xiaodong He"		"@InProceedings{N18-2115,
+  author = 	""Huang, Po-Sen
+		and Wang, Chenglong
+		and Singh, Rishabh
+		and Yih, Wen-tau
+		and He, Xiaodong"",
+  title = 	""Natural Language to Structured Query Generation via Meta-Learning"",
+  booktitle = 	""Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)"",
+  year = 	""2018"",
+  publisher = 	""Association for Computational Linguistics"",
+  pages = 	""732--738"",
+  location = 	""New Orleans, Louisiana"",
+  url = 	""http://aclweb.org/anthology/N18-2115""
+}"	PT-MAML	http://aclweb.org/anthology/N18-2115				
+2018-06-01	Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension	NAACL-HLT-2018	"Bhavana Dalvi, Lifu Huang, Niket Tandon, Wen-tau Yih and Peter Clark"		"@InProceedings{N18-1144,
+  author = 	""Dalvi, Bhavana
+		and Huang, Lifu
+		and Tandon, Niket
+		and Yih, Wen-tau
+		and Clark, Peter"",
+  title = 	""Tracking State Changes in Procedural Text: a Challenge Dataset and Models for Process Paragraph Comprehension"",
+  booktitle = 	""Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)"",
+  year = 	""2018"",
+  publisher = 	""Association for Computational Linguistics"",
+  pages = 	""1595--1604"",
+  location = 	""New Orleans, Louisiana"",
+  url = 	""http://aclweb.org/anthology/N18-1144""
+}"	ProPara	http://aclweb.org/anthology/N18-1144			http://data.allenai.org/propara/	https://github.com/allenai/propara
+2018-02-02	A Knowledge-Grounded Neural Conversation Model	AAAI-2018	"Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih and Michel Galley"		"@InProceedings{ghazvininejad2018knowledge,
+  title={A Knowledge-Grounded Neural Conversation Model},
+  author={Ghazvininejad, Marjan and Brockett, Chris and Chang, Ming-Wei and Dolan, Bill and Gao, Jianfeng and Yih, Wen-tau and Galley, Michel},
+  booktitle={Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence},
+  year={2018}
+}"	Marjan	https://arxiv.org/pdf/1702.01932.pdf				

@@ -1,0 +1,75 @@
+pub_date	title	venue	author	excerpt	bibtex	url_slug	paper_url	slides_poster	video	dataset	code
+June 2018.	Natural Language to Structured Query Generation via Meta-Learning	NAACL-HLT-2018	"Po-Sen Huang, Chenglong Wang, Rishabh Singh, Wen-tau Yih and Xiaodong He"								
+June 2018.	Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension	NAACL-HLT-2018	"Bhavana Dalvi, Lifu Huang, Niket Tandon, Wen-tau Yih and Peter Clark"								
+February 2018.	A Knowledge-Grounded Neural Conversation Model	AAAI-2018	"Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih and Michel Galley"								
+September 2017.	Maximum margin reward networks for learning from explicit and implicit supervision	EMNLP-2017	"Haoruo Peng, Ming-Wei Chang and Wen-tau Yih"								
+30 July 2017.	Search-based Neural Structured Learning for Sequential Question Answering	ACL-2017	"Mohit Iyyer, Wen-tau Yih and Ming-Wei Chang"								
+	Cross-Sentence N-ary Relation Extraction with Graph LSTMs	TACL	"Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova and Wen-tau Yih"								
+November 2016.	Learning from Explicit and Implicit Supervision Jointly for Algebra Word Problems	EMNLP-2016	"Shyam Upadhyay, Ming-Wei Chang, Kai-Wei Chang and Wen-tau Yih"								
+7 August 2016.	Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Text	ACL-2016	"Kristina Toutanova, Xi Victoria Lin, Wen-tau Yih, Hoifung Poon, and Chris Quirk"								
+7 August 2016.	The Value of Semantic Parse Labeling for Knowledge Base Question Answering	ACL-2016	"Wen-tau Yih, Matthew Richardson, Christopher Meek, Ming-Wei Chang, and Jina Suh"								
+	Reasoning in Vector Space: An Exploratory Study of Question Answering	ICLR-2016	"Moontae Lee, Xiaodong He, Wen-tau Yih, Jianfeng Gao, Li Deng, and Paul Smolensky"								
+11 April 2016.	Table Cell Search for Question Answering	WWW-2016	"Huan Sun, Hao Ma, Xiaodong He, Wen-tau Yih, Yu Su, and Xifeng Yan"								
+September 2015.	WikiQA: A Challenge Dataset for Open-Domain Question Answering	EMNLP-2015	"Yi Yang, Wen-tau Yih, and Christopher Meek"								
+28 July 2015.	Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base	ACL-IJCNLP-2015	"Wen-tau Yih, Ming-Wei Chang, Xiaodong He, and Jianfeng Gao"								
+	Embedding Entities and Relations for Learning and Inference in Knowledge Bases	ICLR-2016	"Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, and Li Deng"								
+May 2015.	Questions vs. Queries in Informational Search Tasks	WWW-2015	"Ryen W. White, Matthew Richardson, and Wen-tau Yih"								
+May 2015.	Open Domain Question Answering via Semantic Enrichment	WWW-2015	"Huan Sun, Hao Ma, Wen-tau Yih, Chen-Tse Tsai, Jingjing Liu, and Ming-Wei Chang"								
+	Web-based Question Answering: Revisiting AskMSR	no. MSR-TR-2015-20	"Chen-Tse Tsai, Wen-tau Yih, and Christopher J.C. Burges"								
+	Learning Multi-Relational Semantics Using Neural-Embedding Models	in NIPS 2014 workshop on Learning Semantics	"Bishan Yang, Wen-tau Yih, Xiaodong He, Jianfeng Gao, and Li Deng"								
+10 December 2014.	Joint Semantic Utterance Classification and Slot Filling with Recursive Neural Networks	in 2014 IEEE Spoken Language Technology Workshop (SLT 2014)	"Daniel Guo, Gokhan Tur, Wen-tau Yih, and Geoffrey Zweig"								
+	Deep Learning and Continuous Representations for Language Processing (Tutorial for SLT-2014)	7 December 2014.	Xiaodong He and Wen-tau Yih								
+October 2014.	Typed Tensor Decomposition of Knowledge Bases for Relation Extraction	 the 2014 Conference on Empirical Methods in Natural Language Processing	"Kai-Wei Chang, Wen-tau Yih, Bishan Yang, and Christopher Meek"								
+	Questions vs. Queries in Informational Search Tasks	no. MSR-TR-2014-96	"Ryen W. White, Matthew Richardson, and Wen-tau Yih"								
+June 2014.	Learning Continuous Phrase Representations for Translation Modeling	 ACL	"Jianfeng Gao, Xiaodong He, Wen-tau Yih, and Li Deng"								
+June 2014.	Semantic Parsing for Single-Relation Question Answering	 ACL	"Wen-tau Yih, Xiaodong He, and Christopher Meek"								
+October 2013.	Animacy Detection with Voting Models	 the Conference on Empirical Methods in Natural Language Processing (EMNLP)	"Joshua L. Moore, Christopher J.C. Burges, Erin Renshaw, and Wen-tau Yih"								
+October 2013.	Multi-Relational Latent Semantic Analysis	 the Conference on Empirical Methods in Natural Language Processing (EMNLP)	"Kai-Wei Chang, Wen-tau Yih, and Chris Meek"								
+	Learning Semantic Representations for the Phrase Translation Model	no. MSR-TR-2013-88	"Jianfeng Gao, Xiaodong He, Wen-tau Yih, and Li Deng"								
+August 2013.	Question Answering Using Enhanced Lexical Semantic Models	 the 51st Annual Meeting of the Association for Computational Linguistics	"Wen-tau Yih, Ming-Wei Chang, Christopher Meek, and Andrzej Pastusiak"								
+27 May 2013.	Linguistic Regularities in Continuous Space Word Representations	 the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT-2013)	"Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig"								
+27 May 2013.	Combining Heterogeneous Models for Measuring Relational Similarity	 the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT-2013)	"Alisa Zhila, Wen-tau Yih, Chris Meek, Geoffrey Zweig, and Tomas Mikolov"								
+pp. 207−218	Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction	in Transactions of the Association for Computational Linguistics	Ming-Wei Chang and Wen-tau Yih								
+12 July 2012.	Polarity Inducing Latent Semantic Analysis	 Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)	"Wen-tau Yih, Geoffrey Zweig, and John Platt"								
+2 June 2012.	Measuring Word Relatedness Using Heterogeneous Vector Space Models	 the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT-2012)	Wen-tau Yih and Vahed Qazvinian								
+	MSR SPLAT	a language analysis toolkit	"Chris Quirk, Pallavi Choudhury, Jianfeng Gao, Hisami Suzuki, Kristina Toutanova, Michael Gamon, Wen-tau Yih, Lucy Vanderwende, and Colin Cherry"								
+24 July 2011.	Clickthrough-Based Latent Semantic Models for Web Search	 the Thirty-Fourth Annual International ACM SIGIR Conference	"Jianfeng Gao, Kristina Toutanova, and Wen-tau Yih"								
+	Domain Adaptation with Ensemble of Feature Groups	 the Twenty-Second International Joint Conference on Artificial Intelligence	Rajhans Samdani and Wen-tau Yih								
+13 June 2011.	Learning Discriminative Projections for Text Similarity Measures	 the Fifteenth Conference on Computational Natural Language Learning 	"Wen-tau Yih, Kristina Toutanova, John Platt, and Chris Meek"								
+	Similarity Models for Ad Relevance Measures	in NIPS Workshop: Machine Learning in Online Advertising (MLOAD 2010)	Wen-tau Yih and Ning Jiang								
+	Learning Vector Representations for Similarity Measures	no. MSR-TR-2010-139	Wen-tau Yih and Chris Meek								
+	Translingual Document Representations from Discriminative Projections	in Empirical Methods in Natural Language Processing	"John Platt, Kristina Toutanova, and Wen-tau Yih"								
+	Adaptive Near-Duplicate Detection via Similarity Learning	in SIGIR	"Hannaneh Hajishirzi, Wen-tau Yih, and Aleksander Kolcz"								
+	"Learning Term-weighting Functions for Similarity Measures, in Conference on Empirical Methods in Natural Language Processing, Association for Computational Linguistics, 7 August 2009"		Wen-tau Yih								
+17 July 2009.	Extracting Product Information from Email Receipts Using Markov Logic	in Sixth Conference on Email and Anti-Spam	Stanley Kok and Wen-tau Yih								
+	Partitioned Logistic Regression for Spam Filtering	 The 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining	"Ming-Wei Chang, Wen-tau Yih, and Christopher Meek"								
+	Consistent Phrase Relevance Measures 	 The 2nd Annual International Workshop on Data Mining and Audience Intelligence for Advertising (ADKDD-08 Workshop)	Wen-tau Yih and Christopher Meek								
+	Personalized Spam Filtering for Gray Mail 	 The 5th Conference on Email and Anti-Spam	"Ming-Wei Chang, Wen-tau Yih, and Robert McCann"								
+	The Importance of Syntactic Parsing and Inference in Semantic Role Labeling	in Computational Linguistics	"Vasin Punyakanok, Dan Roth, and Wen-tau Yih"								
+30 November 2007.	Global Inference for Entity and Relation Identification via a Linear Programming Formulation	in Introduction to Statistical Relational Learning	Dan Roth and Wen-tau Yih								
+20 September 2007.	Site-Independent Template-Block Detection	in Knowledge Discovery in Databases: PKDD 2007	A. Kolcz and W. Yih								
+	Raising the Baseline for High-Precision Text Classifiers	 KDD 2007	A. Kolcz and W. Yih								
+2 August 2007.	Improving Spam Filtering by Detecting Gray Mail	 the 4th Conference on Email and Anti-Spam	"W. Yih, R. McCann, and A. Kolcz"								
+25 July 2007.	Improving Similarity Measures for Short Segments of Text	 AAAI 2007	Wen-tau Yih and Christopher Meek								
+	Automatic Semantic Role Labeling (Tutorial Handout for AAAI-07)	22 July 2007.	Wen-tau Yih and Kristina Toutanova								
+	Multi-Document Summarization by Maximizing Informative Content-Words	 IJCAI 2007	"W. Yih, J. Goodman, L. Vanderwende, and H. Suzuki"								
+28 July 2006.	Learning at Low False Positive Rates	 the 3rd Conference on Email and Anti-Spam	"W. Yih, J. Goodman, and G. Hulten"								
+28 July 2006.	Online Discriminative Spam Filter Training	 the 3rd Conference on Email and Anti-Spam	J. Goodman and W. Yih								
+18 July 2006.	Improved Discriminative Bilingual Word Alignment	 the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics	"Robert C. Moore, Wen-tau Yih, and Andreas Bode"								
+	Automatic Semantic Role Labeling (Tutorial Handout for HLT-NAACL-06)	4 June 2006.	Wen-tau Yih and Kristina Toutanova								
+	Finding Advertising Keywords on Web Pages	 the 15th World Wide Web Conference	"W. Yih, J. Goodman, and V. Carvalho"								
+	Integer Linear Programming Inference for Conditional Random Fields	 ICML 2005	D. Roth and W. Yih								
+	The Necessity of Syntactic Parsing for Semantic Role Labeling	 IJCAI 2005	"V. Punyakanok, D. Roth, and W. Yih"								
+	Learning and Inference over Constrained Output	 IJCAI 2005	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
+30 June 2005.	Generalized Inference with Multiple Semantic Role Labeling Systems	in Proc. of the Annual Conference on Computational Natural Language Learning (CoNLL)	"P. Koomen, V. Punyakanok, D. Roth, and W. Yih"								
+17 December 2004.	Learning via Inference over Structurally Constrained Output	in NIPS-04 Learning With Structured Outputs Workshop 	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
+20 September 2004.	Mining Online Deal Forums for Hot Deals	 The 2004 IEEE/WIC/ACM International Conference on Web Intelligence 2004	"Wen-tau Yih, Po-hao Chang, and Wooyoung Kim"								
+23 August 2004.	Semantic Role Labeling via Integer Linear Programming Inference	 the 20th International Conference on Computational Linguistics (COLING-04)	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
+7 May 2004.	Semantic Role Labeling via Generalized Inference over Classifiers	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	"V. Punyakanok, D. Roth, W. Yih, D. Zimak, and Y. Tu"								
+6 May 2004.	A Linear Programming Formulation for Global Inference in Natural Language Tasks	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	D. Roth and W. Yih								
+	Mapping Dependencies Trees: An Application to Question Answering	 AI&Math 2004 (Special session: Intelligent Text Processing)	"V. Punyakanok, D. Roth, and W. Yih"								
+November 2002.	Question-Answering via Enhanced Understanding of Questions	 TREC 2002	"D. Roth, C. Cumby, Xiao Li, P. Morie, R. Nagarajan, N. Rizzolo, K. Small, and W. Yih"								
+August 2002.	Probabilistic Reasoning for Entity & Relation Recognition	 the 19th International Conference on Computational Linguistics (COLING-02)	D. Roth and W. Yih								
+November 2001.	Learning Components for A Question-Answering System	 TREC 2001	"D. Roth, G. Kao, Xiao Li, R. Nagarajan, V. Punyakanok, N. Rizzolo, W. Yih, C. Alm, and L. Moran"								
+	Relational Learning via Propositional Algorithms: An Information Extraction Case Study	 IJCAI-2001	D. Roth and W. Yih								
+July 1997.	Template-Based Information Mining from HTML Documents	 AAAI-1997	J. Hsu and W. Yih								

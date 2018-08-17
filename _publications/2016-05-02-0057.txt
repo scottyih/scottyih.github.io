@@ -1,0 +1,8 @@
+@inproceedings{reasoning-in-vector-space-an-exploratory-study-of-question-answering,
+author = {Lee, Moontae and He, Xiaodong and Yih, Wen-tau and Gao, Jianfeng and Deng, Li and Smolensky, Paul},
+booktitle = {Proceedings of the International Conference on Learning Representations (ICLR) 2016},
+title = {Reasoning in Vector Space: An Exploratory Study of Question Answering},
+year = {2016},
+month = {May},
+url = {https://www.microsoft.com/en-us/research/publication/reasoning-in-vector-space-an-exploratory-study-of-question-answering/},
+}

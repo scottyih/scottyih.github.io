@@ -1,0 +1,8 @@
+@inproceedings{consistent-phrase-relevance-measures,
+author = {Yih, Wen-tau and Meek, Chris},
+title = {Consistent Phrase Relevance Measures},
+booktitle = {Proceedings of The 2nd Annual International Workshop on Data Mining and Audience Intelligence for Advertising (ADKDD-08 Workshop)},
+year = {2008},
+month = {August},
+url = {https://www.microsoft.com/en-us/research/publication/consistent-phrase-relevance-measures/}
+}

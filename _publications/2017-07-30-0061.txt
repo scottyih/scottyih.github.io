@@ -1,0 +1,11 @@
+@article{TACL1028,
+	author = {Peng, Nanyun  and Poon, Hoifung  and Quirk, Chris  and Toutanova, Kristina  and Yih, Wen-tau },
+	title = {Cross-Sentence N-ary Relation Extraction with Graph LSTMs},
+	journal = {Transactions of the Association for Computational Linguistics},
+	volume = {5},
+	year = {2017},
+	keywords = {},
+	issn = {2307-387X},
+	url = {https://www.transacl.org/ojs/index.php/tacl/article/view/1028},
+	pages = {101--115}
+}

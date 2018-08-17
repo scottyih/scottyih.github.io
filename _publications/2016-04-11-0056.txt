@@ -1,0 +1,8 @@
+@inproceedings{sun2016table,
+  title={Table cell search for question answering},
+  author={Sun, Huan and Ma, Hao and He, Xiaodong and Yih, Wen-tau and Su, Yu and Yan, Xifeng},
+  booktitle={Proceedings of the 25th International Conference on World Wide Web},
+  pages={771--782},
+  year={2016},
+  organization={International World Wide Web Conferences Steering Committee}
+}

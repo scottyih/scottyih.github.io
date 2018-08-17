@@ -1,0 +1,11 @@
+@InProceedings{peng-chang-yih:2017:EMNLP2017,
+  author    = {Peng, Haoruo  and  Chang, Ming-Wei  and  Yih, Wen-tau},
+  title     = {Maximum Margin Reward Networks for Learning from Explicit and Implicit Supervision},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+  month     = {September},
+  year      = {2017},
+  address   = {Copenhagen, Denmark},
+  publisher = {Association for Computational Linguistics},
+  pages     = {2368--2378},
+ url       = {https://www.aclweb.org/anthology/D17-1252}
+}

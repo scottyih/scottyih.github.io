@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a style="line-height: 1.5;" href="../files/CV_101217.pdf"><span style="color: #333333;"><span style="font-size: medium;">Available in PDF format.</span></span></a>
+<a style="line-height: 1.5;" href="../files/CV_081318.pdf"><span style="color: #333333;"><span style="font-size: medium;">Available in PDF format.</span></span></a>
 
 {% comment %} 
 

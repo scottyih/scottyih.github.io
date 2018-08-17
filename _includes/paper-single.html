@@ -10,8 +10,43 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-        <a href="{{ post.paperurl }}" rel="permalink" class="archive__item-title">{{ title }}</a> <BR>
-        <i>{{ post.author }}</i>. In <i>{{ post.venue }}</i>.
+        <a href="{{ post.permalink }}" rel="permalink" class="archive__item-title">{{ title }}</a> <BR>
+        <i>{{ post.author }}</i>. In <i>{{ post.venue }}</i>. {% if post.award %} <b>{{ post.award }}.</b> {% endif %} <BR>
+        {% if post.paperurl or post.bibtex or post.slides_poster or post.video or post.dataset or post.code %} 
+        [
+        {% assign first_link = true %}
+        {% if post.paperurl %} 
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.paperurl }}">paper</a>
+          {% endif %}
+        {% if post.biburl %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.biburl }}">bibtex</a>
+        {% endif %}
+        {% if post.slides_poster %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.slides_poster }}">slides/poster</a>
+        {% endif %}
+        {% if post.video %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.video }}">video</a>
+        {% endif %}
+        {% if post.dataset %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.dataset }}">dataset</a>
+        {% endif %}
+        {% if post.code %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.code }}">code</a>
+        {% endif %}
+        ]
+        {% endif %}
 
       <!--
     <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

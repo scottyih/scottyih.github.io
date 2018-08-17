@@ -8,7 +8,7 @@
 # ## Data format
 # 
 # The Excel file should have a sheet called "main", which contains the table of publications.
-# The data sheet needs to have the following columns: pub_date, title, venue, author, excerpt, bibtex, url_slug, paper_url, slides_poster, video, dataset, code, award, with a header at the top. 
+# The data sheet needs to have the following columns: pub_date, title, venue, author, abstract, bibtex, url_slug, paper_url, slides_poster, video, dataset, code, award, with a header at the top. 
 # 
 # - `pub_date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
@@ -65,29 +65,50 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    if len(str(item.abstract)) > 5:
+        md += "\nabstract: '" + html_escape(item.abstract) + "'"
     
-    md += "\ndate: " + str(item.pub_date) 
+    md += "\ndate: " + str(item.pub_date.date()) 
 
     md += "\nauthor: '" + html_escape(item.author) + "'"
 
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
-    #md += "\ncitation: '" + html_escape(item.citation) + "'"
+    paper_url = str(item.paper_url).strip()
+    if paper_url.startswith('http'):
+        md += "\npaperurl: '" + paper_url + "'"
+    elif len(paper_url) > 5:
+        md += "\npaperurl: '../files/" + paper_url + "'"
+        paper_url = '../files/' + paper_url
+
+    if len(str(item.bibtex)) > 5:
+        bib_filename = str(item.pub_date.date()) + "-" + ('%04d' % item.url_slug) + ".txt"
+        md += "\nbiburl: '../publications/" + bib_filename + "'"
+
+    if len(str(item.slides_poster)) > 5:
+        md += "\nslides_poster: "+ item.slides_poster 
+
+    if len(str(item.video)) > 5:
+        md += "\nvideo: " + item.video 
+
+    if len(str(item.dataset)) > 5:
+        md += "\ndataset: " + item.dataset
+
+    if len(str(item.code)) > 5:
+        md += "\ncode: " + item.code
+
+    if len(str(item.award)) > 5:
+        md += "\naward: " + html_escape(item.award) 
     
     md += "\n---"
     
     ## Markdown description for individual page
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n\n<a href='" + paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    if len(str(item.abstract)) > 5:
+        md += "\n" + html_escape(item.abstract) + "\n"
         
     #md += "\nRecommended citation: " + item.citation
     
@@ -97,6 +118,5 @@ for row, item in publications.iterrows():
         f.write(md)
 
     if len(str(item.bibtex)) > 5:
-        bib_filename = str(item.pub_date) + "-" + item.url_slug + ".txt"
         with open("../_publications/" + bib_filename, 'w') as f:
             f.write(item.bibtex)

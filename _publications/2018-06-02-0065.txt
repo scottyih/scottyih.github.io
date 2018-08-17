@@ -1,0 +1,11 @@
+@InProceedings{dalvi-EtAl:2018:N18-1,
+  author    = {Dalvi, Bhavana  and  Huang, Lifu  and  Tandon, Niket  and  Yih, Wen-tau  and  Clark, Peter},
+  title     = {Tracking State Changes in Procedural Text: a Challenge Dataset and Models for Process Paragraph Comprehension},
+  booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
+  month     = {June},
+  year      = {2018},
+  address   = {New Orleans, Louisiana},
+  publisher = {Association for Computational Linguistics},
+  pages     = {1595--1604},
+    url       = {http://www.aclweb.org/anthology/N18-1144}
+}

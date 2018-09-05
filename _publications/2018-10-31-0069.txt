@@ -1,0 +1,9 @@
+@InProceedings{choi-EtAl:2018,
+  author    = {Eunsol Choi and He He and Mohit Iyyer and Mark Yatskar and Wen-tau Yih and Yejin Choi and Percy Liang and Luke Zettlemoyer},
+  title     = {{QuAC}: {Q}uestion Answering in Context},
+  booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
+  month     = {October},
+  year      = {2018},
+  address   = {Brusses, Belgium},
+  publisher = {Association for Computational Linguistics},
+}

@@ -1,0 +1,8 @@
+@inproceedings{guo2014joint,
+  title={Joint semantic utterance classification and slot filling with recursive neural networks},
+  author={Guo, Daniel and Tur, Gokhan and Yih, Wen-tau and Zweig, Geoffrey},
+  booktitle={Spoken Language Technology Workshop (SLT), 2014 IEEE},
+  pages={554--559},
+  year={2014},
+  organization={IEEE}
+}

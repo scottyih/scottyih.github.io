@@ -1,0 +1,8 @@
+@inproceedings{white2015questions,
+  title={Questions vs. queries in informational search tasks},
+  author={White, Ryen W and Richardson, Matthew and Yih, Wen-tau},
+  booktitle={Proceedings of the 24th International Conference on World Wide Web},
+  pages={135--136},
+  year={2015},
+  organization={ACM}
+}

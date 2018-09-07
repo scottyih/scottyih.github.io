@@ -1,0 +1,8 @@
+@InProceedings{yang-EtAl:2015:ICLR,
+  author    = {Yang, Bishan and Yih, Wen-tau and He, Xiaodong and Gao, Jianfeng and Deng, Li},
+  title     = {Embedding entities and relations for learning and inference in knowledge bases},
+  booktitle = {Proceedings of the 3rd International Conference on Learning Representations},
+  month     = {May},
+  year      = {2015},
+  address   = {San Diego, CA}
+}

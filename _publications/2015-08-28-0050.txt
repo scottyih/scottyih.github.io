@@ -1,0 +1,8 @@
+@techreport{web-based-question-answering-revisiting-askmsr,
+author = {Tsai, Chen-Tse and Yih, Wen-tau and Burges, Chris J.C.},
+title = {Web-based Question Answering: Revisiting {AskMSR}},
+institution = {Microsoft Research},
+year = {2015},
+month = {April},
+number = {MSR-TR-2015-20}
+}

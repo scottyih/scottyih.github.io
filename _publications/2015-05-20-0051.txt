@@ -1,0 +1,8 @@
+@inproceedings{sun2015open,
+  title={Open domain question answering via semantic enrichment},
+  author={Sun, Huan and Ma, Hao and Yih, Wen-tau and Tsai, Chen-Tse and Liu, Jingjing and Chang, Ming-Wei},
+  booktitle={Proceedings of the 24th International Conference on World Wide Web},
+  pages={1045--1055},
+  year={2015},
+  organization={International World Wide Web Conferences Steering Committee}
+}

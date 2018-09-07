@@ -1,0 +1,8 @@
+@article{chang2013dual,
+  title={Dual coordinate descent algorithms for efficient large margin structured prediction},
+  author={Chang, Ming-Wei and Yih, Wen-tau},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={1},
+  pages={207--218},
+  year={2013}
+}

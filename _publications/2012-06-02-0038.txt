@@ -1,0 +1,8 @@
+@inproceedings{yih2012measuring,
+  title={Measuring word relatedness using heterogeneous vector space models},
+  author={Yih, Wen-tau and Qazvinian, Vahed},
+  booktitle={Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={616--620},
+  year={2012},
+  organization={Association for Computational Linguistics}
+}

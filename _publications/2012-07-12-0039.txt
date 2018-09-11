@@ -1,0 +1,8 @@
+@inproceedings{yih2012polarity,
+  title={Polarity inducing latent semantic analysis},
+  author={Yih, Wen-tau and Zweig, Geoffrey and Platt, John C},
+  booktitle={Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning},
+  pages={1212--1222},
+  year={2012},
+  organization={Association for Computational Linguistics}
+}

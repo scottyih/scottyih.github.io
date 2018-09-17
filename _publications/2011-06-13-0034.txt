@@ -1,0 +1,8 @@
+@inproceedings{yih2011learning,
+  title={Learning discriminative projections for text similarity measures},
+  author={Yih, Wen-tau and Toutanova, Kristina and Platt, John C and Meek, Christopher},
+  booktitle={Proceedings of the Fifteenth Conference on Computational Natural Language Learning},
+  pages={247--256},
+  year={2011},
+  organization={Association for Computational Linguistics}
+}

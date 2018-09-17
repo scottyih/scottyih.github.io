@@ -1,0 +1,9 @@
+@inproceedings{samdani2011domain,
+  title={Domain adaptation with ensemble of feature groups},
+  author={Samdani, Rajhans and Yih, Wen-tau},
+  booktitle={IJCAI Proceedings-International Joint Conference on Artificial Intelligence},
+  volume={22},
+  number={1},
+  pages={1458},
+  year={2011}
+}

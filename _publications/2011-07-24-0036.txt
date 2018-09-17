@@ -1,0 +1,8 @@
+@inproceedings{gao2011clickthrough,
+  title={Clickthrough-based latent semantic models for web search},
+  author={Gao, Jianfeng and Toutanova, Kristina and Yih, Wen-tau},
+  booktitle={Proceedings of the 34th international ACM SIGIR conference on Research and development in Information Retrieval},
+  pages={675--684},
+  year={2011},
+  organization={ACM}
+}

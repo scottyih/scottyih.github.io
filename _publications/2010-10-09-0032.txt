@@ -1,0 +1,8 @@
+@inproceedings{platt2010translingual,
+  title={Translingual document representations from discriminative projections},
+  author={Platt, John C and Toutanova, Kristina and Yih, Wen-tau},
+  booktitle={Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing},
+  pages={251--261},
+  year={2010},
+  organization={Association for Computational Linguistics}
+}

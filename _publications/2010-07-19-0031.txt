@@ -1,0 +1,8 @@
+@inproceedings{hajishirzi2010adaptive,
+  title={Adaptive near-duplicate detection via similarity learning},
+  author={Hajishirzi, Hannaneh and Yih, Wen-tau and Kolcz, Aleksander},
+  booktitle={Proceedings of the 33rd international ACM SIGIR conference on Research and development in information retrieval},
+  pages={419--426},
+  year={2010},
+  organization={ACM}
+}

@@ -1,0 +1,7 @@
+@inproceedings{yih2010similarity,
+  title={Similarity models for ad relevance measures},
+  author={Yih, Wen-tau and Jiang, Ning},
+  booktitle={MLOAD-NIPS 2010 Workshop on online advertising},
+  pages={32--38},
+  year={2010}
+}

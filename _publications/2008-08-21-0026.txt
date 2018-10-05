@@ -1,0 +1,6 @@
+@inproceedings{Chang2008PersonalizedSF,
+  title={Personalized Spam Filtering for Gray Mail},
+  author={Ming-Wei Chang and Scott Yih and Robert McCann},
+  booktitle={CEAS},
+  year={2008}
+}

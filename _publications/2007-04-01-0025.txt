@@ -1,0 +1,8 @@
+@article{Punyakanok2008TheIO,
+  title={The Importance of Syntactic Parsing and Inference in Semantic Role Labeling},
+  author={Vasin Punyakanok and Dan Roth and Wen-tau Yih},
+  journal={Computational Linguistics},
+  year={2008},
+  volume={34},
+  pages={257-287}
+}

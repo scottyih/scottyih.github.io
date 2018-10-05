@@ -1,0 +1,12 @@
+@article{RothYi07,
+    author = {D. Roth and W. Yih},
+    title = {Global Inference for Entity and Relation Identification via a Linear Programming Formulation},
+    booktitle = {Introduction to Statistical Relational Learning},
+    year = {2007},
+    publisher = {MIT Press},
+    editor = {Lise Getoor and Ben Taskar},
+    url = "http://cogcomp.org/papers/RothYi07.pdf",
+    funding = {ITR-BI,ARDA,XPRESSMP},
+    projects = {LT,LINL,ILP,CCM,NER,PL},
+    comment = {Learning and Inference with Constraints; Integer Linear Programming for Information extraction; Simultaneous recognition of entities and Relations},
+}

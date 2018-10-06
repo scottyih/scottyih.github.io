@@ -1,0 +1,6 @@
+@inproceedings{kok2009extracting,
+  title={Extracting product information from email receipts using markov logic},
+  author={Kok, Stanley and Yih, Wen-tau},
+  booktitle={Proceedings of the Sixth Conference on Email and Anti-Spam, Mountain View, California, USA},
+  year={2009}
+}

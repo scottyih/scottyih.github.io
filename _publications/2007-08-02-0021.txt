@@ -1,0 +1,6 @@
+@inproceedings{yih2007improving,
+  title={Improving spam filtering by detecting gray mail},
+  author={Yih, Wen-tau and McCann, Robert and Kolcz, Aleksander},
+  booktitle={CEAS},
+  year={2007}
+}

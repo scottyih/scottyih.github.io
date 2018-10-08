@@ -1,0 +1,6 @@
+@inproceedings{Kolcz2007RaisingTB,
+  title={Raising the baseline for high-precision text classifiers},
+  author={Kolcz, Aleksander and Yih, Wen-tau},
+  booktitle={KDD},
+  year={2007}
+}

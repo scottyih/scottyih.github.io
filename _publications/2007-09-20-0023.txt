@@ -1,0 +1,6 @@
+@inproceedings{Kolcz2007SiteIndependentTD,
+  title={Site-Independent Template-Block Detection},
+  author={Kolcz, Aleksander and Yih, Wen-tau},
+  booktitle={PKDD},
+  year={2007}
+}

@@ -1,0 +1,8 @@
+@inproceedings{yih2007multi,
+  title={Multi-Document Summarization by Maximizing Informative Content-Words.},
+  author={Yih, Wen-tau and Goodman, Joshua and Vanderwende, Lucy and Suzuki, Hisami},
+  booktitle={IJCAI},
+  volume={7},
+  pages={1776--1782},
+  year={2007}
+}

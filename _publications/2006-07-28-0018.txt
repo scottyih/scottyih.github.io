@@ -1,0 +1,6 @@
+@inproceedings{yih2006learning,
+  title={Learning at Low False Positive Rates.},
+  author={Yih, Wen-tau and Goodman, Joshua and Hulten, Geoff},
+  booktitle={CEAS},
+  year={2006},
+}

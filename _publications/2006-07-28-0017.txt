@@ -1,0 +1,7 @@
+@inproceedings{goodman2006online,
+  title={Online Discriminative Spam Filter Training.},
+  author={Goodman, Joshua and Yih, Wen-tau},
+  booktitle={CEAS},
+  pages={1--4},
+  year={2006}
+}

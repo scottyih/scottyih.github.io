@@ -1,0 +1,7 @@
+@inproceedings{PRYZ05,
+    author = {V. Punyakanok and D. Roth and W. Yih and D. Zimak},
+    title = {Learning and Inference over Constrained Output},
+    booktitle = {IJCAI},
+    pages = {1124--1129},
+    year = {2005},
+ }

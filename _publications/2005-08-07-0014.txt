@@ -1,0 +1,7 @@
+@inproceedings{RothYi05,
+    author = {D. Roth and W. Yih},
+    title = {Integer Linear Programming Inference for Conditional Random Fields},
+    booktitle = {ICML},
+    pages = {737--744},
+    year = {2005},
+}

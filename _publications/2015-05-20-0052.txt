@@ -1,8 +1,8 @@
-@inproceedings{white2015questions,
-  title={Questions vs. queries in informational search tasks},
-  author={White, Ryen W and Richardson, Matthew and Yih, Wen-tau},
+@inproceedings{sun2015open,
+  title={Open domain question answering via semantic enrichment},
+  author={Sun, Huan and Ma, Hao and Yih, Wen-tau and Tsai, Chen-Tse and Liu, Jingjing and Chang, Ming-Wei},
   booktitle={Proceedings of the 24th International Conference on World Wide Web},
-  pages={135--136},
+  pages={1045--1055},
   year={2015},
-  organization={ACM}
+  organization={International World Wide Web Conferences Steering Committee}
 }

@@ -1,9 +1,0 @@
-@InProceedings{peters-EtAl:2018,
-  author    = {Matthew Peters and Mark Neumann and Wen-tau Yih and Luke Zettlemoyer},
-  title     = {Dissecting Contextual Word Embeddings: {A}rchitecture and Representation},
-  booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
-  month     = {October},
-  year      = {2018},
-  address   = {Brusses, Belgium},
-  publisher = {Association for Computational Linguistics},
-}

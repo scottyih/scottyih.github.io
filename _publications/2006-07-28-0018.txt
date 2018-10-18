@@ -1,6 +1,7 @@
-@inproceedings{yih2006learning,
-  title={Learning at Low False Positive Rates.},
-  author={Yih, Wen-tau and Goodman, Joshua and Hulten, Geoff},
+@inproceedings{goodman2006online,
+  title={Online Discriminative Spam Filter Training.},
+  author={Goodman, Joshua and Yih, Wen-tau},
   booktitle={CEAS},
-  year={2006},
+  pages={1--4},
+  year={2006}
 }

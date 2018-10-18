@@ -1,0 +1,7 @@
+@techreport{Yih05,
+    author = {W. Yih},
+    title = {Learning and Inference for Information Extraction},
+    booktitle = {UIUC PhD thesis},
+    year = {2005},
+    url = "http://cogcomp.org/papers/Yih05.pdf",
+}

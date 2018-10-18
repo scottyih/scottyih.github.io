@@ -1,11 +1,11 @@
-@InProceedings{toutanova-EtAl:2016:P16-1,
-  author    = {Toutanova, Kristina  and  Lin, Victoria  and  Yih, Wen-tau  and  Poon, Hoifung  and  Quirk, Chris},
-  title     = {Compositional Learning of Embeddings for Relation Paths in Knowledge Base and Text},
-  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+@InProceedings{yih-EtAl:2016:P16-2,
+  author    = {Yih, Wen-tau  and  Richardson, Matthew  and  Meek, Chris  and  Chang, Ming-Wei  and  Suh, Jina},
+  title     = {The Value of Semantic Parse Labeling for Knowledge Base Question Answering},
+  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
   month     = {August},
   year      = {2016},
   address   = {Berlin, Germany},
   publisher = {Association for Computational Linguistics},
-  pages     = {1434--1444},
-  url       = {http://www.aclweb.org/anthology/P16-1136}
+  pages     = {201--206},
+  url       = {http://anthology.aclweb.org/P16-2033}
 }

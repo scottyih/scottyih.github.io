@@ -1,0 +1,11 @@
+@InProceedings{huang-EtAl:2018:N18-22,
+  author    = {Huang, Po-Sen  and  Wang, Chenglong  and  Singh, Rishabh  and  Yih, Wen-tau  and  He, Xiaodong},
+  title     = {Natural Language to Structured Query Generation via Meta-Learning},
+  booktitle = {Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)},
+  month     = {June},
+  year      = {2018},
+  address   = {New Orleans, Louisiana},
+  publisher = {Association for Computational Linguistics},
+  pages     = {732--738},
+  url       = {http://www.aclweb.org/anthology/N18-2115}
+}

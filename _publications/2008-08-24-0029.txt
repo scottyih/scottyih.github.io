@@ -1,0 +1,8 @@
+@inproceedings{chang2008partitioned,
+  title={Partitioned logistic regression for spam filtering},
+  author={Chang, Ming-wei and Yih, Wen-tau and Meek, Christopher},
+  booktitle={Proceedings of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  pages={97--105},
+  year={2008},
+  organization={ACM}
+}

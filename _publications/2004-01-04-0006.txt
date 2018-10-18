@@ -1,0 +1,8 @@
+@article{PunyakanokRoYi04a,
+    author = {V. Punyakanok and D. Roth and W. Yih},
+    title = {Mapping Dependencies Trees: An Application to Question Answering},
+    booktitle = {AI & Math Workshop},
+    month = {1},
+    year = {2004},
+    url = "http://cogcomp.org/papers/PunyakanokRoYi04a.pdf",
+}

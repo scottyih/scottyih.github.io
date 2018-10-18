@@ -1,0 +1,10 @@
+@inproceedings{PRYZ04,
+    author = {V. Punyakanok and D. Roth and W. Yih and D. Zimak},
+    title = {Semantic Role Labeling via Integer Linear Programming Inference},
+    booktitle = {COLING},
+    pages = {1346--1352},
+    month = {8},
+    year = {2004},
+    address = {Geneva, Switzerland},
+    url = "http://cogcomp.org/papers/PRYZ04.pdf",
+}

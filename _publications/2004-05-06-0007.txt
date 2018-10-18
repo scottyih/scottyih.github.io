@@ -1,0 +1,10 @@
+@inproceedings{RothYi04,
+    author = {D. Roth and W. Yih},
+    title = {A Linear Programming Formulation for Global Inference in Natural Language Tasks},
+    booktitle = {CoNLL},
+    pages = {1--8},
+    year = {2004},
+    publisher = {Association for Computational Linguistics},
+    editor = {Hwee Tou Ng and Ellen Riloff},
+    url = "http://cogcomp.org/papers/RothYi04.pdf",
+ }

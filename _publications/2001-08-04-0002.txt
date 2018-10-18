@@ -1,0 +1,8 @@
+@inproceedings{RothYi01,
+    author = {D. Roth and W. Yih},
+    title = {Relational Learning via Propositional Algorithms: An Information Extraction Case Study},
+    booktitle = {IJCAI},
+    pages = {1257--1263},
+    year = {2001},
+    url = "http://cogcomp.org/papers/ijcai01.pdf",
+}

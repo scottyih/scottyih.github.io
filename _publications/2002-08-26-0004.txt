@@ -1,0 +1,8 @@
+@inproceedings{RothYi02,
+    author = {D. Roth and W. Yih},
+    title = {Probabilistic Reasoning for Entity and Relation Recognition},
+    booktitle = {COLING},
+    pages = {835--841},
+    year = {2002},
+    url = "http://cogcomp.org/papers/er-coling02.pdf",
+}

@@ -1,0 +1,8 @@
+@inproceedings{YihChKi04,
+    author = {W. Yih and P. Chang and W. Kim},
+    title = {Mining Online Deal Forums for Hot Deals},
+    booktitle = {WI},
+    pages = {384--390},
+    year = {2004},
+    publisher = {IEEE Computer Society},
+ }

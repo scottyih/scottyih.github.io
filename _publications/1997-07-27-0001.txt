@@ -1,0 +1,11 @@
+@inproceedings{Hsu:AAAI97,
+year = { 1997 },
+title = { Template-Based Information Mining from {HTML} Documents },
+pages = { 256--262 },
+note = { (the top conference in AI) },
+month = { July },
+keywords = { Data mining, Semantic, Information retrieval, information extraction, information mining, semistructured document },
+booktitle = { Proceedings of the Fourteenth National Conference on Artificial Intelligence ({AAAI-97}) },
+author = { Hsu, Jane Yung-jen and Yih, Wen-tau },
+address = { Providence, USA },
+}

@@ -1,0 +1,9 @@
+@inproceedings{PRYZT04,
+    author = {V. Punyakanok and D. Roth and W. Yih and D. Zimak and Y. Tu},
+    title = {Semantic Role Labeling via Generalized Inference over Classifiers Shared Task Paper},
+    booktitle = {CoNLL},
+    pages = {130--133},
+    year = {2004},
+    editor = {Hwee Tou Ng and Ellen Riloff},
+    url = "http://cogcomp.org/papers/PRYZT04.pdf",
+}

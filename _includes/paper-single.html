@@ -11,7 +11,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
         <a href="{{ post.permalink }}" rel="permalink" class="archive__item-title">{{ title }}</a> <BR>
-        <i>{{ post.author }}</i>. In <i>{{ post.venue }}</i>. {% if post.award %} <b>{{ post.award }}.</b> {% endif %} <BR>
+        <i>{{ post.author }}</i>. <i>{{ post.venue }}</i>. {% if post.award %} <b>{{ post.award }}.</b> {% endif %} <BR>
         {% if post.paperurl or post.bibtex or post.slides_poster or post.video or post.dataset or post.code %} 
         [
         {% assign first_link = true %}

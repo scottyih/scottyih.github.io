@@ -1,5 +1,5 @@
 @InProceedings{peters-EtAl:2018,
-  author    = {Matthew Peters and Mark Neumann and Wen-tau Yih and Luke Zettlemoyer},
+  author    = {Matthew Peters and Mark Neumann and Luke Zettlemoyer and Wen-tau Yih},
   title     = {Dissecting Contextual Word Embeddings: {A}rchitecture and Representation},
   booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
   month     = {October},

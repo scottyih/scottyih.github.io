@@ -1,6 +1,6 @@
 @InProceedings{tandon-EtAl:2018,
   author    = {Niket Tandon and Bhavana Dalvi and Joel Grus and Wen-tau Yih and Antoine Bosselut and Peter Clark},
-  title     = {Process Paragraph Comprehension using World Knowledge},
+  title     = {Reasoning about Actions and State Changes by Injecting Commonsense Knowledge},
   booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
   month     = {October},
   year      = {2018},

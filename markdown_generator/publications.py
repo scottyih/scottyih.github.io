@@ -25,7 +25,7 @@ import pandas as pd
 # 
 # Pandas makes this easy with the read_excel function. 
 # 
-publications = pd.read_excel("publications.xls", sheetname='main')
+publications = pd.read_excel("publications.xlsx", sheetname='main')
 
 
 # ## Escape special characters

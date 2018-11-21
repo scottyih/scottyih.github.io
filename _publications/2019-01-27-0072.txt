@@ -1,7 +1,7 @@
-"@inproceedings{Tafjord-QuaRel,
+@inproceedings{Tafjord-QuaRel,
 author = {Oyvind Tafjord and Peter Clark and Matt Gardner and Yih, Wen-tau and Ashish Sabharwal},
 title = {{QuaRel}: A Dataset and Models for Answering Questions about Qualitative Relationships},
 booktitle = {Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI)},
 year = {2019},
 month = {January},
-}"
+}

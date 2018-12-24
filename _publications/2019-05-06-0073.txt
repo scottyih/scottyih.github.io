@@ -1,0 +1,8 @@
+'@inproceedings{huang2019flowqa,
+  title={{FlowQA}: Grasping Flow in History for Conversational Machine Comprehension},
+  author={Huang, Hsin-Yuan and Choi, Eunsol and Yih, Wen-tau},
+ booktitle = {Proceedings of the International Conference on Learning Representations (ICLR) 2019},
+  year={2019},
+  month={May},
+  address={New Orleans, Louisiana}
+}

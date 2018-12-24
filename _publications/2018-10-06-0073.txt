@@ -1,6 +1,0 @@
-@article{huang2018flowqa,
-  title={FlowQA: Grasping Flow in History for Conversational Machine Comprehension},
-  author={Huang, Hsin-Yuan and Choi, Eunsol and Yih, Wen-tau},
-  journal={arXiv preprint arXiv:1810.06683},
-  year={2018}
-}

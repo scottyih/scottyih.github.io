@@ -1,0 +1,8 @@
+@InProceedings{dalvi-EtAl:2018:N18-1,
+  author    = {Xinya Du and Bhavana Dalvi and Niket Tandon and Antoine Bosselut and Yih, Wen-tau and Peter Clark and Claire Cardie},
+  title     = {Be Consistent! Improving Procedural Text Comprehension using Label Consistency},
+  booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
+  month     = {June},
+  year      = {2019},
+  address   = {Minneapolis, USA},
+  publisher = {Association for Computational Linguistics} }

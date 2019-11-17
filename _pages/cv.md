@@ -12,7 +12,7 @@ redirect_from:
 <a style="line-height: 1.5;" href="../files/CV_Yih.pdf"><span style="color: #333333;"><span style="font-size: medium;">Available in PDF format.</span></span></a>
 
 {% comment %} 
-
+ 
 Education
 ======
 * B.S. in Github, Github University, 2012

@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">Google Scholar profile</a></u> or on my <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/1725604">Semantic Scholar profile</a></u>.
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">Google Scholar profile</a></u> or on my <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/144105277">Semantic Scholar profile</a></u>.
 
 {% for post in site.publications reversed %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

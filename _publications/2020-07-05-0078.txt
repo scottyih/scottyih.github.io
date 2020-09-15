@@ -1,0 +1,13 @@
+@inproceedings{chen-yih-2020-open,
+    title = "Open-Domain Question Answering",
+    author = "Chen, Danqi  and
+      Yih, Wen-tau",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-tutorials.8",
+    doi = "10.18653/v1/2020.acl-tutorials.8",
+    pages = "34--37",
+}

@@ -1,0 +1,15 @@
+@InProceedings{karpukhin-etal-emnlp2020-dpr,
+   title = "Dense Passage Retrieval for Open-Domain Question Answering",
+    author = "Karpukhin, Vladimir  and
+      Oguz, Barlas  and
+      Min, Sewon  and
+      Lewis, Patrick  and
+      Wu, Ledell  and
+      Edunov, Sergey  and
+      Chen, Danqi  and
+      Yih, Wen-tau",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+ }

@@ -1,0 +1,12 @@
+@InProceedings{li-etal-emnlp2020-elq,
+  title     = {Efficient One-Pass End-to-End Entity Linking for Questions},
+    author = "Li, Belinda Z.  and
+      Min, Sewon  and
+      Iyer, Srinivasan  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+ }

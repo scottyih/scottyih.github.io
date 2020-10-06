@@ -1,0 +1,12 @@
+@InProceedings{yao-etal-emnlp2020-mispL,
+   title = "An Imitation Game for Learning Semantic Parsers from User Interaction",
+    author = "Yao, Ziyu  and
+      Tang, Yiqi  and
+      Yih, Wen-tau  and
+      Sun, Huan  and
+      Su, Yu",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+ }

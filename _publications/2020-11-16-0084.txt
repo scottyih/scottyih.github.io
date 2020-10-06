@@ -1,0 +1,13 @@
+@InProceedings{qiu-etal-emnlp2020-blockBERT,
+  title     = {Blockwise Self-Attention for Long Document Understanding},
+    author = "Qiu, Jiezhong  and
+      Ma, Hao  and
+      Levy, Omer  and
+      Yih, Wen-tau  and
+      Wang, Sinong  and
+      Tang, Jie",
+    booktitle = "EMNLP Findings",
+    month = nov,
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+ }

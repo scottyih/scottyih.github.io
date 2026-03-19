@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Scott Wen-tau Yih"
 title_separator          : "-"
 name                     : &name "Scott Yih"
-description              : &description "personal description"
+description              : &description "Personal website of Scott Wen-tau Yih, Research Scientist at Meta FAIR"
 url                      : "https://scottyih.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url : "http://127.0.0.1:4000"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-111263913-1"
+    tracking_id          :
 
 
 # Site Author
@@ -255,14 +255,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
+allowlist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

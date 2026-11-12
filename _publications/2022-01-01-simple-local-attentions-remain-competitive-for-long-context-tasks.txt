@@ -1,0 +1,22 @@
+@inproceedings{xiong-etal-2022-simple,
+    title = "Simple Local Attentions Remain Competitive for Long-Context Tasks",
+    author = "Xiong, Wenhan  and
+      Oguz, Barlas  and
+      Gupta, Anchit  and
+      Chen, Xilun  and
+      Liskovich, Diana  and
+      Levy, Omer  and
+      Yih, Wen-tau  and
+      Mehdad, Yashar",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.144/",
+    doi = "10.18653/v1/2022.naacl-main.144",
+    pages = "1975--1986"
+}

@@ -1,0 +1,7 @@
+@misc{structured-prompt-tuning,
+  title = {Structured Prompt Tuning},
+  author = {Chi-Liang Liu and Hung-yi Lee and Wen-tau Yih},
+  year = {2022},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2205.12309}
+}

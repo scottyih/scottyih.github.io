@@ -1,0 +1,23 @@
+@inproceedings{min-etal-2023-factscore,
+    title = "{FA}ct{S}core: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+    author = "Min, Sewon  and
+      Krishna, Kalpesh  and
+      Lyu, Xinxi  and
+      Lewis, Mike  and
+      Yih, Wen-tau  and
+      Koh, Pang  and
+      Iyyer, Mohit  and
+      Zettlemoyer, Luke  and
+      Hajishirzi, Hannaneh",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.741/",
+    doi = "10.18653/v1/2023.emnlp-main.741",
+    pages = "12076--12100"
+}

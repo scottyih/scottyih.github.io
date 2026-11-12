@@ -1,0 +1,7 @@
+@inproceedings{group-level-data-selection-for-efficient-pretraining,
+ author = {Zichun Yu and Fei Peng and Jie Lei and Arnold Overwijk and Wen-tau Yih and Chenyan Xiong},
+ booktitle = {NeurIPS 2025},
+ title = {Group-Level Data Selection for Efficient Pretraining},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/hash/e389ad5c08184ebecaf0640e01588489-Abstract-Conference.html},
+ year = {2025}
+}

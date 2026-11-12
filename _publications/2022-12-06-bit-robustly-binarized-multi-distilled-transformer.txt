@@ -1,0 +1,7 @@
+@inproceedings{bit-robustly-binarized-multi-distilled-transformer,
+ author = {Zechun Liu and Barlas Oguz and Aasish Pappu and Lin Xiao and Wen-tau Yih and Meng Li and Raghuraman Krishnamoorthi and Yashar Mehdad},
+ booktitle = {NeurIPS 2022},
+ title = {BiT: Robustly Binarized Multi-distilled Transformer},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html},
+ year = {2022}
+}

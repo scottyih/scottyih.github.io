@@ -1,0 +1,22 @@
+{% if include.paper.code or include.paper.dataset or include.paper.model or include.paper.project %}
+  <span class="publication-release-links">
+    {% assign release_fields = "code,dataset,model,project" | split: "," %}
+    {% assign first_release = true %}
+    {% for field in release_fields %}
+      {% assign release_value = include.paper[field] %}
+      {% if release_value %}
+        {% if release_value.first %}
+          {% assign release_urls = release_value %}
+        {% else %}
+          {% assign release_urls = "" | split: "," %}
+          {% assign release_urls = release_urls | push: release_value %}
+        {% endif %}
+        {% for release_url in release_urls %}
+          {% if include.prefix or first_release == false %} | {% endif %}
+          <a href="{{ release_url | escape }}" title="{{ release_url | escape }}">{{ field }}{% if release_urls.size > 1 %} {{ forloop.index }}{% endif %}</a>
+          {% assign first_release = false %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </span>
+{% endif %}

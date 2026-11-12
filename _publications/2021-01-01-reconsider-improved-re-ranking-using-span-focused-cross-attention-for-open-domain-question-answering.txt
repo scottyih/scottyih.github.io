@@ -1,0 +1,24 @@
+@inproceedings{iyer-etal-2021-reconsider,
+    title = "{RECONSIDER}: Improved Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering",
+    author = "Iyer, Srinivasan  and
+      Min, Sewon  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau",
+    editor = "Toutanova, Kristina  and
+      Rumshisky, Anna  and
+      Zettlemoyer, Luke  and
+      Hakkani-Tur, Dilek  and
+      Beltagy, Iz  and
+      Bethard, Steven  and
+      Cotterell, Ryan  and
+      Chakraborty, Tanmoy  and
+      Zhou, Yichao",
+    booktitle = "Proceedings of the 2021 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.100/",
+    doi = "10.18653/v1/2021.naacl-main.100",
+    pages = "1280--1287"
+}

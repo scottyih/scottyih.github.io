@@ -1,0 +1,23 @@
+@inproceedings{oguz-etal-2022-unik,
+    title = "{U}ni{K}-{QA}: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering",
+    author = "Oguz, Barlas  and
+      Chen, Xilun  and
+      Karpukhin, Vladimir  and
+      Peshterliev, Stan  and
+      Okhonko, Dmytro  and
+      Schlichtkrull, Michael  and
+      Gupta, Sonal  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {NAACL} 2022",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.115/",
+    doi = "10.18653/v1/2022.findings-naacl.115",
+    pages = "1535--1546"
+}

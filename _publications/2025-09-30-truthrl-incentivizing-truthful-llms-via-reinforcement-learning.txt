@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v306-wei26ab,
+  title = 	 {{T}ruth{RL}: Incentivizing Truthful {LLM}s via Reinforcement Learning},
+  author =       {Wei, Zhepei and Yang, Xiao and Sun, Kai and Wang, Jiaqi and Shao, Rulin and Chen, Jingxiang and Kachuee, Mohammad and Gollapudi, Teja and Liao, Yiwei and Scheffer, Nicolas and Wanga, Rakesh and Kumar, Anuj and Meng, Yu and Yih, Wen-tau and Dong, Xin Luna},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {134156--134175},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26ab/wei26ab.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/wei26ab.html},
+  abstract = 	 {While large language models (LLMs) have demonstrated strong performance on factoid question answering, they are still prone to hallucination and untruthful responses, particularly when tasks demand information outside their parametric knowledge. Indeed, truthfulness requires more than accuracy—models must also recognize uncertainty and abstain when unsure to avoid hallucinations. This presents a fundamental challenge for existing methods: approaches that optimize for accuracy often amplify hallucinations, while those that encourage abstention can become overly conservative, sacrificing correct answers. Both extremes ultimately compromise truthfulness. In this work, we present TruthRL, a general reinforcement learning (RL) framework that directly optimizes the truthfulness of LLMs. Specifically, we implement TruthRL using GRPO with a simple yet effective ternary reward that distinguishes correct answers, hallucinations, and abstentions. It incentivizes models to reduce hallucinations not only by providing correct responses, but also by enabling abstention when uncertain, thereby improving truthfulness. Extensive experiments across four knowledge-intensive benchmarks show that TruthRL significantly reduces hallucinations (e.g., 43.5% $\rightarrow$ 19.4%) and improves truthfulness (e.g., 5.3% $\rightarrow$ 37.2%), with consistent gains across various backbone models. Analysis shows that the improvement of TruthRL arises from enhanced capability of LLMs to recognize their knowledge boundary, hence avoiding being overly conservative as the baselines are.}
+}

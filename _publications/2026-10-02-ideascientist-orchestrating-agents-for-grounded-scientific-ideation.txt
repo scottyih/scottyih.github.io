@@ -1,0 +1,7 @@
+@misc{ideascientist-orchestrating-agents-for-grounded-scientific-ideation,
+  title = {IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation},
+  author = {Jiarui Liu and Renjie Tao and Yiwei Liao and Chuanyang Jin and Kai Sun and Xiao Yang and Xinyuan Zhang and Xilun Chen and Zhuangqun Huang and Lechen Zhang and Yongjin Yang and Yinghui He and Weihao Xuan and Rakesh Wanga and Anuj Kumar and Mona T. Diab and Wen-tau Yih and Xin Luna Dong},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2610.04074}
+}

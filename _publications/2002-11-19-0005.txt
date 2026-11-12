@@ -1,5 +1,5 @@
 @inproceedings{RCLMNPRSY02,
-    author = {D. Roth and C. Cumby and X. Li and P. Morie and R. Nagarajan and V. Punyakanok and N. Rizzolo and K. Small and W. Yih},
+    author = {D. Roth and C. Cumby and X. Li and P. Morie and R. Nagarajan and V. Punyakanok and N. Rizzolo and K. Small and Wen-tau Yih},
     title = {Question-Answering via Enhanced Understanding of Questions},
     booktitle = {TREC},
     year = {2002},

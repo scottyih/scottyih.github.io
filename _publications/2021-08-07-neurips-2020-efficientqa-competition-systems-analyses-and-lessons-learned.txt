@@ -1,0 +1,7 @@
+@article{neurips-2020-efficientqa-competition-systems-analyses-and-lessons-learned,
+  title = {NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned},
+  author = {Sewon Min and Jordan Boyd-Graber and Chris Alberti and Danqi Chen and Eunsol Choi and Michael Collins and Kelvin Guu and Hannaneh Hajishirzi and Kenton Lee and Jennimaria Palomaki and Colin Raffel and Adam Roberts and Tom Kwiatkowski and Patrick Lewis and Yuxiang Wu and Heinrich Küttler and Linqing Liu and Pasquale Minervini and Pontus Stenetorp and Sebastian Riedel and Sohee Yang and Minjoon Seo and Gautier Izacard and Fabio Petroni and Lucas Hosseini and Nicola De Cao and Edouard Grave and Ikuya Yamada and Sonse Shimaoka and Masatoshi Suzuki and Shumpei Miyawaki and Shun Sato and Ryo Takahashi and Jun Suzuki and Martin Fajcik and Martin Docekal and Karel Ondrej and Pavel Smrz and Hao Cheng and Yelong Shen and Xiaodong Liu and Pengcheng He and Weizhu Chen and Jianfeng Gao and Barlas Oguz and Xilun Chen and Vladimir Karpukhin and Stan Peshterliev and Dmytro Okhonko and Michael Schlichtkrull and Sonal Gupta and Yashar Mehdad and Wen-tau Yih},
+  year = {2021},
+  journal = {NeurIPS 2020 Competition and Demonstration Track},
+  url = {http://proceedings.mlr.press/v133/min21a.html}
+}

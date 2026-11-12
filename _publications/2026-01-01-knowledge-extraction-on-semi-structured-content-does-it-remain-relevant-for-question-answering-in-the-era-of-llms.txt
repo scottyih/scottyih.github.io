@@ -1,0 +1,29 @@
+@inproceedings{sun-etal-2026-knowledge,
+    title = "Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the Era of {LLM}s?",
+    author = "Sun, Kai  and
+      Huang, Yin  and
+      Mehra, Srishti  and
+      Kachuee, Mohammad  and
+      Chen, Xilun  and
+      Tao, Renjie  and
+      Lin, Zhaojiang  and
+      Jessee, Andrea  and
+      Shah, Nirav  and
+      Betty, Alex L  and
+      Liu, Yue  and
+      Kumar, Anuj  and
+      Yih, Wen-tau  and
+      Dong, Xin Luna",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.91/",
+    doi = "10.18653/v1/2026.eacl-long.91",
+    pages = "2055--2074",
+    ISBN = "979-8-89176-380-7"
+}

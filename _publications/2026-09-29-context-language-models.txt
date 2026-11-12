@@ -1,0 +1,7 @@
+@misc{context-language-models,
+  title = {Context Language Models},
+  author = {Rulin Shao and Shannon Zejiang Shen and Junjie Oscar Yin and Yuetai Li and Minheng Wang and Hamish Ivison and Radha Poovendran and Nathan Lambert and Teng Xiao and Mike Lewis and Wen-tau Yih and Luke Zettlemoyer and Pang Wei Koh},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2609.37725}
+}

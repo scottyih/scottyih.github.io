@@ -1,0 +1,16 @@
+@inproceedings{chen-etal-2024-shot,
+    title = "Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering",
+    author = "Chen, Mingda  and
+      Chen, Xilun  and
+      Yih, Wen-tau",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-long.12/",
+    doi = "10.18653/v1/2024.eacl-long.12",
+    pages = "190--208"
+}

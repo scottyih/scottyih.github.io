@@ -1,0 +1,11 @@
+{% assign paper_rankings = site.data.publication_rankings.papers[include.paper.permalink] %}
+{% assign conference_rankings = paper_rankings | where: 'kind', 'conference' %}
+{% if conference_rankings.size > 0 %}{% assign paper_rankings = conference_rankings %}{% endif %}
+{% for ranking in paper_rankings %}
+  {% if ranking.verified and ranking.source_url and ranking.list_date %}
+    <div class="publication-ranking">
+      <a href="{{ ranking.source_url | escape }}"{% if ranking.list_title %} title="{{ ranking.list_title | escape }}"{% endif %}>{% if ranking.label %}{{ ranking.label | escape }}{% else %}Ranked #{{ ranking.rank }} for {{ ranking.conference | escape }} {{ ranking.conference_year }}{% endif %}</a>
+      <span class="publication-ranking__date">— {{ ranking.source | escape }} ({% if ranking.list_date_type == 'updated' %}list updated {% endif %}{{ ranking.list_date | escape }}{% unless ranking.list_date_type == 'updated' %} list{% endunless %})</span>
+    </div>
+  {% endif %}
+{% endfor %}

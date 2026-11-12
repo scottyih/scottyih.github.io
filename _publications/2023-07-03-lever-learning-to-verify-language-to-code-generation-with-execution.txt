@@ -1,0 +1,7 @@
+@inproceedings{lever-learning-to-verify-language-to-code-generation-with-execution,
+  title = {LEVER: Learning to Verify Language-to-Code Generation with Execution},
+  author = {Ansong Ni and Srini Iyer and Dragomir Radev and Veselin Stoyanov and Wen-tau Yih and Sida Wang and Xi Victoria Lin},
+  year = {2023},
+  booktitle = {ICML 2023},
+  url = {https://proceedings.mlr.press/v202/ni23b}
+}

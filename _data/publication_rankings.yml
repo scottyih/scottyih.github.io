@@ -1,0 +1,354 @@
+# Verified against user-provided saved HTML; list versions and page update dates are preserved.
+source: Paper Digest
+reviewed_on: '2026-10-23'
+publications_checked: 179
+lists:
+- id: acl_march_2026
+  title: Most Influential ACL Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-acl-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential ACL Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: 85625d8b41a1da47e511249650fca64d0547a0059536670ca0966bd2cfa7c766
+  matches_found: 3
+- id: emnlp_march_2026
+  title: Most Influential EMNLP Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-emnlp-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential EMNLP Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: e919a83c8187b6c2c73955eea042c98a9679bfc5472cedc3a3112e751a6b5853
+  matches_found: 4
+- id: naacl_march_2026
+  title: Most Influential NAACL Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-naacl-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential NAACL Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: 6361ca8d03bb615017bbf7d41671346e6074438c6da8d12a57adc53f6c296152
+  matches_found: 4
+- id: icml_march_2026
+  title: Most Influential ICML Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-icml-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential ICML Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: dddf91daae0876f6146cefc2c3d0374ba8dcd3c38591f6d3730e9cbfa8131ee4
+  matches_found: 1
+- id: nips_march_2026
+  title: Most Influential NIPS Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential NIPS Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: 88645582f63c8e8ee320f50ab56fc3d0c414a7c3a2a49ad5d7c84fca087ec913
+  matches_found: 1
+- id: nlp_2016_2025_september_2026
+  title: 'Paper Digest: 100 Must-Read Natural Language Processing Papers of the Past 10 Years (2016-2025)'
+  source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-natural-language-processing-papers-of-the-past-10-years-2016-2025/
+  published_date: '2026-09-18'
+  updated_date: '2026-09-20'
+  verified_on: '2026-10-23'
+  selection: The ten most-cited papers across ACL, EMNLP, and NAACL per year from 2016 to 2025; NAACL was not held in 2017,
+    2020, or 2023.
+  source_file: ../Paper Digest_ 100 Must-Read Natural Language Processing Papers of the Past 10 Years (2016-2025) – Paper
+    Digest.html
+  source_sha256: 22aafd1bd0814a42e38fa4f8c3bbbc1abd030f6c75c3f0597f11960359ccfb46
+  matches_found: 3
+- id: ml_2016_2025_september_2026
+  title: 'Paper Digest: 100 Must-Read Machine Learning Papers of the Past 10 Years (2016-2025)'
+  source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-machine-learning-papers-of-the-past-10-years-2016-2025/
+  published_date: '2026-09-18'
+  updated_date: '2026-09-20'
+  verified_on: '2026-10-23'
+  selection: The ten most-cited papers across NeurIPS, ICML, and ICLR per year from 2016 to 2025; ICLR coverage starts in
+    2018.
+  source_file: ../Paper Digest_ 100 Must-Read Machine Learning Papers of the Past 10 Years (2016-2025) – Paper Digest.html
+  source_sha256: 662116e7faa18abc9d0db3e71ad88cca23de05dea0819d3a61aa6f5cbf663c0a
+  matches_found: 1
+- id: iclr_march_2026
+  title: Most Influential ICLR Papers (2026-03 Version)
+  source_url: https://www.paperdigest.org/2026/03/most-influential-iclr-papers-2026-03-version/
+  list_version: 2026-03
+  published_date: '2026-03-27'
+  updated_date: '2026-06-24'
+  verified_on: '2026-10-23'
+  selection: The 15 most influential papers per conference year, ranked using citations from research papers and granted patents.
+  source_file: ../Most Influential ICLR Papers (2026-03 Version) – Paper Digest.html
+  source_sha256: 9435c396d0ca81905432c4d607e974d37cec8c1967781ca40eabab00e616fd18
+  years_covered:
+  - '2018'
+  - '2019'
+  - '2020'
+  - '2021'
+  - '2022'
+  - '2023'
+  - '2024'
+  - '2025'
+  rows_checked: 120
+  matches_found: 0
+papers:
+  /publication/2015-07-28-0055:
+  - verified: true
+    kind: conference
+    list_id: acl_march_2026
+    rank: 8
+    conference: ACL
+    conference_year: 2015
+    label: '#8 most influential paper at ACL-IJCNLP 2015'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-acl-papers-2026-03-version/
+    list_title: Most Influential ACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'Semantic Parsing Via Staged Query Graph Generation: Question Answering With Knowledge Base'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=acl-P15-1128-2015-12-30
+  /publication/2014-06-23-0047:
+  - verified: true
+    kind: conference
+    list_id: acl_march_2026
+    rank: 11
+    conference: ACL
+    conference_year: 2014
+    label: '#11 most influential paper at ACL 2014'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-acl-papers-2026-03-version/
+    list_title: Most Influential ACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: Semantic Parsing For Single-Relation Question Answering
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=acl-P14-2105-2014-12-30
+  /publication/2013-08-04-0044:
+  - verified: true
+    kind: conference
+    list_id: acl_march_2026
+    rank: 13
+    conference: ACL
+    conference_year: 2013
+    label: '#13 most influential paper at ACL 2013'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-acl-papers-2026-03-version/
+    list_title: Most Influential ACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: Question Answering Using Enhanced Lexical Semantic Models
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=acl-P13-1171-2013-12-30
+  /publication/2023-01-01-factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation:
+  - verified: true
+    kind: conference
+    list_id: emnlp_march_2026
+    rank: 4
+    conference: EMNLP
+    conference_year: 2023
+    label: '#4 most influential paper at EMNLP 2023'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-emnlp-papers-2026-03-version/
+    list_title: Most Influential EMNLP Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-2023.emnlp-main.741-2023-12-22
+  - verified: true
+    kind: pooled
+    list_id: nlp_2016_2025_september_2026
+    rank: 5
+    cohort: ACL/EMNLP 2023
+    label: '#5 most-cited paper across ACL/EMNLP 2023'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-natural-language-processing-papers-of-the-past-10-years-2016-2025/
+    list_title: 'Paper Digest: 100 Must-Read Natural Language Processing Papers of the Past 10 Years (2016-2025)'
+    list_date: September 20, 2026
+    list_date_type: updated
+    evidence_title: 'FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-2023.emnlp-main.741-2023-12-22
+  /publication/2020-11-16-0082:
+  - verified: true
+    kind: conference
+    list_id: emnlp_march_2026
+    rank: 1
+    conference: EMNLP
+    conference_year: 2020
+    label: '#1 most influential paper at EMNLP 2020'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-emnlp-papers-2026-03-version/
+    list_title: Most Influential EMNLP Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: Dense Passage Retrieval For Open-Domain Question Answering
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-2020.emnlp-main.550-2020-11-12
+  - verified: true
+    kind: pooled
+    list_id: nlp_2016_2025_september_2026
+    rank: 3
+    cohort: ACL/EMNLP 2020
+    label: '#3 most-cited paper across ACL/EMNLP 2020'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-natural-language-processing-papers-of-the-past-10-years-2016-2025/
+    list_title: 'Paper Digest: 100 Must-Read Natural Language Processing Papers of the Past 10 Years (2016-2025)'
+    list_date: September 20, 2026
+    list_date_type: updated
+    evidence_title: Dense Passage Retrieval For Open-Domain Question Answering
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-2020.emnlp-main.550-2020-11-12
+  /publication/2018-10-31-0070:
+  - verified: true
+    kind: conference
+    list_id: emnlp_march_2026
+    rank: 8
+    conference: EMNLP
+    conference_year: 2018
+    label: '#8 most influential paper at EMNLP 2018'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-emnlp-papers-2026-03-version/
+    list_title: Most Influential EMNLP Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'QuAC: Question Answering In Context'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-D18-1241-2018-11-02
+  /publication/2015-09-17-0056:
+  - verified: true
+    kind: conference
+    list_id: emnlp_march_2026
+    rank: 6
+    conference: EMNLP
+    conference_year: 2015
+    label: '#6 most influential paper at EMNLP 2015'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-emnlp-papers-2026-03-version/
+    list_title: Most Influential EMNLP Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'WikiQA: A Challenge Dataset For Open-Domain Question Answering'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=emnlp-D15-1237-2015-12-30
+  /publication/2024-01-01-replug-retrieval-augmented-black-box-language-models:
+  - verified: true
+    kind: conference
+    list_id: naacl_march_2026
+    rank: 1
+    conference: NAACL
+    conference_year: 2024
+    label: '#1 most influential paper at NAACL 2024'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-naacl-papers-2026-03-version/
+    list_title: Most Influential NAACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'REPLUG: Retrieval-Augmented Black-Box Language Models'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=naacl-2024.naacl-long.463-2024-06-20
+  - verified: true
+    kind: pooled
+    list_id: nlp_2016_2025_september_2026
+    rank: 5
+    cohort: ACL/EMNLP/NAACL 2024
+    label: '#5 most-cited paper across ACL/EMNLP/NAACL 2024'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-natural-language-processing-papers-of-the-past-10-years-2016-2025/
+    list_title: 'Paper Digest: 100 Must-Read Natural Language Processing Papers of the Past 10 Years (2016-2025)'
+    list_date: September 20, 2026
+    list_date_type: updated
+    evidence_title: 'REPLUG: Retrieval-Augmented Black-Box Language Models'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=naacl-2024.naacl-long.463-2024-06-20
+  /publication/2024-01-01-trusting-your-evidence-hallucinate-less-with-context-aware-decoding:
+  - verified: true
+    kind: conference
+    list_id: naacl_march_2026
+    rank: 8
+    conference: NAACL
+    conference_year: 2024
+    label: '#8 most influential paper at NAACL 2024'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-naacl-papers-2026-03-version/
+    list_title: Most Influential NAACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'Trusting Your Evidence: Hallucinate Less with Context-aware Decoding'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=naacl-2024.naacl-short.69-2024-06-20
+  /publication/2022-01-01-diffcse-difference-based-contrastive-learning-for-sentence-embeddings:
+  - verified: true
+    kind: conference
+    list_id: naacl_march_2026
+    rank: 10
+    conference: NAACL
+    conference_year: 2022
+    label: '#10 most influential paper at NAACL 2022'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-naacl-papers-2026-03-version/
+    list_title: Most Influential NAACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=naacl-2022.naacl-main.311-2022-07-09
+  /publication/2013-05-27-0043:
+  - verified: true
+    kind: conference
+    list_id: naacl_march_2026
+    rank: 1
+    conference: NAACL
+    conference_year: 2013
+    label: '#1 most influential paper at NAACL-HLT 2013'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-naacl-papers-2026-03-version/
+    list_title: Most Influential NAACL Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: Linguistic Regularities In Continuous Space Word Representations
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=naacl-N13-1090-2013-12-30
+  /publication/2023-07-03-ds-1000-a-natural-and-reliable-benchmark-for-data-science-code-generation:
+  - verified: true
+    kind: conference
+    list_id: icml_march_2026
+    rank: 15
+    conference: ICML
+    conference_year: 2023
+    label: '#15 most influential paper at ICML 2023'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-icml-papers-2026-03-version/
+    list_title: Most Influential ICML Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: 'DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation'
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=icml-forum-id-WszMYJdo0p-2023-06-27
+  /publication/2020-12-06-0085:
+  - verified: true
+    kind: conference
+    list_id: nips_march_2026
+    rank: 3
+    conference: NeurIPS
+    conference_year: 2020
+    label: '#3 most influential paper at NeurIPS 2020'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/
+    list_title: Most Influential NIPS Papers (2026-03 Version)
+    list_date: March 2026
+    list_date_type: version
+    evidence_title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=nips-6b493230205f780e1bc26945df7481e5-Abstract.html-2020-11-17
+  - verified: true
+    kind: pooled
+    list_id: ml_2016_2025_september_2026
+    rank: 4
+    cohort: NeurIPS/ICML/ICLR 2020
+    label: '#4 most-cited paper across NeurIPS/ICML/ICLR 2020'
+    source: Paper Digest
+    source_url: https://www.paperdigest.org/2026/09/paper-digest-100-must-read-machine-learning-papers-of-the-past-10-years-2016-2025/
+    list_title: 'Paper Digest: 100 Must-Read Machine Learning Papers of the Past 10 Years (2016-2025)'
+    list_date: September 20, 2026
+    list_date_type: updated
+    evidence_title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+    evidence_paper_url: https://www.paperdigest.org/paper/?paper_id=nips-6b493230205f780e1bc26945df7481e5-Abstract.html-2020-11-17
+ranked_paper_count: 13
+lists_checked: 8

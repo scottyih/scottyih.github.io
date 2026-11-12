@@ -1,0 +1,19 @@
+@inproceedings{xiong-etal-2023-adapting,
+    title = "Adapting Pretrained Text-to-Text Models for Long Text Sequences",
+    author = "Xiong, Wenhan  and
+      Gupta, Anchit  and
+      Toshniwal, Shubham  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.370/",
+    doi = "10.18653/v1/2023.findings-emnlp.370",
+    pages = "5566--5578"
+}

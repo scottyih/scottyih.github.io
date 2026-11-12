@@ -1,6 +1,6 @@
 @inproceedings{yih2007improving,
   title={Improving similarity measures for short segments of text},
-  author={Yih, Wen-Tau and Meek, Christopher},
+  author={Yih, Wen-tau and Meek, Christopher},
   booktitle={AAAI},
   volume={7},
   number={7},

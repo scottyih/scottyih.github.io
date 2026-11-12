@@ -1,0 +1,7 @@
+@misc{chameleon-mixed-modal-early-fusion-foundation-models,
+  title = {Chameleon: Mixed-modal early-fusion foundation models},
+  author = {Chameleon Team},
+  year = {2024},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2405.09818}
+}

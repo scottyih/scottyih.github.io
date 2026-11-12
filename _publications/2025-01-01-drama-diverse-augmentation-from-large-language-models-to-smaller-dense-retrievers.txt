@@ -1,0 +1,22 @@
+@inproceedings{ma-etal-2025-drama,
+    title = "{DRAMA}: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers",
+    author = "Ma, Xueguang  and
+      Lin, Xi Victoria  and
+      Oguz, Barlas  and
+      Lin, Jimmy  and
+      Yih, Wen-tau  and
+      Chen, Xilun",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1457/",
+    doi = "10.18653/v1/2025.acl-long.1457",
+    pages = "30170--30186",
+    ISBN = "979-8-89176-251-0"
+}

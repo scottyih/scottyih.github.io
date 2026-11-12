@@ -1,0 +1,20 @@
+<div class="selected-publications">
+  {% assign representative_papers = site.publications | where: "selected", true | sort: "selected_rank" %}
+  {% assign award_papers = site.publications | where_exp: "paper", "paper.award" | sort: "date" | reverse %}
+  {% assign selected_papers = representative_papers | concat: award_papers | uniq %}
+  {% for paper in selected_papers %}
+      <article class="selected-paper">
+        {% assign paper_year = paper.date | date: "%Y" %}
+        <p class="selected-paper__venue">{{ paper.venue }}{% unless paper.venue contains paper_year %} · {{ paper_year }}{% endunless %}</p>
+        {% if paper.award %}<p>{% include publication-award.html paper=paper %}</p>{% endif %}
+        <h3><a href="{{ paper.permalink | relative_url }}">{{ paper.title }}</a></h3>
+        <p>{{ paper.highlight }}</p>
+        {% include publication-ranking.html paper=paper %}
+        {% include publication-citations.html paper=paper %}
+        <a class="selected-paper__link" href="{{ paper.paperurl | replace: '../', '/' }}">Read paper <span aria-hidden="true">↗</span></a>
+        {% if paper.code or paper.dataset or paper.model or paper.project %}
+          <div class="selected-paper__link">{% include publication-release-links.html paper=paper %}</div>
+        {% endif %}
+      </article>
+  {% endfor %}
+</div>

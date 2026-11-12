@@ -1,0 +1,22 @@
+@inproceedings{shi-etal-2024-replug,
+    title = "{REPLUG}: Retrieval-Augmented Black-Box Language Models",
+    author = "Shi, Weijia  and
+      Min, Sewon  and
+      Yasunaga, Michihiro  and
+      Seo, Minjoon  and
+      James, Richard  and
+      Lewis, Mike  and
+      Zettlemoyer, Luke  and
+      Yih, Wen-tau",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.463/",
+    doi = "10.18653/v1/2024.naacl-long.463",
+    pages = "8371--8384"
+}

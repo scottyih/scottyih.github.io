@@ -1,0 +1,7 @@
+@inproceedings{flexolmo-open-language-models-for-flexible-data-use,
+ author = {Weijia Shi and Akshita Bhagia and Kevin Farhat and Niklas Muennighoff and Jacob Morrison and Evan Walsh and Dustin Schwenk and Shayne Longpre and Jake Poznanski and Allyson Ettinger and Daogao Liu and Margaret Li and Mike Lewis and Wen-tau Yih and Dirk Groeneveld and Luca Soldaini and Kyle Lo and Noah Smith and Luke Zettlemoyer and Pang Wei Koh and Hanna Hajishirzi and Ali Farhadi and Sewon Min},
+ booktitle = {NeurIPS 2025},
+ title = {FlexOLMo: Open Language Models for Flexible Data Use},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/hash/f2621bfa8b39cd3c5a361273aa7ec4db-Abstract-Conference.html},
+ year = {2025}
+}

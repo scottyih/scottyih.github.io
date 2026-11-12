@@ -1,0 +1,7 @@
+@inproceedings{flame-factuality-aware-alignment-for-large-language-models,
+ author = {Sheng-Chieh Lin and Luyu Gao and Barlas Oguz and Wenhan Xiong and Jimmy Lin and Wen-tau Yih and Xilun Chen},
+ booktitle = {NeurIPS 2024},
+ title = {FLAME : Factuality-Aware Alignment for Large Language Models},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/hash/d16152d53088ad779ffa634e7bf66166-Abstract-Conference.html},
+ year = {2024}
+}

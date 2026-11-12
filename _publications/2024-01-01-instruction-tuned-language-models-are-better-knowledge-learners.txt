@@ -1,0 +1,23 @@
+@inproceedings{jiang-etal-2024-instruction,
+    title = "Instruction-tuned Language Models are Better Knowledge Learners",
+    author = "Jiang, Zhengbao  and
+      Sun, Zhiqing  and
+      Shi, Weijia  and
+      Rodriguez, Pedro  and
+      Zhou, Chunting  and
+      Neubig, Graham  and
+      Lin, Xi Victoria  and
+      Yih, Wen-tau  and
+      Iyer, Srinivasan",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.296/",
+    doi = "10.18653/v1/2024.acl-long.296",
+    pages = "5421--5434"
+}

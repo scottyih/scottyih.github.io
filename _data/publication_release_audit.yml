@@ -1,0 +1,2781 @@
+summary:
+  checked_on: '2026-10-23'
+  papers_checked: 179
+  status_counts:
+    no_verified_release_found: 85
+    historical_links_unverified: 9
+    verified_release: 83
+    source_unavailable: 2
+  publication_files_updated: 80
+  release_links_added: 167
+  historical_urls_replaced: 4
+  release_links_by_type:
+    code: 78
+    dataset: 43
+    project: 8
+    model: 60
+papers:
+- file: _publications/1997-07-27-0001.md
+  title: Template-Based Information Mining from HTML Documents
+  year: '1997'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/aaai97-hsu-yih.pdf
+  search_query: '"Template-Based Information Mining from HTML Documents" code data model release'
+- file: _publications/2001-08-04-0002.md
+  title: 'Relational Learning via Propositional Algorithms: An Information Extraction Case Study'
+  year: '2001'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/ijcai01.pdf
+  historical_links_unverified:
+    dataset: http://cogcomp.org/page/resource_view/31
+  search_query: '"Relational Learning via Propositional Algorithms: An Information Extraction Case Study" code data
+    model release'
+- file: _publications/2001-11-13-0003.md
+  title: Learning Components for A Question-Answering System
+  year: '2001'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/trec01.pdf
+  historical_links_unverified:
+    dataset: http://cogcomp.org/page/resource_view/8
+  search_query: '"Learning Components for A Question-Answering System" code data model release'
+- file: _publications/2002-08-26-0004.md
+  title: Probabilistic Reasoning for Entity & Relation Recognition
+  year: '2002'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/er-coling02.pdf
+  search_query: '"Probabilistic Reasoning for Entity & Relation Recognition" code data model release'
+- file: _publications/2002-11-19-0005.md
+  title: Question-Answering via Enhanced Understanding of Questions
+  year: '2002'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/trec02.pdf
+  historical_links_unverified:
+    dataset: http://cogcomp.org/page/resource_view/8
+  search_query: '"Question-Answering via Enhanced Understanding of Questions" code data model release'
+- file: _publications/2004-01-04-0006.md
+  title: 'Mapping Dependencies Trees: An Application to Question Answering'
+  year: '2004'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/PunyakanokRoYi04a.pdf
+  search_query: '"Mapping Dependencies Trees: An Application to Question Answering" code data model release'
+- file: _publications/2004-05-06-0007.md
+  title: A Linear Programming Formulation for Global Inference in Natural Language Tasks
+  year: '2004'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/RothYi04.pdf
+  historical_links_unverified:
+    dataset: http://cogcomp.org/page/resource_view/43
+  search_query: '"A Linear Programming Formulation for Global Inference in Natural Language Tasks" code data model
+    release'
+- file: _publications/2004-05-07-0008.md
+  title: Semantic Role Labeling via Generalized Inference over Classifiers
+  year: '2004'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/PRYZT04.pdf
+  search_query: '"Semantic Role Labeling via Generalized Inference over Classifiers" code data model release'
+- file: _publications/2004-08-23-0009.md
+  title: Semantic Role Labeling via Integer Linear Programming Inference
+  year: '2004'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/PRYZ04.pdf
+  search_query: '"Semantic Role Labeling via Integer Linear Programming Inference" code data model release'
+- file: _publications/2004-09-20-0010.md
+  title: Mining Online Deal Forums for Hot Deals
+  year: '2004'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/yihchki-wi04.pdf
+  search_query: '"Mining Online Deal Forums for Hot Deals" code data model release'
+- file: _publications/2005-05-31-0011.md
+  title: Learning and Inference for Information Extraction
+  year: '2005'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/Yih05.pdf
+  search_query: '"Learning and Inference for Information Extraction" code data model release'
+- file: _publications/2005-06-30-0012.md
+  title: Generalized Inference with Multiple Semantic Role Labeling Systems
+  year: '2005'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/KoomenPuRoYi-conll05.pdf
+  search_query: '"Generalized Inference with Multiple Semantic Role Labeling Systems" code data model release'
+- file: _publications/2005-07-30-0013.md
+  title: Learning and Inference over Constrained Output
+  year: '2005'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/PRYZ05.pdf
+  search_query: '"Learning and Inference over Constrained Output" code data model release'
+- file: _publications/2005-07-30-0014.md
+  title: The Necessity of Syntactic Parsing for Semantic Role Labeling
+  year: '2005'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/necessity_punyakanok.pdf
+  search_query: '"The Necessity of Syntactic Parsing for Semantic Role Labeling" code data model release'
+- file: _publications/2005-08-07-0015.md
+  title: Integer Linear Programming Inference for Conditional Random Fields
+  year: '2005'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/RothYi05.pdf
+  search_query: '"Integer Linear Programming Inference for Conditional Random Fields" code data model release'
+- file: _publications/2006-05-23-0016.md
+  title: Finding Advertising Keywords on Web Pages
+  year: '2006'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/YihGoCa-www06.pdf
+  search_query: '"Finding Advertising Keywords on Web Pages" code data model release'
+- file: _publications/2006-07-18-0017.md
+  title: Improved Discriminative Bilingual Word Alignment
+  year: '2006'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/MooreYiBo-Coling-ACL-06.pdf
+  search_query: '"Improved Discriminative Bilingual Word Alignment" code data model release'
+- file: _publications/2006-07-28-0018.md
+  title: Online Discriminative Spam Filter Training
+  year: '2006'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/GoodmanYih-ceas06.pdf
+  search_query: '"Online Discriminative Spam Filter Training" code data model release'
+- file: _publications/2006-07-28-0019.md
+  title: Learning at Low False Positive Rates
+  year: '2006'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/YihGoodmanHulten-ceas06.pdf
+  search_query: '"Learning at Low False Positive Rates" code data model release'
+- file: _publications/2007-01-06-0020.md
+  title: Multi-Document Summarization by Maximizing Informative Content-Words
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/IJCAI07-287.pdf
+  search_query: '"Multi-Document Summarization by Maximizing Informative Content-Words" code data model release'
+- file: _publications/2007-04-01-0026.md
+  title: The Importance of Syntactic Parsing and Inference in Semantic Role Labeling
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/PunyakanokRoYi07.pdf
+  search_query: '"The Importance of Syntactic Parsing and Inference in Semantic Role Labeling" code data model release'
+- file: _publications/2007-07-25-0021.md
+  title: Improving Similarity Measures for Short Segments of Text
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/YihMeek07.pdf
+  search_query: '"Improving Similarity Measures for Short Segments of Text" code data model release'
+- file: _publications/2007-08-02-0022.md
+  title: Improving Spam Filtering by Detecting Gray Mail
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/Improve_Spam_Filtering_by_Detecting_Gray_Mail.pdf
+  search_query: '"Improving Spam Filtering by Detecting Gray Mail" code data model release'
+- file: _publications/2007-08-12-0023.md
+  title: Raising the Baseline for High-Precision Text Classifiers
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/fpr497-kolcz.pdf
+  search_query: '"Raising the Baseline for High-Precision Text Classifiers" code data model release'
+- file: _publications/2007-09-20-0024.md
+  title: Site-Independent Template-Block Detection
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/KolczYih-PKDD07.pdf
+  search_query: '"Site-Independent Template-Block Detection" code data model release'
+- file: _publications/2007-11-30-0025.md
+  title: Global Inference for Entity and Relation Identification via a Linear Programming Formulation
+  year: '2007'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/RothYih07.pdf
+  search_query: '"Global Inference for Entity and Relation Identification via a Linear Programming Formulation"
+    code data model release'
+- file: _publications/2008-08-21-0027.md
+  title: 'Personalized Spam Filtering for Gray Mail '
+  year: '2008'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/ChangYiMc20-20CEAS-08.pdf
+  search_query: '"Personalized Spam Filtering for Gray Mail " code data model release'
+- file: _publications/2008-08-24-0028.md
+  title: 'Consistent Phrase Relevance Measures '
+  year: '2008'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/YihMeek20-20AdKDD-08.pdf
+  search_query: '"Consistent Phrase Relevance Measures " code data model release'
+- file: _publications/2008-08-24-0029.md
+  title: Partitioned Logistic Regression for Spam Filtering
+  year: '2008'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/ChangYihMeek20-20KDD-08.pdf
+  search_query: '"Partitioned Logistic Regression for Spam Filtering" code data model release'
+- file: _publications/2009-07-17-0030.md
+  title: Extracting Product Information from Email Receipts Using Markov Logic
+  year: '2009'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/kok09b.pdf
+  search_query: '"Extracting Product Information from Email Receipts Using Markov Logic" code data model release'
+- file: _publications/2009-08-07-0031.md
+  title: Learning Term-weighting Functions for Similarity Measures
+  year: '2009'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D09-1083.pdf
+  search_query: '"Learning Term-weighting Functions for Similarity Measures" code data model release'
+- file: _publications/2010-07-19-0032.md
+  title: Adaptive Near-Duplicate Detection via Similarity Learning
+  year: '2010'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/ANDD.pdf
+  search_query: '"Adaptive Near-Duplicate Detection via Similarity Learning" code data model release'
+- file: _publications/2010-10-09-0033.md
+  title: Translingual Document Representations from Discriminative Projections
+  year: '2010'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/translingFinal-1.pdf
+  search_query: '"Translingual Document Representations from Discriminative Projections" code data model release'
+- file: _publications/2010-12-10-0034.md
+  title: Similarity Models for Ad Relevance Measures
+  year: '2010'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/YihJiang-MLOAD10.pdf
+  search_query: '"Similarity Models for Ad Relevance Measures" code data model release'
+- file: _publications/2011-06-13-0035.md
+  title: Learning Discriminative Projections for Text Similarity Measures
+  year: '2011'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/Yih20CoNLL-11.pdf
+  search_query: '"Learning Discriminative Projections for Text Similarity Measures" code data model release'
+- file: _publications/2011-07-16-0036.md
+  title: Domain Adaptation with Ensemble of Feature Groups
+  year: '2011'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/3245-15870-1-PB.pdf
+  search_query: '"Domain Adaptation with Ensemble of Feature Groups" code data model release'
+- file: _publications/2011-07-24-0037.md
+  title: Clickthrough-Based Latent Semantic Models for Web Search
+  year: '2011'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/sigir355-gao.pdf
+  search_query: '"Clickthrough-Based Latent Semantic Models for Web Search" code data model release'
+- file: _publications/2012-06-02-0038.md
+  title: MSR SPLAT, a language analysis toolkit
+  year: '2012'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/N12-3006.pdf
+  historical_links_unverified:
+    code: https://www.microsoft.com/en-us/research/project/msr-splat/
+  search_query: '"MSR SPLAT, a language analysis toolkit" code data model release'
+- file: _publications/2012-06-02-0039.md
+  title: Measuring Word Relatedness Using Heterogeneous Vector Space Models
+  year: '2012'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/N12-1077.pdf
+  search_query: '"Measuring Word Relatedness Using Heterogeneous Vector Space Models" code data model release'
+- file: _publications/2012-07-12-0040.md
+  title: Polarity Inducing Latent Semantic Analysis
+  year: '2012'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D12-1111.pdf
+  search_query: '"Polarity Inducing Latent Semantic Analysis" code data model release'
+- file: _publications/2013-05-27-0042.md
+  title: Combining Heterogeneous Models for Measuring Relational Similarity
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/N13-1120.pdf
+  search_query: '"Combining Heterogeneous Models for Measuring Relational Similarity" code data model release'
+- file: _publications/2013-05-27-0043.md
+  title: Linguistic Regularities in Continuous Space Word Representations
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/rvecs.pdf
+  historical_links_unverified:
+    dataset: https://www.microsoft.com/en-us/download/details.aspx?id=52319
+  search_query: '"Linguistic Regularities in Continuous Space Word Representations" code data model release'
+- file: _publications/2013-08-04-0044.md
+  title: Question Answering Using Enhanced Lexical Semantic Models
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/QA-SentSel-Updated.pdf
+  search_query: '"Question Answering Using Enhanced Lexical Semantic Models" code data model release'
+- file: _publications/2013-10-18-0041.md
+  title: Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/Q13-1017.pdf
+  search_query: '"Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction" code data
+    model release'
+- file: _publications/2013-10-18-0045.md
+  title: Multi-Relational Latent Semantic Analysis
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D13-1167.pdf
+  search_query: '"Multi-Relational Latent Semantic Analysis" code data model release'
+- file: _publications/2013-10-18-0046.md
+  title: Animacy Detection with Voting Models
+  year: '2013'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D13-1006.pdf
+  search_query: '"Animacy Detection with Voting Models" code data model release'
+- file: _publications/2014-06-23-0047.md
+  title: Semantic Parsing for Single-Relation Question Answering
+  year: '2014'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/P14-2105.pdf
+  search_query: '"Semantic Parsing for Single-Relation Question Answering" code data model release'
+- file: _publications/2014-06-23-0048.md
+  title: Learning Continuous Phrase Representations for Translation Modeling
+  year: '2014'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/P14-1066.pdf
+  search_query: '"Learning Continuous Phrase Representations for Translation Modeling" code data model release'
+- file: _publications/2014-10-25-0049.md
+  title: Typed Tensor Decomposition of Knowledge Bases for Relation Extraction
+  year: '2014'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D14-1165.pdf
+  search_query: '"Typed Tensor Decomposition of Knowledge Bases for Relation Extraction" code data model release'
+- file: _publications/2014-12-10-0050.md
+  title: Joint Semantic Utterance Classification and Slot Filling with Recursive Neural Networks
+  year: '2014'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/RecNNSLU.pdf
+  search_query: '"Joint Semantic Utterance Classification and Slot Filling with Recursive Neural Networks" code
+    data model release'
+- file: _publications/2015-05-01-0054.md
+  title: Embedding Entities and Relations for Learning and Inference in Knowledge Bases
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/ICLR2015_updated.pdf
+  search_query: '"Embedding Entities and Relations for Learning and Inference in Knowledge Bases" code data model
+    release'
+- file: _publications/2015-05-20-0052.md
+  title: Open Domain Question Answering via Semantic Enrichment
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/frp1068-sunA.pdf
+  search_query: '"Open Domain Question Answering via Semantic Enrichment" code data model release'
+- file: _publications/2015-05-20-0053.md
+  title: Questions vs. Queries in Informational Search Tasks
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/pp1748-white.pdf
+  search_query: '"Questions vs. Queries in Informational Search Tasks" code data model release'
+- file: _publications/2015-07-28-0055.md
+  title: 'Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base'
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/scottyih/STAGG
+  checked_sources:
+  - files/P15-1128.pdf
+  release_evidence:
+  - url: https://github.com/scottyih/STAGG
+    verified_url: https://github.com/scottyih/STAGG
+    repository_id: null
+- file: _publications/2015-08-28-0051.md
+  title: 'Web-based Question Answering: Revisiting AskMSR'
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/AskMSRPlusTR_082815.pdf
+  search_query: '"Web-based Question Answering: Revisiting AskMSR" code data model release'
+- file: _publications/2015-09-17-0056.md
+  title: 'WikiQA: A Challenge Dataset for Open-Domain Question Answering'
+  year: '2015'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/D15-1237.pdf
+  historical_links_unverified:
+    code: https://www.microsoft.com/en-us/download/details.aspx?id=52355
+    dataset: https://www.microsoft.com/en-us/download/details.aspx?id=52419
+  search_query: '"WikiQA: A Challenge Dataset for Open-Domain Question Answering" code data model release'
+- file: _publications/2016-04-11-0057.md
+  title: Table Cell Search for Question Answering
+  year: '2016'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/frp0948-sun.pdf
+  search_query: '"Table Cell Search for Question Answering" code data model release'
+- file: _publications/2016-05-02-0058.md
+  title: 'Reasoning in Vector Space: An Exploratory Study of Question Answering'
+  year: '2016'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/1511.06426.pdf
+  search_query: '"Reasoning in Vector Space: An Exploratory Study of Question Answering" code data model release'
+- file: _publications/2016-08-07-0059.md
+  title: The Value of Semantic Parse Labeling for Knowledge Base Question Answering
+  year: '2016'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/P16-2033.pdf
+  historical_links_unverified:
+    dataset: https://www.microsoft.com/en-us/download/details.aspx?id=52763
+  search_query: '"The Value of Semantic Parse Labeling for Knowledge Base Question Answering" code data model release'
+- file: _publications/2016-08-07-0060.md
+  title: Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Text
+  year: '2016'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/P16-1136.pdf
+  search_query: '"Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Text" code data
+    model release'
+- file: _publications/2016-11-01-0061.md
+  title: Learning from Explicit and Implicit Supervision Jointly for Algebra Word Problems
+  year: '2016'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D16-1029.pdf
+  search_query: '"Learning from Explicit and Implicit Supervision Jointly for Algebra Word Problems" code data model
+    release'
+- file: _publications/2017-07-30-0062.md
+  title: Cross-Sentence N-ary Relation Extraction with Graph LSTMs
+  year: '2017'
+  checked_on: '2026-10-23'
+  status: historical_links_unverified
+  releases: {}
+  checked_sources:
+  - files/1028-3006-1-PB.pdf
+  historical_links_unverified:
+    code: http://hanover.azurewebsites.net/
+    dataset: http://hanover.azurewebsites.net/
+  search_query: '"Cross-Sentence N-ary Relation Extraction with Graph LSTMs" code data model release'
+  note: The paper announced a dataset at Hanover; the former site is now disabled.
+- file: _publications/2017-07-30-0063.md
+  title: Search-based Neural Structured Learning for Sequential Question Answering
+  year: '2017'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/scottyih/DynSP
+  checked_sources:
+  - files/P17-1167.pdf
+  historical_links_unverified:
+    dataset: https://www.microsoft.com/en-us/download/details.aspx?id=54253
+  release_evidence:
+  - url: https://github.com/scottyih/DynSP
+    verified_url: https://github.com/scottyih/DynSP
+    repository_id: null
+- file: _publications/2017-09-07-0064.md
+  title: Maximum margin reward networks for learning from explicit and implicit supervision
+  year: '2017'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/D17-1252.pdf
+  search_query: '"Maximum margin reward networks for learning from explicit and implicit supervision" code data
+    model release'
+- file: _publications/2018-02-02-0065.md
+  title: A Knowledge-Grounded Neural Conversation Model
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/1702.01932.pdf
+  search_query: '"A Knowledge-Grounded Neural Conversation Model" code data model release'
+- file: _publications/2018-06-02-0066.md
+  title: 'Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension'
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/allenai/propara
+    dataset:
+    - https://github.com/allenai/propara/tree/master/data/naacl18
+  checked_sources:
+  - files/N18-1144.pdf
+  release_evidence:
+  - url: https://github.com/allenai/propara
+    verified_url: https://github.com/allenai/propara
+    repository_id: null
+  - url: https://github.com/allenai/propara/tree/master/data/naacl18
+    verified_url: https://github.com/allenai/propara/tree/master/data/naacl18
+    repository_id: null
+- file: _publications/2018-06-02-0067.md
+  title: Natural Language to Structured Query Generation via Meta-Learning
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/Microsoft/PointerSQL
+  checked_sources:
+  - files/1803.02400.pdf
+  release_evidence:
+  - url: https://github.com/Microsoft/PointerSQL
+    verified_url: https://github.com/Microsoft/PointerSQL
+    repository_id: null
+- file: _publications/2018-10-31-0068.md
+  title: 'Dissecting Contextual Word Embeddings: Architecture and Representation'
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/1808.08949.pdf
+  search_query: '"Dissecting Contextual Word Embeddings: Architecture and Representation" code data model release'
+- file: _publications/2018-10-31-0069.md
+  title: Reasoning about Actions and State Changes by Injecting Commonsense Knowledge
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/allenai/propara
+  checked_sources:
+  - files/paper-1172.pdf
+  release_evidence:
+  - url: https://github.com/allenai/propara
+    verified_url: https://github.com/allenai/propara
+    repository_id: null
+- file: _publications/2018-10-31-0070.md
+  title: 'QuAC: Question Answering in Context'
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://quac.ai/
+  checked_sources:
+  - files/quac.pdf
+  search_query: '"QuAC: Question Answering in Context" code data model release'
+  release_evidence:
+  - url: https://quac.ai/
+    verified_url: https://quac.ai/
+    repository_id: null
+- file: _publications/2018-10-31-0071.md
+  title: Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations
+  year: '2018'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - files/mchy-emnlp.2018.pdf
+  search_query: '"Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations" code data
+    model release'
+- file: _publications/2019-01-27-0072.md
+  title: 'QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships'
+  year: '2019'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://huggingface.co/datasets/community-datasets/quarel
+    code:
+    - https://github.com/allenai/allennlp/tree/v0.9.0/allennlp/models/semantic_parsing/quarel
+  checked_sources:
+  - files/1811.08048.pdf
+  search_query: '"QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships" code data
+    model release'
+  note: QuaRel code is preserved in AllenNLP v0.9.0; the dataset is maintained in the Hugging Face community-datasets
+    archive.
+  release_evidence:
+  - url: https://huggingface.co/datasets/community-datasets/quarel
+    verified_url: https://huggingface.co/datasets/community-datasets/quarel
+    repository_id: community-datasets/quarel
+  - url: https://github.com/allenai/allennlp/tree/v0.9.0/allennlp/models/semantic_parsing/quarel
+    verified_url: https://github.com/allenai/allennlp/tree/v0.9.0/allennlp/models/semantic_parsing/quarel
+    repository_id: null
+- file: _publications/2019-05-06-0073.md
+  title: 'FlowQA: Grasping Flow in History for Conversational Machine Comprehension'
+  year: '2019'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/hsinyuan-huang/FlowQA
+  checked_sources:
+  - files/1810.06683.pdf
+  search_query: '"FlowQA: Grasping Flow in History for Conversational Machine Comprehension" code data model release'
+  release_evidence:
+  - url: https://github.com/hsinyuan-huang/FlowQA
+    verified_url: https://github.com/hsinyuan-huang/FlowQA
+    repository_id: null
+- file: _publications/2019-06-03-0074.md
+  title: Be Consistent! Improving Procedural Text Comprehension using Label Consistency
+  year: '2019'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/allenai/propara
+  checked_sources:
+  - files/naacl19_ai2_be_consistent.pdf
+  release_evidence:
+  - url: https://github.com/allenai/propara
+    verified_url: https://github.com/allenai/propara
+    repository_id: null
+- file: _publications/2019-11-03-0075.md
+  title: 'Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text'
+  year: '2019'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://github.com/allenai/propara/blob/master/XPAD_README.md
+  checked_sources:
+  - files/MishraTandon-emnlp19.pdf
+  note: The public XPAD release documents the dependency-graph dataset. No XPAD model implementation was found in
+    the current repository.
+  release_evidence:
+  - url: https://github.com/allenai/propara/blob/master/XPAD_README.md
+    verified_url: https://github.com/allenai/propara/blob/master/XPAD_README.md
+    repository_id: null
+- file: _publications/2019-11-03-0076.md
+  title: 'Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study'
+  year: '2019'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/sunlab-osu/MISP
+  checked_sources:
+  - files/YaoSuSunYih-emnlp19-misp.pdf
+  release_evidence:
+  - url: https://github.com/sunlab-osu/MISP
+    verified_url: https://github.com/sunlab-osu/MISP
+    repository_id: null
+- file: _publications/2020-04-27-0077.md
+  title: Abductive Commonsense Reasoning
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/allenai/abductive-commonsense-reasoning
+  checked_sources:
+  - files/abductive_commonsense_reasoning.pdf
+  historical_links_unverified:
+    dataset: http://abductivecommonsense.xyz/
+  release_evidence:
+  - url: https://github.com/allenai/abductive-commonsense-reasoning
+    verified_url: https://github.com/allenai/abductive-commonsense-reasoning
+    repository_id: null
+- file: _publications/2020-07-05-0078.md
+  title: Open-Domain Question Answering
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://github.com/danqi/acl2020-openqa-tutorial
+  checked_sources:
+  - files/2020.acl-tutorials.8.pdf
+  release_evidence:
+  - url: https://github.com/danqi/acl2020-openqa-tutorial
+    verified_url: https://github.com/danqi/acl2020-openqa-tutorial
+    repository_id: null
+- file: _publications/2020-07-06-0079.md
+  title: 'TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data'
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/TaBERT
+    model:
+    - https://github.com/facebookresearch/TaBERT#pre-trained-models
+    - https://drive.google.com/drive/folders/1fDW9rLssgDAv19OMcFGgFJ5iyd9p7flg?usp=sharing
+  checked_sources:
+  - files/2020.acl-main.745.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/TaBERT
+    verified_url: https://github.com/facebookresearch/TaBERT
+    repository_id: null
+  - url: https://github.com/facebookresearch/TaBERT#pre-trained-models
+    verified_url: https://github.com/facebookresearch/TaBERT#pre-trained-models
+    repository_id: null
+  - url: https://drive.google.com/drive/folders/1fDW9rLssgDAv19OMcFGgFJ5iyd9p7flg?usp=sharing
+    verified_url: https://drive.google.com/drive/folders/1fDW9rLssgDAv19OMcFGgFJ5iyd9p7flg?usp=sharing
+    repository_id: null
+- file: _publications/2020-11-16-0080.md
+  title: Unsupervised Question Decomposition for Question Answering
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/UnsupervisedDecomposition
+    model:
+    - https://github.com/facebookresearch/UnsupervisedDecomposition#qa-model-training
+    dataset:
+    - https://github.com/facebookresearch/UnsupervisedDecomposition#downloading-and-preprocessing-data
+  checked_sources:
+  - files/emnlp2020-decompQ.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/UnsupervisedDecomposition
+    verified_url: https://github.com/facebookresearch/UnsupervisedDecomposition
+    repository_id: null
+  - url: https://github.com/facebookresearch/UnsupervisedDecomposition#qa-model-training
+    verified_url: https://github.com/facebookresearch/UnsupervisedDecomposition#qa-model-training
+    repository_id: null
+  - url: https://github.com/facebookresearch/UnsupervisedDecomposition#downloading-and-preprocessing-data
+    verified_url: https://github.com/facebookresearch/UnsupervisedDecomposition#downloading-and-preprocessing-data
+    repository_id: null
+- file: _publications/2020-11-16-0081.md
+  title: An Imitation Game for Learning Semantic Parsers from User Interaction
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/sunlab-osu/MISP
+  checked_sources:
+  - files/emnlp2020-mispL.pdf
+  release_evidence:
+  - url: https://github.com/sunlab-osu/MISP
+    verified_url: https://github.com/sunlab-osu/MISP
+    repository_id: null
+- file: _publications/2020-11-16-0082.md
+  title: Dense Passage Retrieval for Open-Domain Question Answering
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/DPR
+    model:
+    - https://huggingface.co/facebook/dpr-ctx_encoder-single-nq-base
+    - https://huggingface.co/facebook/dpr-question_encoder-single-nq-base
+    dataset:
+    - https://github.com/facebookresearch/DPR#resources--data-formats
+  checked_sources:
+  - files/emnlp2020-dpr.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/DPR
+    verified_url: https://github.com/facebookresearch/DPR
+    repository_id: null
+  - url: https://huggingface.co/facebook/dpr-ctx_encoder-single-nq-base
+    verified_url: https://huggingface.co/facebook/dpr-ctx_encoder-single-nq-base
+    repository_id: facebook/dpr-ctx_encoder-single-nq-base
+  - url: https://huggingface.co/facebook/dpr-question_encoder-single-nq-base
+    verified_url: https://huggingface.co/facebook/dpr-question_encoder-single-nq-base
+    repository_id: facebook/dpr-question_encoder-single-nq-base
+  - url: https://github.com/facebookresearch/DPR#resources--data-formats
+    verified_url: https://github.com/facebookresearch/DPR#resources--data-formats
+    repository_id: null
+- file: _publications/2020-11-16-0083.md
+  title: Efficient One-Pass End-to-End Entity Linking for Questions
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/BLINK/tree/master/elq
+    model:
+    - https://github.com/facebookresearch/BLINK/tree/master/elq#setup
+    dataset:
+    - https://github.com/facebookresearch/BLINK/tree/master/elq#data
+  checked_sources:
+  - files/emnlp2020-elq.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/BLINK/tree/master/elq
+    verified_url: https://github.com/facebookresearch/BLINK/tree/main/elq
+    repository_id: null
+  - url: https://github.com/facebookresearch/BLINK/tree/master/elq#setup
+    verified_url: https://github.com/facebookresearch/BLINK/tree/main/elq
+    repository_id: null
+  - url: https://github.com/facebookresearch/BLINK/tree/master/elq#data
+    verified_url: https://github.com/facebookresearch/BLINK/tree/main/elq
+    repository_id: null
+- file: _publications/2020-11-16-0084.md
+  title: Blockwise Self-Attention for Long Document Understanding
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/xptree/BlockBERT
+  checked_sources:
+  - files/emnlp2020-blockBERT.pdf
+  release_evidence:
+  - url: https://github.com/xptree/BlockBERT
+    verified_url: https://github.com/xptree/BlockBERT
+    repository_id: null
+- file: _publications/2020-12-06-0085.md
+  title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  year: '2020'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/huggingface/transformers/tree/v4.40.0/examples/research_projects/rag
+    model:
+    - https://huggingface.co/facebook/rag-sequence-nq
+    - https://huggingface.co/facebook/rag-token-nq
+  checked_sources:
+  - https://arxiv.org/abs/2005.11401
+  - https://arxiv.org/abs/2005.11401
+  - https://arxiv.org/html/2005.11401
+  search_query: '"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" code data model release'
+  note: The RAG experiment code is preserved in Transformers v4.40.0; its former main-branch path was removed.
+  release_evidence:
+  - url: https://github.com/huggingface/transformers/tree/v4.40.0/examples/research_projects/rag
+    verified_url: https://github.com/huggingface/transformers/tree/v4.40.0/examples/research_projects/rag
+    repository_id: null
+  - url: https://huggingface.co/facebook/rag-sequence-nq
+    verified_url: https://huggingface.co/facebook/rag-sequence-nq
+    repository_id: facebook/rag-sequence-nq
+  - url: https://huggingface.co/facebook/rag-token-nq
+    verified_url: https://huggingface.co/facebook/rag-token-nq
+    repository_id: facebook/rag-token-nq
+- file: _publications/2021-01-01-fid-ex-improving-sequence-to-sequence-models-for-extractive-rationale-generation.md
+  title: 'FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation'
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2021.emnlp-main.301/
+  - https://aclanthology.org/2021.emnlp-main.301.pdf
+  search_query: '"FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation" code data model
+    release'
+  note: The paper names facebookresearch/fidex, which currently returns 404.
+- file: _publications/2021-01-01-joint-verification-and-reranking-for-open-fact-checking-over-tables.md
+  title: Joint Verification and Reranking for Open Fact Checking Over Tables
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2021.acl-long.529/
+  - https://aclanthology.org/2021.acl-long.529.pdf
+  search_query: '"Joint Verification and Reranking for Open Fact Checking Over Tables" code data model release'
+  note: The paper names facebookresearch/OpenTableFactChecking, which currently returns 404.
+- file: _publications/2021-01-01-multi-task-retrieval-for-knowledge-intensive-tasks.md
+  title: Multi-Task Retrieval for Knowledge-Intensive Tasks
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/DPR
+  checked_sources:
+  - https://aclanthology.org/2021.acl-long.89/
+  - https://aclanthology.org/2021.acl-long.89.pdf
+  note: The paper identifies DPR as the code release. The current README describes other DPR checkpoints, so those
+    were not attributed to this paper.
+  release_evidence:
+  - url: https://github.com/facebookresearch/DPR
+    verified_url: https://github.com/facebookresearch/DPR
+    repository_id: null
+- file: _publications/2021-01-01-on-the-efficacy-of-adversarial-data-collection-for-question-answering-results-from-a-large-scale-randomized-study.md
+  title: 'On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized
+    Study'
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://github.com/facebookresearch/aqa-study
+  checked_sources:
+  - https://aclanthology.org/2021.acl-long.517/
+  - https://arxiv.org/abs/2106.00872
+  - https://arxiv.org/html/2106.00872
+  release_evidence:
+  - url: https://github.com/facebookresearch/aqa-study
+    verified_url: https://github.com/facebookresearch/aqa-study
+    repository_id: null
+- file: _publications/2021-01-01-on-the-influence-of-masking-policies-in-intermediate-pre-training.md
+  title: On the Influence of Masking Policies in Intermediate Pre-training
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2021.emnlp-main.573/
+  - https://arxiv.org/abs/2104.08840
+  - https://arxiv.org/html/2104.08840
+  search_query: '"On the Influence of Masking Policies in Intermediate Pre-training" code data model release'
+- file: _publications/2021-01-01-on-unifying-misinformation-detection.md
+  title: On Unifying Misinformation Detection
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2021.naacl-main.432/
+  - https://arxiv.org/abs/2104.05243
+  - https://arxiv.org/html/2104.05243
+  search_query: '"On Unifying Misinformation Detection" code data model release'
+- file: _publications/2021-01-01-reconsider-improved-re-ranking-using-span-focused-cross-attention-for-open-domain-question-answering.md
+  title: 'RECONSIDER: Improved Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering'
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/reconsider
+    model:
+    - https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+    dataset:
+    - https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+  checked_sources:
+  - https://aclanthology.org/2021.naacl-main.100/
+  - https://aclanthology.org/2021.naacl-main.100.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/reconsider
+    verified_url: https://github.com/facebookresearch/reconsider
+    repository_id: null
+  - url: https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+    verified_url: https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+    repository_id: null
+  - url: https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+    verified_url: https://github.com/facebookresearch/reconsider#re-producing-results-from-the-paper
+    repository_id: null
+- file: _publications/2021-08-07-neurips-2020-efficientqa-competition-systems-analyses-and-lessons-learned.md
+  title: 'NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned'
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://efficientqa.github.io/
+  checked_sources:
+  - http://proceedings.mlr.press/v133/min21a.html
+  - http://proceedings.mlr.press/v133/min21a/min21a.pdf
+  search_query: '"NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned" code data model release'
+  release_evidence:
+  - url: https://efficientqa.github.io/
+    verified_url: https://efficientqa.github.io/
+    repository_id: null
+- file: _publications/2021-12-18-the-web-is-your-oyster-knowledge-intensive-nlp-against-a-very-large-web-corpus.md
+  title: The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus
+  year: '2021'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/Sphere
+    model:
+    - https://github.com/facebookresearch/Sphere#download-assets
+    dataset:
+    - https://github.com/facebookresearch/Sphere#index-download
+  checked_sources:
+  - https://arxiv.org/abs/2112.09924
+  - https://arxiv.org/abs/2112.09924
+  - https://arxiv.org/html/2112.09924
+  release_evidence:
+  - url: https://github.com/facebookresearch/Sphere
+    verified_url: https://github.com/facebookresearch/Sphere
+    repository_id: null
+  - url: https://github.com/facebookresearch/Sphere#download-assets
+    verified_url: https://github.com/facebookresearch/Sphere#download-assets
+    repository_id: null
+  - url: https://github.com/facebookresearch/Sphere#index-download
+    verified_url: https://github.com/facebookresearch/Sphere#index-download
+    repository_id: null
+- file: _publications/2022-01-01-boosted-dense-retriever.md
+  title: Boosted Dense Retriever
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2022.naacl-main.226/
+  - https://arxiv.org/abs/2112.07771
+  - https://arxiv.org/html/2112.07771
+  search_query: '"Boosted Dense Retriever" code data model release'
+- file: _publications/2022-01-01-ccqa-a-new-web-scale-question-answering-dataset-for-model-pre-training.md
+  title: 'CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/CCQA
+    model:
+    - https://github.com/facebookresearch/CCQA#ccqa-in-domain-pre-trained-model-checkpoints
+  checked_sources:
+  - https://aclanthology.org/2022.findings-naacl.184/
+  - https://arxiv.org/abs/2110.07731
+  - https://arxiv.org/html/2110.07731
+  release_evidence:
+  - url: https://github.com/facebookresearch/CCQA
+    verified_url: https://github.com/facebookresearch/CCQA
+    repository_id: null
+  - url: https://github.com/facebookresearch/CCQA#ccqa-in-domain-pre-trained-model-checkpoints
+    verified_url: https://github.com/facebookresearch/CCQA#ccqa-in-domain-pre-trained-model-checkpoints
+    repository_id: null
+- file: _publications/2022-01-01-diffcse-difference-based-contrastive-learning-for-sentence-embeddings.md
+  title: 'DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/voidism/DiffCSE
+    model:
+    - https://huggingface.co/voidism/diffcse-bert-base-uncased-sts
+    - https://huggingface.co/voidism/diffcse-bert-base-uncased-trans
+    - https://huggingface.co/voidism/diffcse-roberta-base-sts
+    - https://huggingface.co/voidism/diffcse-roberta-base-trans
+  checked_sources:
+  - https://aclanthology.org/2022.naacl-main.311/
+  - https://arxiv.org/abs/2204.10298
+  - https://arxiv.org/html/2204.10298
+  release_evidence:
+  - url: https://github.com/voidism/DiffCSE
+    verified_url: https://github.com/voidism/DiffCSE
+    repository_id: null
+  - url: https://huggingface.co/voidism/diffcse-bert-base-uncased-sts
+    verified_url: https://huggingface.co/voidism/diffcse-bert-base-uncased-sts
+    repository_id: voidism/diffcse-bert-base-uncased-sts
+  - url: https://huggingface.co/voidism/diffcse-bert-base-uncased-trans
+    verified_url: https://huggingface.co/voidism/diffcse-bert-base-uncased-trans
+    repository_id: voidism/diffcse-bert-base-uncased-trans
+  - url: https://huggingface.co/voidism/diffcse-roberta-base-sts
+    verified_url: https://huggingface.co/voidism/diffcse-roberta-base-sts
+    repository_id: voidism/diffcse-roberta-base-sts
+  - url: https://huggingface.co/voidism/diffcse-roberta-base-trans
+    verified_url: https://huggingface.co/voidism/diffcse-roberta-base-trans
+    repository_id: voidism/diffcse-roberta-base-trans
+- file: _publications/2022-01-01-domain-matched-pre-training-tasks-for-dense-retrieval.md
+  title: Domain-matched Pre-training Tasks for Dense Retrieval
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/dpr-scale
+    model:
+    - https://github.com/facebookresearch/dpr-scale#pretrained-checkpoints
+    dataset:
+    - https://github.com/facebookresearch/dpr-scale#domain-matched-pre-training-tasks-for-dense-retrieval
+  checked_sources:
+  - https://aclanthology.org/2022.findings-naacl.114/
+  - https://arxiv.org/abs/2107.13602
+  - https://arxiv.org/html/2107.13602
+  release_evidence:
+  - url: https://github.com/facebookresearch/dpr-scale
+    verified_url: https://github.com/facebookresearch/dpr-scale
+    repository_id: null
+  - url: https://github.com/facebookresearch/dpr-scale#pretrained-checkpoints
+    verified_url: https://github.com/facebookresearch/dpr-scale#pretrained-checkpoints
+    repository_id: null
+  - url: https://github.com/facebookresearch/dpr-scale#domain-matched-pre-training-tasks-for-dense-retrieval
+    verified_url: https://github.com/facebookresearch/dpr-scale#domain-matched-pre-training-tasks-for-dense-retrieval
+    repository_id: null
+- file: _publications/2022-01-01-improving-passage-retrieval-with-zero-shot-question-generation.md
+  title: Improving Passage Retrieval with Zero-Shot Question Generation
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/DevSinghSachan/unsupervised-passage-reranking
+  checked_sources:
+  - https://aclanthology.org/2022.emnlp-main.249/
+  - https://arxiv.org/abs/2204.07496
+  - https://arxiv.org/html/2204.07496
+  release_evidence:
+  - url: https://github.com/DevSinghSachan/unsupervised-passage-reranking
+    verified_url: https://github.com/DevSinghSachan/unsupervised-passage-reranking
+    repository_id: null
+- file: _publications/2022-01-01-salient-phrase-aware-dense-retrieval-can-a-dense-retriever-imitate-a-sparse-one.md
+  title: 'Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/dpr-scale/tree/main/spar
+    model:
+    - https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-query-encoder
+    - https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-context-encoder
+    - https://huggingface.co/facebook/spar-paq-bm25-lexmodel-query-encoder
+    - https://huggingface.co/facebook/spar-paq-bm25-lexmodel-context-encoder
+    - https://huggingface.co/facebook/spar-marco-bm25-lexmodel-query-encoder
+    - https://huggingface.co/facebook/spar-marco-bm25-lexmodel-context-encoder
+    - https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-query-encoder
+    - https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-context-encoder
+  checked_sources:
+  - https://aclanthology.org/2022.findings-emnlp.19/
+  - https://arxiv.org/abs/2110.06918
+  - https://arxiv.org/html/2110.06918
+  release_evidence:
+  - url: https://github.com/facebookresearch/dpr-scale/tree/main/spar
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/main/spar
+    repository_id: null
+  - url: https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-query-encoder
+    verified_url: https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-query-encoder
+    repository_id: facebook/spar-wiki-bm25-lexmodel-query-encoder
+  - url: https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-context-encoder
+    verified_url: https://huggingface.co/facebook/spar-wiki-bm25-lexmodel-context-encoder
+    repository_id: facebook/spar-wiki-bm25-lexmodel-context-encoder
+  - url: https://huggingface.co/facebook/spar-paq-bm25-lexmodel-query-encoder
+    verified_url: https://huggingface.co/facebook/spar-paq-bm25-lexmodel-query-encoder
+    repository_id: facebook/spar-paq-bm25-lexmodel-query-encoder
+  - url: https://huggingface.co/facebook/spar-paq-bm25-lexmodel-context-encoder
+    verified_url: https://huggingface.co/facebook/spar-paq-bm25-lexmodel-context-encoder
+    repository_id: facebook/spar-paq-bm25-lexmodel-context-encoder
+  - url: https://huggingface.co/facebook/spar-marco-bm25-lexmodel-query-encoder
+    verified_url: https://huggingface.co/facebook/spar-marco-bm25-lexmodel-query-encoder
+    repository_id: facebook/spar-marco-bm25-lexmodel-query-encoder
+  - url: https://huggingface.co/facebook/spar-marco-bm25-lexmodel-context-encoder
+    verified_url: https://huggingface.co/facebook/spar-marco-bm25-lexmodel-context-encoder
+    repository_id: facebook/spar-marco-bm25-lexmodel-context-encoder
+  - url: https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-query-encoder
+    verified_url: https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-query-encoder
+    repository_id: facebook/spar-marco-unicoil-lexmodel-query-encoder
+  - url: https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-context-encoder
+    verified_url: https://huggingface.co/facebook/spar-marco-unicoil-lexmodel-context-encoder
+    repository_id: facebook/spar-marco-unicoil-lexmodel-context-encoder
+- file: _publications/2022-01-01-simple-local-attentions-remain-competitive-for-long-context-tasks.md
+  title: Simple Local Attentions Remain Competitive for Long-Context Tasks
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/pytorch/fairseq/tree/main/examples/xformers
+  checked_sources:
+  - https://aclanthology.org/2022.naacl-main.144/
+  - https://arxiv.org/abs/2112.07210
+  - https://arxiv.org/html/2112.07210
+  release_evidence:
+  - url: https://github.com/pytorch/fairseq/tree/main/examples/xformers
+    verified_url: https://github.com/facebookresearch/fairseq/tree/main/examples/xformers
+    repository_id: null
+- file: _publications/2022-01-01-unik-qa-unified-representations-of-structured-and-unstructured-knowledge-for-open-domain-question-answering.md
+  title: 'UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/UniK-QA
+  checked_sources:
+  - https://aclanthology.org/2022.findings-naacl.115/
+  - https://aclanthology.org/2022.findings-naacl.115.pdf
+  release_evidence:
+  - url: https://github.com/facebookresearch/UniK-QA
+    verified_url: https://github.com/facebookresearch/UniK-QA
+    repository_id: null
+- file: _publications/2022-04-12-incoder-a-generative-model-for-code-infilling-and-synthesis.md
+  title: 'InCoder: A Generative Model for Code Infilling and Synthesis'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://sites.google.com/view/incoder-code-models/
+    code:
+    - https://github.com/dpfried/incoder
+    model:
+    - https://huggingface.co/facebook/incoder-1B
+    - https://huggingface.co/facebook/incoder-6B
+  checked_sources:
+  - https://arxiv.org/abs/2204.05999
+  - https://arxiv.org/abs/2204.05999
+  - https://arxiv.org/html/2204.05999
+  search_query: '"InCoder: A Generative Model for Code Infilling and Synthesis" code data model release'
+  release_evidence:
+  - url: https://sites.google.com/view/incoder-code-models/
+    verified_url: https://sites.google.com/view/incoder-code-models/
+    repository_id: null
+  - url: https://github.com/dpfried/incoder
+    verified_url: https://github.com/dpfried/incoder
+    repository_id: null
+  - url: https://huggingface.co/facebook/incoder-1B
+    verified_url: https://huggingface.co/facebook/incoder-1B
+    repository_id: facebook/incoder-1B
+  - url: https://huggingface.co/facebook/incoder-6B
+    verified_url: https://huggingface.co/facebook/incoder-6B
+    repository_id: facebook/incoder-6B
+- file: _publications/2022-05-01-on-continual-model-refinement-in-out-of-distribution-data-streams.md
+  title: On Continual Model Refinement in Out-of-Distribution Data Streams
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://cmr-nlp.github.io/
+  checked_sources:
+  - https://aclanthology.org/2022.acl-long.223/
+  - https://arxiv.org/abs/2205.02014
+  - https://arxiv.org/html/2205.02014
+  release_evidence:
+  - url: https://cmr-nlp.github.io/
+    verified_url: https://cmr-nlp.github.io/
+    repository_id: null
+- file: _publications/2022-05-01-unipelt-a-unified-framework-for-parameter-efficient-language-model-tuning.md
+  title: 'UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/morningmoni/UniPELT
+  checked_sources:
+  - https://aclanthology.org/2022.acl-long.433/
+  - https://arxiv.org/abs/2110.07577
+  - https://arxiv.org/html/2110.07577
+  release_evidence:
+  - url: https://github.com/morningmoni/UniPELT
+    verified_url: https://github.com/morningmoni/UniPELT
+    repository_id: null
+- file: _publications/2022-05-24-structured-prompt-tuning.md
+  title: Structured Prompt Tuning
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2205.12309
+  - https://arxiv.org/abs/2205.12309
+  - https://arxiv.org/html/2205.12309
+  search_query: '"Structured Prompt Tuning" code data model release'
+- file: _publications/2022-07-06-quaser-question-answering-with-scalable-extractive-rationalization.md
+  title: 'Quaser: Question answering with scalable extractive rationalization'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: source_unavailable
+  releases: {}
+  checked_sources: []
+  search_query: '"Quaser: Question answering with scalable extractive rationalization" code data model release'
+  source_errors:
+  - source: https://dl.acm.org/doi/abs/10.1145/3477495.3532049
+    error: 'HTTP Error 403: Forbidden'
+- file: _publications/2022-11-22-retrieval-augmented-multimodal-language-modeling.md
+  title: Retrieval-Augmented Multimodal Language Modeling
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://proceedings.mlr.press/v202/yasunaga23a.html
+  - https://arxiv.org/abs/2211.12561
+  - https://arxiv.org/html/2211.12561
+  search_query: '"Retrieval-Augmented Multimodal Language Modeling" code data model release'
+- file: _publications/2022-12-06-autoregressive-search-engines-generating-substrings-as-document-identifiers.md
+  title: 'Autoregressive Search Engines: Generating Substrings as Document Identifiers'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/SEAL
+    model:
+    - https://github.com/facebookresearch/SEAL#download
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2022/hash/cd88d62a2063fdaf7ce6f9068fb15dcd-Abstract-Conference.html
+  - https://arxiv.org/abs/2204.10628
+  - https://arxiv.org/html/2204.10628
+  release_evidence:
+  - url: https://github.com/facebookresearch/SEAL
+    verified_url: https://github.com/facebookresearch/SEAL
+    repository_id: null
+  - url: https://github.com/facebookresearch/SEAL#download
+    verified_url: https://github.com/facebookresearch/SEAL#download
+    repository_id: null
+- file: _publications/2022-12-06-bit-robustly-binarized-multi-distilled-transformer.md
+  title: 'BiT: Robustly Binarized Multi-distilled Transformer'
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/bit
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html
+  release_evidence:
+  - url: https://github.com/facebookresearch/bit
+    verified_url: https://github.com/facebookresearch/bit
+    repository_id: null
+- file: _publications/2022-12-19-improving-faithfulness-of-abstractive-summarization-by-controlling-confounding-effect-of-irrelevant-sentences.md
+  title: Improving Faithfulness of Abstractive Summarization by Controlling Confounding Effect of Irrelevant Sentences
+  year: '2022'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2212.09726
+  - https://arxiv.org/abs/2212.09726
+  - https://arxiv.org/html/2212.09726
+  search_query: '"Improving Faithfulness of Abstractive Summarization by Controlling Confounding Effect of Irrelevant
+    Sentences" code data model release'
+- file: _publications/2023-01-01-adapting-pretrained-text-to-text-models-for-long-text-sequences.md
+  title: Adapting Pretrained Text-to-Text Models for Long Text Sequences
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/bart_ls
+    model:
+    - https://github.com/facebookresearch/bart_ls#model-checkpoints
+  checked_sources:
+  - https://aclanthology.org/2023.findings-emnlp.370/
+  - https://arxiv.org/abs/2209.10052
+  - https://arxiv.org/html/2209.10052
+  release_evidence:
+  - url: https://github.com/facebookresearch/bart_ls
+    verified_url: https://github.com/facebookresearch/bart_ls
+    repository_id: null
+  - url: https://github.com/facebookresearch/bart_ls#model-checkpoints
+    verified_url: https://github.com/facebookresearch/bart_ls#model-checkpoints
+    repository_id: null
+- file: _publications/2023-01-01-citadel-conditional-token-interaction-via-dynamic-lexical-routing-for-efficient-and-effective-multi-vector-retrieval.md
+  title: 'CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector
+    Retrieval'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/dpr-scale/tree/citadel
+    model:
+    - https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+    dataset:
+    - https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+  checked_sources:
+  - https://aclanthology.org/2023.acl-long.663/
+  - https://arxiv.org/abs/2211.10411
+  - https://arxiv.org/html/2211.10411
+  release_evidence:
+  - url: https://github.com/facebookresearch/dpr-scale/tree/citadel
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/citadel
+    repository_id: null
+  - url: https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+    repository_id: null
+  - url: https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/citadel#pre-trained-model-checkpoints
+    repository_id: null
+- file: _publications/2023-01-01-expand-rerank-and-retrieve-query-reranking-for-open-domain-question-answering.md
+  title: 'Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/voidism/EAR
+    model:
+    - https://drive.google.com/file/d/1ueepl7Yh2RFThH_tcuoK8rkOHaWBUsGJ/view?usp=sharing
+  checked_sources:
+  - https://aclanthology.org/2023.findings-acl.768/
+  - https://arxiv.org/abs/2305.17080
+  - https://arxiv.org/html/2305.17080
+  release_evidence:
+  - url: https://github.com/voidism/EAR
+    verified_url: https://github.com/voidism/EAR
+    repository_id: null
+  - url: https://drive.google.com/file/d/1ueepl7Yh2RFThH_tcuoK8rkOHaWBUsGJ/view?usp=sharing
+    verified_url: https://drive.google.com/file/d/1ueepl7Yh2RFThH_tcuoK8rkOHaWBUsGJ/view?usp=sharing
+    repository_id: null
+- file: _publications/2023-01-01-factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation.md
+  title: 'FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/shmsw25/FActScore
+    dataset:
+    - https://drive.google.com/drive/folders/1kFey69z8hGXScln01mVxrOhrqgM62X7I?usp=sharing
+  checked_sources:
+  - https://aclanthology.org/2023.emnlp-main.741/
+  - https://arxiv.org/abs/2305.14251
+  - https://arxiv.org/html/2305.14251
+  release_evidence:
+  - url: https://github.com/shmsw25/FActScore
+    verified_url: https://github.com/shmsw25/FActScore
+    repository_id: null
+  - url: https://drive.google.com/drive/folders/1kFey69z8hGXScln01mVxrOhrqgM62X7I?usp=sharing
+    verified_url: https://drive.google.com/drive/folders/1kFey69z8hGXScln01mVxrOhrqgM62X7I?usp=sharing
+    repository_id: null
+- file: _publications/2023-01-01-how-to-train-your-dragon-diverse-augmentation-towards-generalizable-dense-retrieval.md
+  title: 'How to Train Your Dragon: Diverse Augmentation Towards Generalizable Dense Retrieval'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/dpr-scale/tree/main/dragon
+    model:
+    - https://huggingface.co/facebook/dragon-plus-query-encoder
+    - https://huggingface.co/facebook/dragon-plus-context-encoder
+    - https://huggingface.co/facebook/dragon-roberta-query-encoder
+    - https://huggingface.co/facebook/dragon-roberta-context-encoder
+    dataset:
+    - https://github.com/facebookresearch/dpr-scale/tree/main/dragon#data-augmentation-for-dragon-training-
+  checked_sources:
+  - https://aclanthology.org/2023.findings-emnlp.423/
+  - https://arxiv.org/abs/2302.07452
+  - https://arxiv.org/html/2302.07452
+  release_evidence:
+  - url: https://github.com/facebookresearch/dpr-scale/tree/main/dragon
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/main/dragon
+    repository_id: null
+  - url: https://huggingface.co/facebook/dragon-plus-query-encoder
+    verified_url: https://huggingface.co/facebook/dragon-plus-query-encoder
+    repository_id: facebook/dragon-plus-query-encoder
+  - url: https://huggingface.co/facebook/dragon-plus-context-encoder
+    verified_url: https://huggingface.co/facebook/dragon-plus-context-encoder
+    repository_id: facebook/dragon-plus-context-encoder
+  - url: https://huggingface.co/facebook/dragon-roberta-query-encoder
+    verified_url: https://huggingface.co/facebook/dragon-roberta-query-encoder
+    repository_id: facebook/dragon-roberta-query-encoder
+  - url: https://huggingface.co/facebook/dragon-roberta-context-encoder
+    verified_url: https://huggingface.co/facebook/dragon-roberta-context-encoder
+    repository_id: facebook/dragon-roberta-context-encoder
+  - url: https://github.com/facebookresearch/dpr-scale/tree/main/dragon#data-augmentation-for-dragon-training-
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/main/dragon#data-augmentation-for-dragon-training-
+    repository_id: null
+- file: _publications/2023-01-01-learning-to-simulate-natural-language-feedback-for-interactive-semantic-parsing.md
+  title: Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/hyan5/Learning_to_Simulate_NL_Feedback
+  checked_sources:
+  - https://aclanthology.org/2023.acl-long.177/
+  - https://arxiv.org/abs/2305.08195
+  - https://arxiv.org/html/2305.08195
+  note: The code release is available; the dataset folder linked in its README currently returns 404.
+  release_evidence:
+  - url: https://github.com/hyan5/Learning_to_Simulate_NL_Feedback
+    verified_url: https://github.com/hyan5/Learning_to_Simulate_NL_Feedback
+    repository_id: null
+- file: _publications/2023-01-01-nonparametric-masked-language-modeling.md
+  title: Nonparametric Masked Language Modeling
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/NPM
+    model:
+    - https://huggingface.co/facebook/npm
+    - https://huggingface.co/facebook/npm-single
+  checked_sources:
+  - https://aclanthology.org/2023.findings-acl.132/
+  - https://arxiv.org/abs/2212.01349
+  - https://arxiv.org/html/2212.01349
+  release_evidence:
+  - url: https://github.com/facebookresearch/NPM
+    verified_url: https://github.com/facebookresearch/NPM
+    repository_id: null
+  - url: https://huggingface.co/facebook/npm
+    verified_url: https://huggingface.co/facebook/npm
+    repository_id: facebook/npm
+  - url: https://huggingface.co/facebook/npm-single
+    verified_url: https://huggingface.co/facebook/npm-single
+    repository_id: facebook/npm-single
+- file: _publications/2023-01-01-one-embedder-any-task-instruction-finetuned-text-embeddings.md
+  title: 'One Embedder, Any Task: Instruction-Finetuned Text Embeddings'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://instructor-embedding.github.io/
+    model:
+    - https://huggingface.co/hkunlp/instructor-large
+    - https://huggingface.co/hkunlp/instructor-base
+    - https://huggingface.co/hkunlp/instructor-xl
+    dataset:
+    - https://drive.google.com/file/d/1_Ax8rTeeDKpNxj85LD2Yh7qsh3sYEiSH/view?usp=sharing
+    code:
+    - https://github.com/xlang-ai/instructor-embedding
+  checked_sources:
+  - https://aclanthology.org/2023.findings-acl.71/
+  - https://arxiv.org/abs/2212.09741
+  - https://arxiv.org/html/2212.09741
+  release_evidence:
+  - url: https://instructor-embedding.github.io/
+    verified_url: https://instructor-embedding.github.io/
+    repository_id: null
+  - url: https://huggingface.co/hkunlp/instructor-large
+    verified_url: https://huggingface.co/hkunlp/instructor-large
+    repository_id: hkunlp/instructor-large
+  - url: https://huggingface.co/hkunlp/instructor-base
+    verified_url: https://huggingface.co/hkunlp/instructor-base
+    repository_id: hkunlp/instructor-base
+  - url: https://huggingface.co/hkunlp/instructor-xl
+    verified_url: https://huggingface.co/hkunlp/instructor-xl
+    repository_id: hkunlp/instructor-xl
+  - url: https://drive.google.com/file/d/1_Ax8rTeeDKpNxj85LD2Yh7qsh3sYEiSH/view?usp=sharing
+    verified_url: https://drive.google.com/file/d/1_Ax8rTeeDKpNxj85LD2Yh7qsh3sYEiSH/view?usp=sharing
+    repository_id: null
+  - url: https://github.com/xlang-ai/instructor-embedding
+    verified_url: https://github.com/xlang-ai/instructor-embedding
+    repository_id: null
+- file: _publications/2023-01-01-reimagining-retrieval-augmented-language-models-for-answering-queries.md
+  title: Reimagining Retrieval Augmented Language Models for Answering Queries
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2023.findings-acl.382/
+  - https://aclanthology.org/2023.findings-acl.382.pdf
+  search_query: '"Reimagining Retrieval Augmented Language Models for Answering Queries" code data model release'
+- file: _publications/2023-01-01-romqa-a-benchmark-for-robust-multi-evidence-multi-answer-question-answering.md
+  title: 'RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/romqa
+    dataset:
+    - https://github.com/facebookresearch/romqa#data
+  checked_sources:
+  - https://aclanthology.org/2023.findings-emnlp.470/
+  - https://arxiv.org/abs/2210.14353
+  - https://arxiv.org/html/2210.14353
+  release_evidence:
+  - url: https://github.com/facebookresearch/romqa
+    verified_url: https://github.com/facebookresearch/romqa
+    repository_id: null
+  - url: https://github.com/facebookresearch/romqa#data
+    verified_url: https://github.com/facebookresearch/romqa#data
+    repository_id: null
+- file: _publications/2023-01-01-task-aware-retrieval-with-instructions.md
+  title: Task-aware Retrieval with Instructions
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/tart
+    dataset:
+    - https://github.com/facebookresearch/tart#dataset-berri
+    model:
+    - https://huggingface.co/facebook/tart-full-flan-t5-xl
+  checked_sources:
+  - https://aclanthology.org/2023.findings-acl.225/
+  - https://arxiv.org/abs/2211.09260
+  - https://arxiv.org/html/2211.09260
+  release_evidence:
+  - url: https://github.com/facebookresearch/tart
+    verified_url: https://github.com/facebookresearch/tart
+    repository_id: null
+  - url: https://github.com/facebookresearch/tart#dataset-berri
+    verified_url: https://github.com/facebookresearch/tart#dataset-berri
+    repository_id: null
+  - url: https://huggingface.co/facebook/tart-full-flan-t5-xl
+    verified_url: https://huggingface.co/facebook/tart-full-flan-t5-xl
+    repository_id: facebook/tart-full-flan-t5-xl
+- file: _publications/2023-05-04-videoofa-two-stage-pre-training-for-video-to-text-generation.md
+  title: 'VideoOFA: Two-Stage Pre-Training for Video-to-Text Generation'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2305.03204
+  - https://arxiv.org/abs/2305.03204
+  - https://arxiv.org/html/2305.03204
+  search_query: '"VideoOFA: Two-Stage Pre-Training for Video-to-Text Generation" code data model release'
+- file: _publications/2023-05-09-large-language-model-programs.md
+  title: Large Language Model Programs
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2305.05364
+  - https://arxiv.org/abs/2305.05364
+  - https://arxiv.org/html/2305.05364
+  search_query: '"Large Language Model Programs" code data model release'
+- file: _publications/2023-07-03-coder-reviewer-reranking-for-code-generation.md
+  title: Coder Reviewer Reranking for Code Generation
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/coder_reviewer_reranking
+    dataset:
+    - https://github.com/facebookresearch/coder_reviewer_reranking#downloading-data-and-cached-outputs
+  checked_sources:
+  - https://proceedings.mlr.press/v202/zhang23av.html
+  - https://arxiv.org/abs/2211.16490
+  - https://arxiv.org/html/2211.16490
+  release_evidence:
+  - url: https://github.com/facebookresearch/coder_reviewer_reranking
+    verified_url: https://github.com/facebookresearch/coder_reviewer_reranking
+    repository_id: null
+  - url: https://github.com/facebookresearch/coder_reviewer_reranking#downloading-data-and-cached-outputs
+    verified_url: https://github.com/facebookresearch/coder_reviewer_reranking#downloading-data-and-cached-outputs
+    repository_id: null
+- file: _publications/2023-07-03-ds-1000-a-natural-and-reliable-benchmark-for-data-science-code-generation.md
+  title: 'DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    project:
+    - https://ds1000-code-gen.github.io/
+    dataset:
+    - https://huggingface.co/datasets/xlangai/DS-1000
+    code:
+    - https://github.com/xlang-ai/DS-1000
+  checked_sources:
+  - https://proceedings.mlr.press/v202/lai23b.html
+  - https://arxiv.org/abs/2211.11501
+  - https://arxiv.org/html/2211.11501
+  release_evidence:
+  - url: https://ds1000-code-gen.github.io/
+    verified_url: https://ds1000-code-gen.github.io/
+    repository_id: null
+  - url: https://huggingface.co/datasets/xlangai/DS-1000
+    verified_url: https://huggingface.co/datasets/xlangai/DS-1000
+    repository_id: xlangai/DS-1000
+  - url: https://github.com/xlang-ai/DS-1000
+    verified_url: https://github.com/xlang-ai/DS-1000
+    repository_id: null
+- file: _publications/2023-07-03-lever-learning-to-verify-language-to-code-generation-with-execution.md
+  title: 'LEVER: Learning to Verify Language-to-Code Generation with Execution'
+  year: '2023'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/niansong1996/lever
+    dataset:
+    - https://drive.google.com/file/d/1pxFSnQVZKTJ9uAeZWiMopMbP8pdWK7GI/view?usp=sharing
+    model:
+    - https://huggingface.co/niansong1996/lever-spider-codex
+    - https://huggingface.co/niansong1996/lever-wikitq-codex
+    - https://huggingface.co/niansong1996/lever-gsm8k-codex
+    - https://huggingface.co/niansong1996/lever-mbpp-codex
+  checked_sources:
+  - https://proceedings.mlr.press/v202/ni23b
+  - https://arxiv.org/abs/2302.08468
+  - https://arxiv.org/html/2302.08468
+  release_evidence:
+  - url: https://github.com/niansong1996/lever
+    verified_url: https://github.com/niansong1996/lever
+    repository_id: null
+  - url: https://drive.google.com/file/d/1pxFSnQVZKTJ9uAeZWiMopMbP8pdWK7GI/view?usp=sharing
+    verified_url: https://drive.google.com/file/d/1pxFSnQVZKTJ9uAeZWiMopMbP8pdWK7GI/view?usp=sharing
+    repository_id: null
+  - url: https://huggingface.co/niansong1996/lever-spider-codex
+    verified_url: https://huggingface.co/niansong1996/lever-spider-codex
+    repository_id: niansong1996/lever-spider-codex
+  - url: https://huggingface.co/niansong1996/lever-wikitq-codex
+    verified_url: https://huggingface.co/niansong1996/lever-wikitq-codex
+    repository_id: niansong1996/lever-wikitq-codex
+  - url: https://huggingface.co/niansong1996/lever-gsm8k-codex
+    verified_url: https://huggingface.co/niansong1996/lever-gsm8k-codex
+    repository_id: niansong1996/lever-gsm8k-codex
+  - url: https://huggingface.co/niansong1996/lever-mbpp-codex
+    verified_url: https://huggingface.co/niansong1996/lever-mbpp-codex
+    repository_id: niansong1996/lever-mbpp-codex
+- file: _publications/2024-01-01-altogether-image-captioning-via-re-aligning-alt-text.md
+  title: 'Altogether: Image Captioning via Re-aligning Alt-text'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/MetaCLIP/tree/main/apps/altogether
+    model:
+    - https://github.com/facebookresearch/MetaCLIP#quick-start
+    dataset:
+    - https://huggingface.co/datasets/activebus/Altogether-FT
+  checked_sources:
+  - https://aclanthology.org/2024.emnlp-main.1075/
+  - https://arxiv.org/abs/2410.17251
+  - https://arxiv.org/html/2410.17251
+  release_evidence:
+  - url: https://github.com/facebookresearch/MetaCLIP/tree/main/apps/altogether
+    verified_url: https://github.com/facebookresearch/MetaCLIP/tree/main/apps/altogether
+    repository_id: null
+  - url: https://github.com/facebookresearch/MetaCLIP#quick-start
+    verified_url: https://github.com/facebookresearch/MetaCLIP#quick-start
+    repository_id: null
+  - url: https://huggingface.co/datasets/activebus/Altogether-FT
+    verified_url: https://huggingface.co/datasets/activebus/Altogether-FT
+    repository_id: activebus/Altogether-FT
+- file: _publications/2024-01-01-few-shot-data-synthesis-for-open-domain-multi-hop-question-answering.md
+  title: Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2024.eacl-long.12/
+  - https://arxiv.org/abs/2305.13691
+  - https://arxiv.org/html/2305.13691
+  search_query: '"Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering" code data model release'
+- file: _publications/2024-01-01-instruction-tuned-language-models-are-better-knowledge-learners.md
+  title: Instruction-tuned Language Models are Better Knowledge Learners
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://github.com/Edward-Sun/PIT
+  checked_sources:
+  - https://aclanthology.org/2024.acl-long.296/
+  - https://arxiv.org/abs/2402.12847
+  - https://arxiv.org/html/2402.12847
+  historical_links_unverified:
+    code: https://github.com/Edward-Sun/PIT
+  note: The author released regenerated Wiki2023 data, explicitly described as a reproduction rather than the original
+    experimental data.
+  release_evidence:
+  - url: https://github.com/Edward-Sun/PIT
+    verified_url: https://github.com/Edward-Sun/PIT
+    repository_id: null
+- file: _publications/2024-01-01-kdd-cup-crag-competition-systems-findings-and-learnings.md
+  title: 'KDD Cup CRAG competition: Systems, Findings and Learnings.'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/CRAG
+    dataset:
+    - https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+  checked_sources: []
+  search_query: '"KDD Cup CRAG competition: Systems, Findings and Learnings." code data model release'
+  source_errors:
+  - source: http://sites.computer.org/debull/A24dec/p163.pdf?trk=public_post_comment-text
+    error: 'HTTP Error 503: Bad Gateway'
+  note: This competition report shares the CRAG benchmark release. Its original PDF endpoint was unavailable during
+    this check.
+  release_evidence:
+  - url: https://github.com/facebookresearch/CRAG
+    verified_url: https://github.com/facebookresearch/CRAG
+    repository_id: null
+  - url: https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+    verified_url: https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+    repository_id: null
+- file: _publications/2024-01-01-replug-retrieval-augmented-black-box-language-models.md
+  title: 'REPLUG: Retrieval-Augmented Black-Box Language Models'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2024.naacl-long.463/
+  - https://arxiv.org/abs/2301.12652
+  - https://arxiv.org/html/2301.12652
+  search_query: '"REPLUG: Retrieval-Augmented Black-Box Language Models" code data model release'
+  note: The paper names swj0419/REPLUG, which currently returns 404.
+- file: _publications/2024-01-01-trusting-your-evidence-hallucinate-less-with-context-aware-decoding.md
+  title: 'Trusting Your Evidence: Hallucinate Less with Context-aware Decoding'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/xhan77/context-aware-decoding
+  checked_sources:
+  - https://aclanthology.org/2024.naacl-short.69/
+  - https://arxiv.org/abs/2305.14739
+  - https://arxiv.org/html/2305.14739
+  release_evidence:
+  - url: https://github.com/xhan77/context-aware-decoding
+    verified_url: https://github.com/xhan77/context-aware-decoding
+    repository_id: null
+- file: _publications/2024-03-05-reliable-adaptable-and-attributable-language-models-with-retrieval.md
+  title: Reliable, Adaptable, and Attributable Language Models with Retrieval
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2403.03187
+  - https://arxiv.org/abs/2403.03187
+  - https://arxiv.org/html/2403.03187
+  search_query: '"Reliable, Adaptable, and Attributable Language Models with Retrieval" code data model release'
+- file: _publications/2024-03-12-branch-train-mix-mixing-expert-llms-into-a-mixture-of-experts-llm.md
+  title: 'Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2403.07816
+  - https://arxiv.org/abs/2403.07816
+  - https://arxiv.org/html/2403.07816
+  search_query: '"Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM" code data model release'
+- file: _publications/2024-05-16-chameleon-mixed-modal-early-fusion-foundation-models.md
+  title: 'Chameleon: Mixed-modal early-fusion foundation models'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/chameleon
+    model:
+    - https://huggingface.co/facebook/chameleon-7b
+    - https://huggingface.co/facebook/chameleon-30b
+  checked_sources:
+  - https://arxiv.org/abs/2405.09818
+  - https://arxiv.org/abs/2405.09818
+  - https://arxiv.org/html/2405.09818
+  search_query: '"Chameleon: Mixed-modal early-fusion foundation models" code data model release'
+  release_evidence:
+  - url: https://github.com/facebookresearch/chameleon
+    verified_url: https://github.com/facebookresearch/chameleon
+    repository_id: null
+  - url: https://huggingface.co/facebook/chameleon-7b
+    verified_url: https://huggingface.co/facebook/chameleon-7b
+    repository_id: facebook/chameleon-7b
+  - url: https://huggingface.co/facebook/chameleon-30b
+    verified_url: https://huggingface.co/facebook/chameleon-30b
+    repository_id: facebook/chameleon-30b
+- file: _publications/2024-05-31-ra-dit-retrieval-augmented-dual-instruction-tuning.md
+  title: 'RA-DIT: Retrieval-Augmented Dual Instruction Tuning'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://proceedings.iclr.cc/paper_files/paper/2024/hash/536d18fbb454f80221465f1a42c6f389-Abstract-Conference.html
+  search_query: '"RA-DIT: Retrieval-Augmented Dual Instruction Tuning" code data model release'
+- file: _publications/2024-06-16-mode-clip-data-experts-via-clustering.md
+  title: 'Mode: Clip data experts via clustering'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/MetaCLIP/tree/main/apps/mode
+  checked_sources:
+  - https://ieeexplore.ieee.org/abstract/document/10655304/
+  search_query: '"Mode: Clip data experts via clustering" code data model release'
+  release_evidence:
+  - url: https://github.com/facebookresearch/MetaCLIP/tree/main/apps/mode
+    verified_url: https://github.com/facebookresearch/MetaCLIP/tree/main/apps/mode
+    repository_id: null
+- file: _publications/2024-11-07-mixture-of-transformers-a-sparse-and-scalable-architecture-for-multi-modal-foundation-models.md
+  title: 'Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/Mixture-of-Transformers
+  checked_sources:
+  - https://arxiv.org/abs/2411.04996
+  - https://arxiv.org/abs/2411.04996
+  - https://arxiv.org/html/2411.04996
+  release_evidence:
+  - url: https://github.com/facebookresearch/Mixture-of-Transformers
+    verified_url: https://github.com/facebookresearch/Mixture-of-Transformers
+    repository_id: null
+- file: _publications/2024-12-12-memory-layers-at-scale.md
+  title: Memory Layers at Scale
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/memory
+  checked_sources:
+  - https://proceedings.mlr.press/v267/berges25a.html
+  - https://arxiv.org/abs/2412.09764
+  - https://arxiv.org/html/2412.09764
+  release_evidence:
+  - url: https://github.com/facebookresearch/memory
+    verified_url: https://github.com/facebookresearch/memory
+    repository_id: null
+- file: _publications/2024-12-16-crag-comprehensive-rag-benchmark.md
+  title: CRAG - Comprehensive RAG Benchmark
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/CRAG
+    dataset:
+    - https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html
+  release_evidence:
+  - url: https://github.com/facebookresearch/CRAG
+    verified_url: https://github.com/facebookresearch/CRAG
+    repository_id: null
+  - url: https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+    verified_url: https://github.com/facebookresearch/CRAG/blob/main/docs/dataset.md
+    repository_id: null
+- file: _publications/2024-12-16-flame-factuality-aware-alignment-for-large-language-models.md
+  title: 'FLAME : Factuality-Aware Alignment for Large Language Models'
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2024/hash/d16152d53088ad779ffa634e7bf66166-Abstract-Conference.html
+  - https://arxiv.org/abs/2405.01525
+  - https://arxiv.org/html/2405.01525
+  search_query: '"FLAME : Factuality-Aware Alignment for Large Language Models" code data model release'
+- file: _publications/2024-12-16-nearest-neighbor-speculative-decoding-for-llm-generation-and-attribution.md
+  title: Nearest Neighbor Speculative Decoding for LLM Generation and Attribution
+  year: '2024'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/NEST
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2024/hash/93c099bb4cde51b724eaa6d6d4a4b5e4-Abstract-Conference.html
+  - https://arxiv.org/abs/2405.19325
+  - https://arxiv.org/html/2405.19325
+  release_evidence:
+  - url: https://github.com/facebookresearch/NEST
+    verified_url: https://github.com/facebookresearch/NEST
+    repository_id: null
+- file: _publications/2025-01-01-drama-diverse-augmentation-from-large-language-models-to-smaller-dense-retrievers.md
+  title: 'DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/dpr-scale/tree/main/drama
+    model:
+    - https://huggingface.co/facebook/drama-base
+    - https://huggingface.co/facebook/drama-large
+    - https://huggingface.co/facebook/drama-1b
+  checked_sources:
+  - https://aclanthology.org/2025.acl-long.1457/
+  - https://arxiv.org/abs/2502.18460
+  - https://arxiv.org/html/2502.18460
+  release_evidence:
+  - url: https://github.com/facebookresearch/dpr-scale/tree/main/drama
+    verified_url: https://github.com/facebookresearch/dpr-scale/tree/main/drama
+    repository_id: null
+  - url: https://huggingface.co/facebook/drama-base
+    verified_url: https://huggingface.co/facebook/drama-base
+    repository_id: facebook/drama-base
+  - url: https://huggingface.co/facebook/drama-large
+    verified_url: https://huggingface.co/facebook/drama-large
+    repository_id: facebook/drama-large
+  - url: https://huggingface.co/facebook/drama-1b
+    verified_url: https://huggingface.co/facebook/drama-1b
+    repository_id: facebook/drama-1b
+- file: _publications/2025-01-01-hybridcot-interleaving-latent-and-text-chain-of-thought-for-efficient-reasoning.md
+  title: 'Hybridcot: Interleaving latent and text chain-of-thought for efficient reasoning'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://openreview.net/forum?id=NRGRrHmq1H
+  search_query: '"Hybridcot: Interleaving latent and text chain-of-thought for efficient reasoning" code data model
+    release'
+- file: _publications/2025-01-01-imprag-retrieval-augmented-generation-with-implicit-queries.md
+  title: 'ImpRAG: Retrieval-Augmented Generation with Implicit Queries'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2025.findings-emnlp.472/
+  - https://arxiv.org/abs/2506.02279
+  - https://arxiv.org/html/2506.02279
+  search_query: '"ImpRAG: Retrieval-Augmented Generation with Implicit Queries" code data model release'
+- file: _publications/2025-01-01-improving-factuality-with-explicit-working-memory.md
+  title: Improving Factuality with Explicit Working Memory
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2025.acl-long.548/
+  - https://arxiv.org/abs/2412.18069
+  - https://arxiv.org/html/2412.18069
+  search_query: '"Improving Factuality with Explicit Working Memory" code data model release'
+- file: _publications/2025-01-01-prismrag-boosting-rag-factuality-with-distractor-resilience-and-strategized-reasoning.md
+  title: 'PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://aclanthology.org/2025.emnlp-industry.53/
+  - https://arxiv.org/abs/2507.18857
+  - https://arxiv.org/html/2507.18857
+  search_query: '"PrismRAG: Boosting RAG Factuality with Distractor Resilience and Strategized Reasoning" code data
+    model release'
+- file: _publications/2025-02-13-selfcite-self-supervised-alignment-for-context-attribution-in-large-language-models.md
+  title: 'SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/SelfCite
+    model:
+    - https://huggingface.co/voidism/SelfCite-8B
+    - https://huggingface.co/voidism/SelfCite-8B-from-CC
+  checked_sources:
+  - https://proceedings.mlr.press/v267/chuang25a.html
+  - https://arxiv.org/abs/2502.09604
+  - https://arxiv.org/html/2502.09604
+  release_evidence:
+  - url: https://github.com/facebookresearch/SelfCite
+    verified_url: https://github.com/facebookresearch/SelfCite
+    repository_id: null
+  - url: https://huggingface.co/voidism/SelfCite-8B
+    verified_url: https://huggingface.co/voidism/SelfCite-8B
+    repository_id: voidism/SelfCite-8B
+  - url: https://huggingface.co/voidism/SelfCite-8B-from-CC
+    verified_url: https://huggingface.co/voidism/SelfCite-8B-from-CC
+    repository_id: voidism/SelfCite-8B-from-CC
+- file: _publications/2025-04-29-reasonir-training-retrievers-for-reasoning-tasks.md
+  title: 'ReasonIR: Training Retrievers for Reasoning Tasks'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/ReasonIR
+    model:
+    - https://huggingface.co/reasonir/ReasonIR-8B
+    dataset:
+    - https://huggingface.co/datasets/reasonir/reasonir-data
+  checked_sources:
+  - https://arxiv.org/abs/2504.20595
+  - https://arxiv.org/abs/2504.20595
+  - https://arxiv.org/html/2504.20595
+  release_evidence:
+  - url: https://github.com/facebookresearch/ReasonIR
+    verified_url: https://github.com/facebookresearch/ReasonIR
+    repository_id: null
+  - url: https://huggingface.co/reasonir/ReasonIR-8B
+    verified_url: https://huggingface.co/reasonir/ReasonIR-8B
+    repository_id: reasonir/ReasonIR-8B
+  - url: https://huggingface.co/datasets/reasonir/reasonir-data
+    verified_url: https://huggingface.co/datasets/reasonir/reasonir-data
+    repository_id: reasonir/reasonir-data
+- file: _publications/2025-06-08-confrag-confidence-guided-retrieval-augmenting-generation.md
+  title: 'ConfRAG: Confidence-Guided Retrieval-Augmenting Generation'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2506.07309
+  - https://arxiv.org/abs/2506.07309
+  - https://arxiv.org/html/2506.07309
+  search_query: '"ConfRAG: Confidence-Guided Retrieval-Augmenting Generation" code data model release'
+- file: _publications/2025-07-31-factory-a-challenging-human-verified-prompt-set-for-long-form-factuality.md
+  title: 'FACTORY: A challenging human-verified prompt set for long-form factuality'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://huggingface.co/datasets/facebook/FACTORY
+  checked_sources:
+  - https://arxiv.org/abs/2508.00109
+  - https://arxiv.org/abs/2508.00109
+  - https://arxiv.org/html/2508.00109
+  release_evidence:
+  - url: https://huggingface.co/datasets/facebook/FACTORY
+    verified_url: https://huggingface.co/datasets/facebook/FACTORY
+    repository_id: facebook/FACTORY
+- file: _publications/2025-08-07-learning-to-reason-for-factuality.md
+  title: Learning to Reason for Factuality
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/factual_reasoning
+    - https://github.com/facebookresearch/ScalableVeriScore
+    dataset:
+    - https://huggingface.co/datasets/facebook/factual_reasoning
+  checked_sources:
+  - https://proceedings.mlr.press/v306/chen26bh.html
+  - https://arxiv.org/abs/2508.05618
+  - https://arxiv.org/html/2508.05618
+  release_evidence:
+  - url: https://github.com/facebookresearch/factual_reasoning
+    verified_url: https://github.com/facebookresearch/factual_reasoning
+    repository_id: null
+  - url: https://github.com/facebookresearch/ScalableVeriScore
+    verified_url: https://github.com/facebookresearch/ScalableVeriScore
+    repository_id: null
+  - url: https://huggingface.co/datasets/facebook/factual_reasoning
+    verified_url: https://huggingface.co/datasets/facebook/factual_reasoning
+    repository_id: facebook/factual_reasoning
+- file: _publications/2025-08-08-characterizing-and-efficiently-accelerating-multimodal-generation-model-inference.md
+  title: Characterizing and efficiently accelerating multimodal generation model inference
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://ieeexplore.ieee.org/abstract/document/11120454/
+  search_query: '"Characterizing and efficiently accelerating multimodal generation model inference" code data model
+    release'
+- file: _publications/2025-09-30-truthrl-incentivizing-truthful-llms-via-reinforcement-learning.md
+  title: 'TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/TruthRL
+  checked_sources:
+  - https://proceedings.mlr.press/v306/wei26ab.html
+  - https://arxiv.org/abs/2509.25760
+  - https://arxiv.org/html/2509.25760
+  release_evidence:
+  - url: https://github.com/facebookresearch/TruthRL
+    verified_url: https://github.com/facebookresearch/TruthRL
+    repository_id: null
+- file: _publications/2025-10-16-continual-learning-via-sparse-memory-finetuning.md
+  title: Continual learning via sparse memory finetuning
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2510.15103
+  - https://arxiv.org/abs/2510.15103
+  - https://arxiv.org/html/2510.15103
+  search_query: '"Continual learning via sparse memory finetuning" code data model release'
+- file: _publications/2025-11-24-dr-tulu-reinforcement-learning-with-evolving-rubrics-for-deep-research.md
+  title: 'DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/rlresearch/dr-tulu
+    project:
+    - https://huggingface.co/collections/rl-research/dr-tulu
+    model:
+    - https://huggingface.co/rl-research/DR-Tulu-8B
+    - https://huggingface.co/rl-research/DR-Tulu-SFT-8B
+    dataset:
+    - https://huggingface.co/datasets/rl-research/dr-tulu-sft-data
+    - https://huggingface.co/datasets/rl-research/dr-tulu-rl-data
+  checked_sources:
+  - https://proceedings.mlr.press/v306/shao26a.html
+  - https://arxiv.org/abs/2511.19399
+  - https://arxiv.org/html/2511.19399
+  release_evidence:
+  - url: https://github.com/rlresearch/dr-tulu
+    verified_url: https://github.com/rlresearch/dr-tulu
+    repository_id: null
+  - url: https://huggingface.co/collections/rl-research/dr-tulu
+    verified_url: https://huggingface.co/collections/rl-research/dr-tulu
+    repository_id: null
+  - url: https://huggingface.co/rl-research/DR-Tulu-8B
+    verified_url: https://huggingface.co/rl-research/DR-Tulu-8B
+    repository_id: rl-research/DR-Tulu-8B
+  - url: https://huggingface.co/rl-research/DR-Tulu-SFT-8B
+    verified_url: https://huggingface.co/rl-research/DR-Tulu-SFT-8B
+    repository_id: rl-research/DR-Tulu-SFT-8B
+  - url: https://huggingface.co/datasets/rl-research/dr-tulu-sft-data
+    verified_url: https://huggingface.co/datasets/rl-research/dr-tulu-sft-data
+    repository_id: rl-research/dr-tulu-sft-data
+  - url: https://huggingface.co/datasets/rl-research/dr-tulu-rl-data
+    verified_url: https://huggingface.co/datasets/rl-research/dr-tulu-rl-data
+    repository_id: rl-research/dr-tulu-rl-data
+- file: _publications/2026-01-01-honeybee-data-recipes-for-vision-language-reasoners.md
+  title: 'HoneyBee: Data Recipes for Vision-Language Reasoners'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/HoneyBee_VLM
+    dataset:
+    - https://huggingface.co/datasets/facebook/HoneyBee
+  checked_sources:
+  - https://openaccess.thecvf.com/content/CVPR2026/html/Bansal_HoneyBee_Data_Recipes_for_Vision-Language_Reasoners_CVPR_2026_paper.html
+  - https://arxiv.org/abs/2510.12225
+  - https://arxiv.org/html/2510.12225
+  release_evidence:
+  - url: https://github.com/facebookresearch/HoneyBee_VLM
+    verified_url: https://github.com/facebookresearch/HoneyBee_VLM
+    repository_id: null
+  - url: https://huggingface.co/datasets/facebook/HoneyBee
+    verified_url: https://huggingface.co/datasets/facebook/HoneyBee
+    repository_id: facebook/HoneyBee
+- file: _publications/2026-01-01-knowledge-extraction-on-semi-structured-content-does-it-remain-relevant-for-question-answering-in-the-era-of-llms.md
+  title: 'Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the
+    Era of LLMs?'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    dataset:
+    - https://github.com/facebookresearch/SemiBench
+  checked_sources:
+  - https://aclanthology.org/2026.eacl-long.91/
+  - https://arxiv.org/abs/2509.25107
+  - https://arxiv.org/html/2509.25107
+  release_evidence:
+  - url: https://github.com/facebookresearch/SemiBench
+    verified_url: https://github.com/facebookresearch/SemiBench
+    repository_id: null
+- file: _publications/2026-02-06-anchored-decoding-provably-reducing-copyright-risk-for-any-language-model.md
+  title: 'Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/jacqueline-he/anchored-decoding
+  checked_sources:
+  - https://proceedings.mlr.press/v306/he26k.html
+  - https://arxiv.org/abs/2602.07120
+  - https://arxiv.org/html/2602.07120
+  release_evidence:
+  - url: https://github.com/jacqueline-he/anchored-decoding
+    verified_url: https://github.com/jacqueline-he/anchored-decoding
+    repository_id: null
+- file: _publications/2026-02-26-synthesizing-scientific-literature-with-retrieval-augmented-language-models.md
+  title: Synthesizing scientific literature with retrieval-augmented language models
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/AkariAsai/OpenScholar
+    - https://github.com/AkariAsai/ScholarQABench
+    - https://github.com/AkariAsai/OpenScholar_ExpertEval
+    - https://github.com/allenai/openscilm
+    dataset:
+    - https://huggingface.co/datasets/OpenSciLM/OS_Train_Data
+    - https://github.com/AkariAsai/ScholarQABench/tree/main/data
+    - https://huggingface.co/datasets/allenai/openscilm_queries
+    - https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V2
+    - https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V3
+    model:
+    - https://huggingface.co/OpenSciLM/Llama-3.1_OpenScholar-8B
+    - https://huggingface.co/OpenSciLM/OpenScholar_Retriever
+    - https://huggingface.co/OpenSciLM/OpenScholar_Reranker
+  checked_sources:
+  - https://www.nature.com/articles/s41586-025-10072-4
+  - https://arxiv.org/abs/2411.14199
+  - https://arxiv.org/html/2411.14199
+  note: Release links include the OpenScholar model, retriever, reranker, training data, datastore, evaluation benchmark,
+    expert-evaluation interface and public demo.
+  release_evidence:
+  - url: https://github.com/AkariAsai/OpenScholar
+    verified_url: https://github.com/AkariAsai/OpenScholar
+    repository_id: null
+  - url: https://github.com/AkariAsai/ScholarQABench
+    verified_url: https://github.com/AkariAsai/ScholarQABench
+    repository_id: null
+  - url: https://github.com/AkariAsai/OpenScholar_ExpertEval
+    verified_url: https://github.com/AkariAsai/OpenScholar_ExpertEval
+    repository_id: null
+  - url: https://github.com/allenai/openscilm
+    verified_url: https://github.com/allenai/openscilm
+    repository_id: null
+  - url: https://huggingface.co/datasets/OpenSciLM/OS_Train_Data
+    verified_url: https://huggingface.co/datasets/OpenSciLM/OS_Train_Data
+    repository_id: OpenSciLM/OS_Train_Data
+  - url: https://github.com/AkariAsai/ScholarQABench/tree/main/data
+    verified_url: https://github.com/AkariAsai/ScholarQABench/tree/main/data
+    repository_id: null
+  - url: https://huggingface.co/datasets/allenai/openscilm_queries
+    verified_url: https://huggingface.co/datasets/allenai/openscilm_queries
+    repository_id: allenai/openscilm_queries
+  - url: https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V2
+    verified_url: https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V2
+    repository_id: OpenSciLM/OpenScholar-DataStore-V2
+  - url: https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V3
+    verified_url: https://huggingface.co/datasets/OpenSciLM/OpenScholar-DataStore-V3
+    repository_id: OpenSciLM/OpenScholar-DataStore-V3
+  - url: https://huggingface.co/OpenSciLM/Llama-3.1_OpenScholar-8B
+    verified_url: https://huggingface.co/OpenSciLM/Llama-3.1_OpenScholar-8B
+    repository_id: OpenSciLM/Llama-3.1_OpenScholar-8B
+  - url: https://huggingface.co/OpenSciLM/OpenScholar_Retriever
+    verified_url: https://huggingface.co/OpenSciLM/OpenScholar_Retriever
+    repository_id: OpenSciLM/OpenScholar_Retriever
+  - url: https://huggingface.co/OpenSciLM/OpenScholar_Reranker
+    verified_url: https://huggingface.co/OpenSciLM/OpenScholar_Reranker
+    repository_id: OpenSciLM/OpenScholar_Reranker
+- file: _publications/2026-04-01-procedural-knowledge-at-scale-improves-reasoning.md
+  title: Procedural Knowledge at Scale Improves Reasoning
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/reasoning-memory
+  checked_sources:
+  - https://arxiv.org/abs/2604.01348
+  - https://arxiv.org/abs/2604.01348
+  - https://arxiv.org/html/2604.01348
+  release_evidence:
+  - url: https://github.com/facebookresearch/reasoning-memory
+    verified_url: https://github.com/facebookresearch/reasoning-memory
+    repository_id: null
+- file: _publications/2026-04-20-learning-facts-at-scale-with-active-reading.md
+  title: Learning Facts at Scale with Active Reading
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://proceedings.iclr.cc/paper_files/paper/2026/hash/c4182d71e02a9673e530d3f0ea1c5cdf-Abstract-Conference.html
+  search_query: '"Learning Facts at Scale with Active Reading" code data model release'
+- file: _publications/2026-04-20-scribes-web-scale-script-based-semi-structured-data-extraction-with-reinforcement-learning.md
+  title: 'SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/SCRIBES
+  checked_sources:
+  - https://proceedings.iclr.cc/paper_files/paper/2026/hash/d8af89af081e3e3b52fca7c92bd6ccab-Abstract-Conference.html
+  - https://arxiv.org/abs/2510.01832
+  - https://arxiv.org/html/2510.01832
+  release_evidence:
+  - url: https://github.com/facebookresearch/SCRIBES
+    verified_url: https://github.com/facebookresearch/SCRIBES
+    repository_id: null
+- file: _publications/2026-04-23-flexolmo-open-language-models-for-flexible-data-use.md
+  title: 'FlexOLMo: Open Language Models for Flexible Data Use'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/allenai/FlexOlmo
+    model:
+    - https://huggingface.co/allenai/FlexOlmo-7x7B-1T
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2025/hash/f2621bfa8b39cd3c5a361273aa7ec4db-Abstract-Conference.html
+  - https://arxiv.org/abs/2507.07024
+  - https://arxiv.org/html/2507.07024
+  release_evidence:
+  - url: https://github.com/allenai/FlexOlmo
+    verified_url: https://github.com/allenai/FlexOlmo
+    repository_id: null
+  - url: https://huggingface.co/allenai/FlexOlmo-7x7B-1T
+    verified_url: https://huggingface.co/allenai/FlexOlmo-7x7B-1T
+    repository_id: allenai/FlexOlmo-7x7B-1T
+- file: _publications/2026-04-23-group-level-data-selection-for-efficient-pretraining.md
+  title: Group-Level Data Selection for Efficient Pretraining
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/Group-MATES
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2025/hash/e389ad5c08184ebecaf0640e01588489-Abstract-Conference.html
+  - https://arxiv.org/abs/2502.14709
+  - https://arxiv.org/html/2502.14709
+  release_evidence:
+  - url: https://github.com/facebookresearch/Group-MATES
+    verified_url: https://github.com/facebookresearch/Group-MATES
+    repository_id: null
+- file: _publications/2026-04-23-meta-clip-2-a-worldwide-scaling-recipe.md
+  title: 'Meta CLIP 2: A Worldwide Scaling Recipe'
+  year: '2025'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/MetaCLIP
+    model:
+    - https://huggingface.co/collections/facebook/meta-clip-687e97787e9155bc480ef446
+  checked_sources:
+  - https://proceedings.neurips.cc/paper_files/paper/2025/hash/449fb670956a93b3d4d95167f72093e1-Abstract-Conference.html
+  - https://arxiv.org/abs/2507.22062
+  - https://arxiv.org/html/2507.22062
+  release_evidence:
+  - url: https://github.com/facebookresearch/MetaCLIP
+    verified_url: https://github.com/facebookresearch/MetaCLIP
+    repository_id: null
+  - url: https://huggingface.co/collections/facebook/meta-clip-687e97787e9155bc480ef446
+    verified_url: https://huggingface.co/collections/facebook/meta-clip-1
+    repository_id: null
+- file: _publications/2026-05-13-self-pruned-key-value-attention-learning-when-to-write-by-predicting-future-utility.md
+  title: 'Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2605.14037
+  - https://arxiv.org/abs/2605.14037
+  - https://arxiv.org/html/2605.14037
+  search_query: '"Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility" code data
+    model release'
+- file: _publications/2026-07-02-s-ember-a-large-scale-benchmark-for-streaming-egocentric-memory-retrieval.md
+  title: 'S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/S-EMBER
+    dataset:
+    - https://huggingface.co/datasets/facebook/S-EMBER
+  checked_sources:
+  - https://arxiv.org/abs/2607.02689
+  - https://arxiv.org/abs/2607.02689
+  - https://arxiv.org/html/2607.02689
+  release_evidence:
+  - url: https://github.com/facebookresearch/S-EMBER
+    verified_url: https://github.com/facebookresearch/S-EMBER
+    repository_id: null
+  - url: https://huggingface.co/datasets/facebook/S-EMBER
+    verified_url: https://huggingface.co/datasets/facebook/S-EMBER
+    repository_id: facebook/S-EMBER
+- file: _publications/2026-07-21-two-level-meta-rubrics-for-evaluating-open-ended-generation-gamut-a-benchmark-for-factual-completeness.md
+  title: 'Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/GAMUT
+    dataset:
+    - https://huggingface.co/datasets/facebook/GAMUT
+  checked_sources:
+  - https://arxiv.org/abs/2607.19322
+  - https://arxiv.org/abs/2607.19322
+  - https://arxiv.org/html/2607.19322
+  release_evidence:
+  - url: https://github.com/facebookresearch/GAMUT
+    verified_url: https://github.com/facebookresearch/GAMUT
+    repository_id: null
+  - url: https://huggingface.co/datasets/facebook/GAMUT
+    verified_url: https://huggingface.co/datasets/facebook/GAMUT
+    repository_id: facebook/GAMUT
+- file: _publications/2026-08-09-crag-mm-multi-modal-multi-turn-comprehensive-rag-benchmark.md
+  title: 'CRAG-MM: Multi-modal multi-turn comprehensive RAG benchmark'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/CRAG-MM
+    dataset:
+    - https://huggingface.co/datasets/crag-mm-2025/crag-mm-single-turn-public
+    - https://huggingface.co/datasets/crag-mm-2025/crag-mm-multi-turn-public
+    project:
+    - https://kddcup25.github.io/
+  checked_sources: []
+  search_query: '"CRAG-MM: Multi-modal multi-turn comprehensive RAG benchmark" code data model release'
+  source_errors:
+  - source: https://dl.acm.org/doi/abs/10.1145/3770855.3817544
+    error: 'HTTP Error 403: Forbidden'
+  note: The benchmark repository and datasets verify the release; the ACM page was inaccessible during this check.
+  release_evidence:
+  - url: https://github.com/facebookresearch/CRAG-MM
+    verified_url: https://github.com/facebookresearch/CRAG-MM
+    repository_id: null
+  - url: https://huggingface.co/datasets/crag-mm-2025/crag-mm-single-turn-public
+    verified_url: https://huggingface.co/datasets/crag-mm-2025/crag-mm-single-turn-public
+    repository_id: crag-mm-2025/crag-mm-single-turn-public
+  - url: https://huggingface.co/datasets/crag-mm-2025/crag-mm-multi-turn-public
+    verified_url: https://huggingface.co/datasets/crag-mm-2025/crag-mm-multi-turn-public
+    repository_id: crag-mm-2025/crag-mm-multi-turn-public
+  - url: https://kddcup25.github.io/
+    verified_url: https://kddcup25.github.io/
+    repository_id: null
+- file: _publications/2026-08-09-retrieval-augmented-generation-rag-from-modular-to-agentic-systems.md
+  title: Retrieval-Augmented Generation (RAG)—From Modular to Agentic Systems
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: source_unavailable
+  releases: {}
+  checked_sources: []
+  search_query: '"Retrieval-Augmented Generation (RAG)—From Modular to Agentic Systems" code data model release'
+  source_errors:
+  - source: https://dl.acm.org/doi/abs/10.1145/3770855.3816460
+    error: 'HTTP Error 403: Forbidden'
+  note: The ACM page was inaccessible; no separate public tutorial resource or release was verified.
+- file: _publications/2026-09-01-knowledge-distillation-during-mid-training-favors-reasoning-over-factual-recall.md
+  title: Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/midtraining-distillation
+  checked_sources:
+  - https://arxiv.org/abs/2609.01532
+  - https://arxiv.org/abs/2609.01532
+  - https://arxiv.org/html/2609.01532
+  release_evidence:
+  - url: https://github.com/facebookresearch/midtraining-distillation
+    verified_url: https://github.com/facebookresearch/midtraining-distillation
+    repository_id: null
+- file: _publications/2026-09-29-context-language-models.md
+  title: Context Language Models
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/context-language-models
+    dataset:
+    - https://huggingface.co/datasets/context-language-model/ContextBench
+  checked_sources:
+  - https://arxiv.org/abs/2609.37725
+  - https://arxiv.org/abs/2609.37725
+  - https://arxiv.org/html/2609.37725
+  release_evidence:
+  - url: https://github.com/facebookresearch/context-language-models
+    verified_url: https://github.com/facebookresearch/context-language-models
+    repository_id: null
+  - url: https://huggingface.co/datasets/context-language-model/ContextBench
+    verified_url: https://huggingface.co/datasets/context-language-model/ContextBench
+    repository_id: context-language-model/ContextBench
+- file: _publications/2026-09-29-thinking-before-thinking-scaling-agentic-inference-through-meta-reasoning.md
+  title: 'Thinking before thinking: Scaling agentic inference through meta-reasoning'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2609.38147
+  - https://arxiv.org/abs/2609.38147
+  - https://arxiv.org/html/2609.38147
+  search_query: '"Thinking before thinking: Scaling agentic inference through meta-reasoning" code data model release'
+- file: _publications/2026-10-02-ideascientist-orchestrating-agents-for-grounded-scientific-ideation.md
+  title: 'IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/jiarui-liu/IdeaScientist
+    dataset:
+    - https://huggingface.co/datasets/Jerry999/SvalbardIdeaVault
+  checked_sources:
+  - https://arxiv.org/abs/2610.04074
+  - https://arxiv.org/abs/2610.04074
+  - https://arxiv.org/html/2610.04074
+  release_evidence:
+  - url: https://github.com/jiarui-liu/IdeaScientist
+    verified_url: https://github.com/jiarui-liu/IdeaScientist
+    repository_id: null
+  - url: https://huggingface.co/datasets/Jerry999/SvalbardIdeaVault
+    verified_url: https://huggingface.co/datasets/Jerry999/SvalbardIdeaVault
+    repository_id: Jerry999/SvalbardIdeaVault
+- file: _publications/2026-10-04-gitswarm-decentralized-compounding-inference.md
+  title: 'GitSwarm: Decentralized Compounding Inference'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2610.04862
+  - https://arxiv.org/abs/2610.04862
+  - https://arxiv.org/html/2610.04862
+  search_query: '"GitSwarm: Decentralized Compounding Inference" code data model release'
+  note: The paper references nanochat, autoresearch and mini-swe-agent as external tools; no release of GitSwarm
+    itself was verified.
+- file: _publications/2026-10-11-scaling-multi-agent-intelligence-with-substrate-centric-coordination.md
+  title: Scaling Multi-Agent Intelligence with Substrate-Centric Coordination
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: no_verified_release_found
+  releases: {}
+  checked_sources:
+  - https://arxiv.org/abs/2610.16120
+  - https://arxiv.org/abs/2610.16120
+  - https://arxiv.org/html/2610.16120
+  search_query: '"Scaling Multi-Agent Intelligence with Substrate-Centric Coordination" code data model release'
+  note: The smolagents repository is a dependency; no release of ScaleMAS itself was verified.
+- file: _publications/2026-10-15-memoproagent-toward-memory-driven-proactive-assistance.md
+  title: 'MemoProAgent: Toward Memory-Driven Proactive Assistance'
+  year: '2026'
+  checked_on: '2026-10-23'
+  status: verified_release
+  releases:
+    code:
+    - https://github.com/facebookresearch/Memo-Pro-Agent
+    dataset:
+    - https://huggingface.co/datasets/facebook/MemProBench
+  checked_sources:
+  - https://arxiv.org/abs/2610.22671
+  - https://arxiv.org/abs/2610.22671
+  - https://arxiv.org/html/2610.22671
+  release_evidence:
+  - url: https://github.com/facebookresearch/Memo-Pro-Agent
+    verified_url: https://github.com/facebookresearch/Memo-Pro-Agent
+    repository_id: null
+  - url: https://huggingface.co/datasets/facebook/MemProBench
+    verified_url: https://huggingface.co/datasets/facebook/MemProBench
+    repository_id: facebook/MemProBench

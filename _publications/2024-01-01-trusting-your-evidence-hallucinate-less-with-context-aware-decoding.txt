@@ -1,0 +1,20 @@
+@inproceedings{shi-etal-2024-trusting,
+    title = "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding",
+    author = "Shi, Weijia  and
+      Han, Xiaochuang  and
+      Lewis, Mike  and
+      Tsvetkov, Yulia  and
+      Zettlemoyer, Luke  and
+      Yih, Wen-tau",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies (Volume 2: Short Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-short.69/",
+    doi = "10.18653/v1/2024.naacl-short.69",
+    pages = "783--791"
+}

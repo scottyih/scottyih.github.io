@@ -1,0 +1,7 @@
+@article{characterizing-and-efficiently-accelerating-multimodal-generation-model-inference,
+  title = {Characterizing and efficiently accelerating multimodal generation model inference},
+  author = {Yejin Lee and Alicia Golden and Anna Sun and Basil Hosmer and Bilge Acun and Can Balioglu and Changhan Wang and Charles David Hernandez and Christian Puhrsch and Daniel Haziza and Driss Guessous and Francisco Massa and Jacob Kahn and Jeffrey Wan and Jeremy Reizenstein and Jiaqi Zhai and Joe Isaacson and Joel Schlosser and Juan Pino and Kaushik Ram Sadagopan and Leonid Shamis and Linjian Ma and Min-Jae Hwang and Mingda Chen and Mostafa Elhoushi and Pedro Rodriguez and Ram Pasunuru and Samuel Hsia and Wen-tau Yih and Sravya Popuri and Xing Liu and Carole-Jean Wu},
+  year = {2025},
+  journal = {IEEE Micro},
+  url = {https://ieeexplore.ieee.org/abstract/document/11120454/}
+}

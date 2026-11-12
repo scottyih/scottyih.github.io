@@ -9,7 +9,28 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endcomment %}
 
-Here are some of my recent talks.
+<p>Selected talks and tutorial resources on retrieval, language models, and question answering.</p>
+
+<h2>Tutorial resources</h2>
+
+<h3>From Retrieval-Augmented Generation (RAG) to Agentic Deep Research</h3>
+<p class="tutorial-meta">AACL-IJCNLP 2026 · November 10, 2026</p>
+<p>A tutorial on modular and graph-enhanced RAG, agentic retrieval, deep research, and multimodal RAG, grounded in an analysis of more than 2,000 papers.</p>
+<p>With Xin Luna Dong, Sanat Sharma, Kai Sun, Jiaqi Wang, Yinglong Xia, Xiao Yang, Nan Tang, and Franklin Zhang.</p>
+<p><a href="https://papers.lunadong.com/tutorial">Tutorial website</a> · <a href="https://tutorial.lunadong.com/slides.pdf">Slides</a> · <a href="https://tutorial.lunadong.com/paper.pdf">Tutorial paper</a> · <a href="https://papers.lunadong.com">Interactive survey</a></p>
+
+<h3>Retrieval-Augmented Generation (RAG)—From Modular to Agentic Systems</h3>
+<p class="tutorial-meta">KDD 2026</p>
+<p>A tutorial on the RAG pipeline, from triggering and query rewriting through retrieval, generation, knowledge-graph integration, and agentic architectures.</p>
+<p>With Xin Luna Dong, Sanat Sharma, Kai Sun, Jiaqi Wang, Yinglong Xia, Xiao Yang, and Franklin Zhang.</p>
+<p><a href="https://dl.acm.org/doi/abs/10.1145/3770855.3816460">Tutorial paper</a></p>
+
+<h3>Open-Domain Question Answering</h3>
+<p class="tutorial-meta">ACL 2020 · With Danqi Chen</p>
+<p>An overview of open-domain question answering, including retriever-reader systems, dense retrieval, end-to-end training, and approaches that combine text with knowledge bases.</p>
+<p><a href="{{ '/files/2020.acl-tutorials.8.pdf' | relative_url }}">Tutorial paper</a> · <a href="https://github.com/danqi/acl2020-openqa-tutorial">Slides and resources</a> · <a href="https://slideslive.com/38931668/">Recording</a></p>
+
+<h2>Talks</h2>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}

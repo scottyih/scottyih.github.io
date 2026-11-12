@@ -1,0 +1,10 @@
+{% if include.paper.show_citation_count %}
+  {% assign citation_record = site.data.representative_publications.papers | where: 'publication', include.paper.permalink | first %}
+  {% assign citation_date = site.data.representative_publications.fetched_on %}
+  {% if citation_record.citations and citation_record.scholar_url and citation_date %}
+    <div class="publication-citations">
+      <a href="{{ citation_record.scholar_url | escape }}">{{ citation_record.citations }} citations</a>
+      <span class="publication-citations__date">— Google Scholar (as of <time datetime="{{ citation_date | date: '%Y-%m-%d' }}">{{ citation_date | date: '%B %-d, %Y' }}</time>)</span>
+    </div>
+  {% endif %}
+{% endif %}

@@ -1,0 +1,23 @@
+@inproceedings{ye-etal-2021-influence,
+    title = "On the Influence of Masking Policies in Intermediate Pre-training",
+    author = "Ye, Qinyuan  and
+      Li, Belinda Z.  and
+      Wang, Sinong  and
+      Bolte, Benjamin  and
+      Ma, Hao  and
+      Yih, Wen-tau  and
+      Ren, Xiang  and
+      Khabsa, Madian",
+    editor = "Moens, Marie-Francine  and
+      Huang, Xuanjing  and
+      Specia, Lucia  and
+      Yih, Wen-tau",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.573/",
+    doi = "10.18653/v1/2021.emnlp-main.573",
+    pages = "7190--7202"
+}

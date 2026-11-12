@@ -1,0 +1,20 @@
+@inproceedings{yan-etal-2023-learning,
+    title = "Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing",
+    author = "Yan, Hao  and
+      Srivastava, Saurabh  and
+      Tai, Yintao  and
+      Wang, Sida I.  and
+      Yih, Wen-tau  and
+      Yao, Ziyu",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 61st Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.177/",
+    doi = "10.18653/v1/2023.acl-long.177",
+    pages = "3149--3170"
+}

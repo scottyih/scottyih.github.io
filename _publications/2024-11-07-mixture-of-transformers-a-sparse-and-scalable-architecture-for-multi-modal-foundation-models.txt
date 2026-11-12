@@ -1,0 +1,7 @@
+@article{mixture-of-transformers-a-sparse-and-scalable-architecture-for-multi-modal-foundation-models,
+ author = {Weixin Liang and Lili Yu and Liang Luo and Srinivasan Iyer and Ning Dong and Chunting Zhou and Gargi Ghosh and Mike Lewis and Wen-tau Yih and Luke Zettlemoyer and Xi Victoria Lin},
+ journal = {Transactions on Machine Learning Research},
+ title = {Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models},
+ url = {https://arxiv.org/abs/2411.04996},
+ year = {2025}
+}

@@ -1,0 +1,20 @@
+@inproceedings{lewis-etal-2022-boosted,
+    title = "Boosted Dense Retriever",
+    author = "Lewis, Patrick  and
+      Oguz, Barlas  and
+      Xiong, Wenhan  and
+      Petroni, Fabio  and
+      Yih, Wen-tau  and
+      Riedel, Sebastian",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.226/",
+    doi = "10.18653/v1/2022.naacl-main.226",
+    pages = "3102--3117"
+}

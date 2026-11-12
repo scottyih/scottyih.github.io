@@ -1,0 +1,19 @@
+@inproceedings{kaushik-etal-2021-efficacy,
+    title = "On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study",
+    author = "Kaushik, Divyansh  and
+      Kiela, Douwe  and
+      Lipton, Zachary C.  and
+      Yih, Wen-tau",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.517/",
+    doi = "10.18653/v1/2021.acl-long.517",
+    pages = "6618--6633"
+}

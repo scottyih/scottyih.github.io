@@ -1,0 +1,7 @@
+@misc{factory-a-challenging-human-verified-prompt-set-for-long-form-factuality,
+  title = {FACTORY: A challenging human-verified prompt set for long-form factuality},
+  author = {Mingda Chen and Yang Li and Xilun Chen and Adina Williams and Gargi Ghosh and Wen-tau Yih},
+  year = {2025},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2508.00109}
+}

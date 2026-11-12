@@ -11,8 +11,10 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
         <a href="{{ post.permalink }}" rel="permalink" class="archive__item-title">{{ title }}</a> <BR>
-        <i>{{ post.author }}</i>. <i>{{ post.venue }}</i>. {% if post.award %} <b>{{ post.award }}.</b> {% endif %} <BR>
-        {% if post.paperurl or post.bibtex or post.slides_poster or post.video or post.dataset or post.code %} 
+        <i>{{ post.author }}</i>. <i>{{ post.venue }}</i>. {% include publication-award.html paper=post %} <BR>
+        {% include publication-ranking.html paper=post %}
+        {% include publication-citations.html paper=post %}
+        {% if post.paperurl or post.biburl or post.preprint or post.slides_poster or post.video or post.dataset or post.code or post.model or post.project %}
         [
         {% assign first_link = true %}
         {% if post.paperurl %} 
@@ -20,6 +22,11 @@
           {% assign first_link = false %}
           <a href="{{ post.paperurl }}">paper</a>
           {% endif %}
+        {% if post.preprint %}
+          {% unless first_link %} | {% endunless %}
+          {% assign first_link = false %}
+          <a href="{{ post.preprint }}">preprint</a>
+        {% endif %}
         {% if post.biburl %}
           {% unless first_link %} | {% endunless %}
           {% assign first_link = false %}
@@ -35,16 +42,7 @@
           {% assign first_link = false %}
           <a href="{{ post.video }}">video</a>
         {% endif %}
-        {% if post.dataset %}
-          {% unless first_link %} | {% endunless %}
-          {% assign first_link = false %}
-          <a href="{{ post.dataset }}">dataset</a>
-        {% endif %}
-        {% if post.code %}
-          {% unless first_link %} | {% endunless %}
-          {% assign first_link = false %}
-          <a href="{{ post.code }}">code</a>
-        {% endif %}
+        {% include publication-release-links.html paper=post prefix=true %}
         ]
         {% endif %}
 

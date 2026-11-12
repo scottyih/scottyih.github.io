@@ -1,0 +1,7 @@
+@misc{confrag-confidence-guided-retrieval-augmenting-generation,
+  title = {ConfRAG: Confidence-Guided Retrieval-Augmenting Generation},
+  author = {Yin Huang and Yifan Ethan Xu and Kai Sun and Vera Yan and Alicia Sun and Haidar Khan and Jimmy Nguyen and Jingxiang Chen and Mohammad Kachuee and Zhaojiang Lin and Yue Liu and Aaron Colak and Anuj Kumar and Wen-tau Yih and Xin Luna Dong},
+  year = {2025},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2506.07309}
+}

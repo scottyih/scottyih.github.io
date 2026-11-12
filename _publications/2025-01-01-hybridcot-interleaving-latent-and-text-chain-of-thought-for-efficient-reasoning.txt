@@ -1,0 +1,7 @@
+@inproceedings{hybridcot-interleaving-latent-and-text-chain-of-thought-for-efficient-reasoning,
+  title = {Hybridcot: Interleaving latent and text chain-of-thought for efficient reasoning},
+  author = {Shannon Zejiang Shen and Rulin Shao and Chenyu Wang and Songlin Yang and Vincent-Pierre Berges and Gargi Ghosh and Pang Wei Koh and Luke Zettlemoyer and Yoon Kim and Jason E Weston and David Sontag and Wen-tau Yih},
+  year = {2025},
+  booktitle = {NeurIPS 2025 Workshop on Efficient Reasoning},
+  url = {https://openreview.net/forum?id=NRGRrHmq1H}
+}

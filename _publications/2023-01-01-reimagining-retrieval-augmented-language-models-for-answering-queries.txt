@@ -1,0 +1,21 @@
+@inproceedings{tan-etal-2023-reimagining,
+    title = "Reimagining Retrieval Augmented Language Models for Answering Queries",
+    author = "Tan, Wang-Chiew  and
+      Li, Yuliang  and
+      Rodriguez, Pedro  and
+      James, Richard  and
+      Lin, Xi Victoria  and
+      Halevy, Alon  and
+      Yih, Wen-tau",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.382/",
+    doi = "10.18653/v1/2023.findings-acl.382",
+    pages = "6131--6146"
+}

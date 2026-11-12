@@ -1,0 +1,7 @@
+@misc{memoproagent-toward-memory-driven-proactive-assistance,
+  title = {MemoProAgent: Toward Memory-Driven Proactive Assistance},
+  author = {Shenglai Zeng and Xiao Yang and Tiffany Ma and Xinyuan Zhang and Nanshu Wang and Deren Lei and Kai Sun and Xilun Chen and Tammy Stark and Xianhui Zhu and Yuetai Li and Rulin Shao and Tianxin Wei and Rakesh Wanga and Anuj Kumar and Jiliang Tang and Wen-tau Yih and Xin Luna Dong},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2610.22671}
+}

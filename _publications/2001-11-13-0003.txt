@@ -1,5 +1,5 @@
 @inproceedings{RKLNPRYAM01,
-    author = {D. Roth and G. Kao and X. Li and R. Nagarajan and V. Punyakanok and N. Rizzolo and W. Yih and C. Alm and L. G. Moran},
+    author = {D. Roth and G. Kao and X. Li and R. Nagarajan and V. Punyakanok and N. Rizzolo and Wen-tau Yih and C. Alm and L. G. Moran},
     title = {Learning Components for a Question Answering System},
     booktitle = {TREC},
     pages = {539-548},

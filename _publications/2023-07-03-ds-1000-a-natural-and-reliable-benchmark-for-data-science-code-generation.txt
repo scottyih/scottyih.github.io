@@ -1,0 +1,7 @@
+@inproceedings{ds-1000-a-natural-and-reliable-benchmark-for-data-science-code-generation,
+  title = {DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation},
+  author = {Yuhang Lai and Chengxi Li and Yiming Wang and Tianyi Zhang and Ruiqi Zhong and Luke Zettlemoyer and Wen-tau Yih and Daniel Fried and Sida Wang and Tao Yu},
+  year = {2023},
+  booktitle = {ICML 2023},
+  url = {https://proceedings.mlr.press/v202/lai23b.html}
+}

@@ -1,0 +1,21 @@
+@inproceedings{sachan-etal-2022-improving,
+    title = "Improving Passage Retrieval with Zero-Shot Question Generation",
+    author = "Sachan, Devendra  and
+      Lewis, Mike  and
+      Joshi, Mandar  and
+      Aghajanyan, Armen  and
+      Yih, Wen-tau  and
+      Pineau, Joelle  and
+      Zettlemoyer, Luke",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.249/",
+    doi = "10.18653/v1/2022.emnlp-main.249",
+    pages = "3781--3797"
+}

@@ -1,0 +1,7 @@
+@inproceedings{autoregressive-search-engines-generating-substrings-as-document-identifiers,
+ author = {Michele Bevilacqua and Giuseppe Ottaviano and Patrick Lewis and Wen-tau Yih and Sebastian Riedel and Fabio Petroni},
+ booktitle = {NeurIPS 2022},
+ title = {Autoregressive Search Engines: Generating Substrings as Document Identifiers},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/cd88d62a2063fdaf7ce6f9068fb15dcd-Abstract-Conference.html},
+ year = {2022}
+}

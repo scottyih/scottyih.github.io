@@ -1,0 +1,7 @@
+@inproceedings{coder-reviewer-reranking-for-code-generation,
+  title = {Coder Reviewer Reranking for Code Generation},
+  author = {Tianyi Zhang and Tao Yu and Tatsunori Hashimoto and Mike Lewis and Wen-tau Yih and Daniel Fried and Sida Wang},
+  year = {2023},
+  booktitle = {ICML 2023},
+  url = {https://proceedings.mlr.press/v202/zhang23av.html}
+}

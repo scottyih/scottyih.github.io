@@ -1,5 +1,5 @@
 @techreport{Yih05,
-    author = {W. Yih},
+    author = {Wen-tau Yih},
     title = {Learning and Inference for Information Extraction},
     booktitle = {UIUC PhD thesis},
     year = {2005},

@@ -1,5 +1,5 @@
 @inproceedings{PunyakanokRoYi05,
-    author = {V. Punyakanok and D. Roth and W. Yih},
+    author = {V. Punyakanok and D. Roth and Wen-tau Yih},
     title = {The Necessity of Syntactic Parsing for Semantic Role Labeling},
     booktitle = {IJCAI},
     pages = {1117--1123},

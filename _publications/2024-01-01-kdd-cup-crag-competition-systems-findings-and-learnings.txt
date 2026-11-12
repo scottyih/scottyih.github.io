@@ -1,0 +1,7 @@
+@article{kdd-cup-crag-competition-systems-findings-and-learnings,
+  title = {KDD Cup CRAG competition: Systems, Findings and Learnings.},
+  author = {Xiao Yang and Yifan Ethan Xu and Kai Sun and Jiaqi Wang and Lingkun Kong and Wen-tau Yih and Xin Luna Dong},
+  year = {2024},
+  journal = {IEEE Data Eng. Bull.},
+  url = {http://sites.computer.org/debull/A24dec/p163.pdf?trk=public_post_comment-text}
+}

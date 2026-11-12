@@ -52,6 +52,15 @@ layout: default
         </header>
       {% endunless %}
 
+      {% if page.collection == 'publications' %}
+        {% if page.award %}<p>{% include publication-award.html paper=page %}</p>{% endif %}
+        {% include publication-ranking.html paper=page %}
+        {% include publication-citations.html paper=page %}
+        {% if page.code or page.dataset or page.model or page.project %}
+          <p class="publication-resources">{% include publication-release-links.html paper=page %}</p>
+        {% endif %}
+      {% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

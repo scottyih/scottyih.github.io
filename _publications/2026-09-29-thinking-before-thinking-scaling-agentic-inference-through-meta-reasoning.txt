@@ -1,0 +1,7 @@
+@misc{thinking-before-thinking-scaling-agentic-inference-through-meta-reasoning,
+  title = {Thinking before thinking: Scaling agentic inference through meta-reasoning},
+  author = {Paras Dahal and Anton Bakhtin and Taco Cohen and Zhengxing Chen and Carole-Jean Wu and Rob Fergus and Wen-tau Yih and Gabriel Synnaeve and Ruslan Salakhutdinov and Sanjeev Arora and Jason Weston and Anirudh Goyal},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2609.38147}
+}

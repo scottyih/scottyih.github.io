@@ -1,0 +1,23 @@
+@inproceedings{chen-etal-2022-salient,
+    title = "Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?",
+    author = "Chen, Xilun  and
+      Lakhotia, Kushal  and
+      Oguz, Barlas  and
+      Gupta, Anchit  and
+      Lewis, Patrick  and
+      Peshterliev, Stan  and
+      Mehdad, Yashar  and
+      Gupta, Sonal  and
+      Yih, Wen-tau",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.19/",
+    doi = "10.18653/v1/2022.findings-emnlp.19",
+    pages = "250--262"
+}

@@ -1,0 +1,21 @@
+@inproceedings{huber-etal-2022-ccqa,
+    title = "{CCQA}: A New Web-Scale Question Answering Dataset for Model Pre-Training",
+    author = "Huber, Patrick  and
+      Aghajanyan, Armen  and
+      Oguz, Barlas  and
+      Okhonko, Dmytro  and
+      Yih, Wen-tau  and
+      Gupta, Sonal  and
+      Chen, Xilun",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {NAACL} 2022",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.184/",
+    doi = "10.18653/v1/2022.findings-naacl.184",
+    pages = "2402--2420"
+}

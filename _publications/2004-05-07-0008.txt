@@ -1,5 +1,5 @@
 @inproceedings{PRYZT04,
-    author = {V. Punyakanok and D. Roth and W. Yih and D. Zimak and Y. Tu},
+    author = {V. Punyakanok and D. Roth and Wen-tau Yih and D. Zimak and Y. Tu},
     title = {Semantic Role Labeling via Generalized Inference over Classifiers Shared Task Paper},
     booktitle = {CoNLL},
     pages = {130--133},

@@ -1,5 +1,5 @@
 @article{PunyakanokRoYi04a,
-    author = {V. Punyakanok and D. Roth and W. Yih},
+    author = {V. Punyakanok and D. Roth and Wen-tau Yih},
     title = {Mapping Dependencies Trees: An Application to Question Answering},
     booktitle = {AI & Math Workshop},
     month = {1},

@@ -1,0 +1,7 @@
+@inproceedings{meta-clip-2-a-worldwide-scaling-recipe,
+ author = {Yung-Sung Chuang and Yang Li and Dong Wang and Ching-Feng Yeh and Kehan Lyu and Ramya Raghavendra and Jim Glass and Lifei Huang and Jason Weston and Luke Zettlemoyer and Xinlei Chen and Zhuang Liu and Saining Xie and Wen-tau Yih and Shang-Wen Li and Hu Xu},
+ booktitle = {NeurIPS 2025},
+ title = {Meta CLIP 2: A Worldwide Scaling Recipe},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/hash/449fb670956a93b3d4d95167f72093e1-Abstract-Conference.html},
+ year = {2025}
+}

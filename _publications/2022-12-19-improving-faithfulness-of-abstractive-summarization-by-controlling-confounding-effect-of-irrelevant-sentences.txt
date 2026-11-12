@@ -1,0 +1,7 @@
+@misc{improving-faithfulness-of-abstractive-summarization-by-controlling-confounding-effect-of-irrelevant-sentences,
+  title = {Improving Faithfulness of Abstractive Summarization by Controlling Confounding Effect of Irrelevant Sentences},
+  author = {Asish Ghoshal and Arash Einolghozati and Ankit Arun and Haoran Li and Lili Yu and Vera Gor and Yashar Mehdad and Wen-tau Yih and Asli Celikyilmaz},
+  year = {2022},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2212.09726}
+}

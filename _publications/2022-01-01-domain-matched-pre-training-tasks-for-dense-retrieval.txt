@@ -1,0 +1,25 @@
+@inproceedings{oguz-etal-2022-domain,
+    title = "Domain-matched Pre-training Tasks for Dense Retrieval",
+    author = "Oguz, Barlas  and
+      Lakhotia, Kushal  and
+      Gupta, Anchit  and
+      Lewis, Patrick  and
+      Karpukhin, Vladimir  and
+      Piktus, Aleksandra  and
+      Chen, Xilun  and
+      Riedel, Sebastian  and
+      Yih, Wen-tau  and
+      Gupta, Sonal  and
+      Mehdad, Yashar",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {NAACL} 2022",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.114/",
+    doi = "10.18653/v1/2022.findings-naacl.114",
+    pages = "1524--1534"
+}

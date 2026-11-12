@@ -1,0 +1,7 @@
+@inproceedings{crag-mm-multi-modal-multi-turn-comprehensive-rag-benchmark,
+  title = {CRAG-MM: Multi-modal multi-turn comprehensive RAG benchmark},
+  author = {Jiaqi Wang and Xiao Yang and Kai Sun and Parth Suresh and Sanat Sharma and Adam Czyzewski and Derek Andersen and Surya Appini and Arkav Banerjee and Sajal Choudhary and Shervin Ghasemlou and Ziqiang Guan and Akil Iyer and Haidar Khan and Lingkun Kong and Yuanhang Luo and Tiffany Ma and Zhen Qiao and Tammy Stark and David Tran and Wenfang Xu and Skyler Yeatman and Chen Zhou and Gunveer Gujral and Yinglong Xia and Seungwhan Moon and Nicolas Scheffer and Nirav Shah and Eun Chang and Yue Liu and Florian Metze and Zhaleh Feizollahi and Andrea Jessee and Mangesh Pujari and Ahmed Aly and Babak Damavandi and Rakesh Wanga and Anuj Kumar and Rohit Patel and Wen-tau Yih and Xin Luna Dong},
+  year = {2026},
+  booktitle = {KDD 2026},
+  url = {https://dl.acm.org/doi/abs/10.1145/3770855.3817544}
+}

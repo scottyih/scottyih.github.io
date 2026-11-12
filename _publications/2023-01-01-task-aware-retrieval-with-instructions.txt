@@ -1,0 +1,22 @@
+@inproceedings{asai-etal-2023-task,
+    title = "Task-aware Retrieval with Instructions",
+    author = "Asai, Akari  and
+      Schick, Timo  and
+      Lewis, Patrick  and
+      Chen, Xilun  and
+      Izacard, Gautier  and
+      Riedel, Sebastian  and
+      Hajishirzi, Hannaneh  and
+      Yih, Wen-tau",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.225/",
+    doi = "10.18653/v1/2023.findings-acl.225",
+    pages = "3650--3675"
+}

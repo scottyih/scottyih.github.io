@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v306-chen26bh,
+  title = 	 {Learning to Reason for Factuality},
+  author =       {Chen, Xilun and Kulikov, Ilia and Berges, Vincent-Pierre and Oguz, Barlas and Shao, Rulin and Ghosh, Gargi and Yih, Wen-tau},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {15003--15022},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/chen26bh/chen26bh.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/chen26bh.html},
+  abstract = 	 {Reasoning Large Language Models (R-LLMs) have significantly advanced complex reasoning tasks but often struggle with factuality, generating substantially more hallucinations than their non-reasoning counterparts on long-form factuality benchmarks. However, extending online Reinforcement Learning (RL), a key component in recent R-LLM advancements, to the long-form factuality setting poses several unique challenges due to the lack of reliable verification methods. Previous work has utilized automatic factuality evaluation frameworks such as FActScore to curate preference data in the offline RL setting, yet we find that directly leveraging such methods as the reward in online RL leads to reward hacking in multiple ways, such as producing less detailed or relevant responses. We propose a novel reward function that simultaneously considers the factual precision, response detail level, and answer relevance, and applies online RL to learn high quality factual reasoning. Evaluated on six long-form factuality benchmarks, our factual reasoning model achieves an average reduction of 23.1 percentage points in hallucination rate, a 23% increase in answer detail level, and no degradation in the overall response helpfulness.}
+}

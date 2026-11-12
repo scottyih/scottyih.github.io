@@ -1,0 +1,7 @@
+@inproceedings{crag-comprehensive-rag-benchmark,
+ author = {Xiao Yang and Kai Sun and Hao Xin and Yushi Sun and Nikita Bhalla and Xiangsen Chen and Sajal Choudhary and Rongze D Gui and Ziran W Jiang and Ziyu Jiang and Lingkun Kong and Brian Moran and Jiaqi Wang and Yifan E Xu and An Yan and Chenyu Yang and Eting Yuan and Hanwen Zha and Nan Tang and Lei Chen and Nicolas Scheffer and Yue Liu and Nirav Shah and Rakesh Wanga and Anuj Kumar and Wen-tau Yih and Xin L Dong},
+ booktitle = {NeurIPS 2024},
+ title = {CRAG - Comprehensive RAG Benchmark},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html},
+ year = {2024}
+}

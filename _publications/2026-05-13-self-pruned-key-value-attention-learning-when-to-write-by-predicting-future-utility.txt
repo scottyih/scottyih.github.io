@@ -1,0 +1,7 @@
+@misc{self-pruned-key-value-attention-learning-when-to-write-by-predicting-future-utility,
+  title = {Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility},
+  author = {Gergely Szilvasy and Manuel Faysse and Maria Lomeli and Matthijs Douze and Pierre-Emmanuel Mazaré and Loïc Cabannes and Wen-tau Yih and Hervé Jégou},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2605.14037}
+}

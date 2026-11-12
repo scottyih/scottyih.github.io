@@ -1,0 +1,7 @@
+@misc{scaling-multi-agent-intelligence-with-substrate-centric-coordination,
+  title = {Scaling Multi-Agent Intelligence with Substrate-Centric Coordination},
+  author = {Zhenting Qi and Zhuokai Zhao and Rulin Shao and Kerem Oktar and Zhiyuan Yao and Himabindu Lakkaraju and Wen-tau Yih and Ansong Ni and Bhargavi Paranjape and Yilun Du},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2610.16120}
+}

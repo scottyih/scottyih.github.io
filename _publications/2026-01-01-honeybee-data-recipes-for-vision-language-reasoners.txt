@@ -1,0 +1,7 @@
+@inproceedings{honeybee-data-recipes-for-vision-language-reasoners,
+  title = {HoneyBee: Data Recipes for Vision-Language Reasoners},
+  author = {Hritik Bansal and Devendra Singh Sachan and Kai-Wei Chang and Aditya Grover and Gargi Ghosh and Wen-tau Yih and Ramakanth Pasunuru},
+  year = {2026},
+  booktitle = {CVPR 2026},
+  url = {https://openaccess.thecvf.com/content/CVPR2026/html/Bansal_HoneyBee_Data_Recipes_for_Vision-Language_Reasoners_CVPR_2026_paper.html}
+}

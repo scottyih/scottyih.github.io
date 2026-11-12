@@ -1,5 +1,5 @@
 @inproceedings{RothYi04,
-    author = {D. Roth and W. Yih},
+    author = {D. Roth and Wen-tau Yih},
     title = {A Linear Programming Formulation for Global Inference in Natural Language Tasks},
     booktitle = {CoNLL},
     pages = {1--8},

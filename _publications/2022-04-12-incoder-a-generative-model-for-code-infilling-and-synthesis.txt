@@ -1,0 +1,7 @@
+@inproceedings{incoder-a-generative-model-for-code-infilling-and-synthesis,
+ author = {Daniel Fried and Armen Aghajanyan and Jessy Lin and Sida Wang and Eric Wallace and Freda Shi and Ruiqi Zhong and Wen-tau Yih and Luke Zettlemoyer and Mike Lewis},
+ booktitle = {ICLR 2023},
+ title = {InCoder: A Generative Model for Code Infilling and Synthesis},
+ url = {https://arxiv.org/abs/2204.05999},
+ year = {2023}
+}

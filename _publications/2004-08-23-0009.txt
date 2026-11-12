@@ -1,5 +1,5 @@
 @inproceedings{PRYZ04,
-    author = {V. Punyakanok and D. Roth and W. Yih and D. Zimak},
+    author = {V. Punyakanok and D. Roth and Wen-tau Yih and D. Zimak},
     title = {Semantic Role Labeling via Integer Linear Programming Inference},
     booktitle = {COLING},
     pages = {1346--1352},

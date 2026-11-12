@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v306-shao26a,
+  title = 	 {{DR} Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research},
+  author =       {Shao, Rulin and Asai, Akari and Shen, Shannon Zejiang and Ivison, Hamish and Kishore, Varsha and Zhuo, Jingming and Zhao, Xinran and Park, Molly and Finlayson, Samuel G. and Sontag, David and Murray, Tyler and Min, Sewon and Dasigi, Pradeep and Soldaini, Luca and Brahman, Faeze and Yih, Wen-tau and Wu, Tongshuang and Zettlemoyer, Luke and Kim, Yoon and Hajishirzi, Hannaneh and Koh, Pang Wei},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {110046--110101},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/shao26a/shao26a.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/shao26a.html},
+  abstract = 	 {Deep research agents perform multi-step research to produce long-form, well-attributed answers. However, most open deep research agents are trained on easily verifiable short-form QA tasks via reinforcement learning with verifiable rewards, which does not extend to realistic long-form tasks. We address this with Reinforcement Learning with Evolving Rubrics (RLER), where rubrics are constructed and maintained to co-evolve with the policy model during training. This allows the rubrics to incorporate newly explored information from search and contrasting model responses, enabling better fact checking and more discriminative on-policy feedback. Using RLER, we develop Deep Research Tulu (DR Tulu-8B), the first fully open model that is directly trained for open-ended, long-form deep research. Across four long-form deep research benchmarks in science, healthcare, and general domains, DR Tulu-8B substantially outperforms existing open deep research agents (by 15.6% over Tongyi DR on average) and matches or exceeds proprietary deep research agents (by 0.7% over OpenAI DR on average), while being significantly smaller and cheaper per query (1000x cheaper than OpenAI DR per query).}
+}

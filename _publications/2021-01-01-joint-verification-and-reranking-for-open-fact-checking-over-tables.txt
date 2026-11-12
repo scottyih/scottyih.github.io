@@ -1,0 +1,21 @@
+@inproceedings{schlichtkrull-etal-2021-joint,
+    title = "Joint Verification and Reranking for Open Fact Checking Over Tables",
+    author = "Schlichtkrull, Michael Sejr  and
+      Karpukhin, Vladimir  and
+      Oguz, Barlas  and
+      Lewis, Mike  and
+      Yih, Wen-tau  and
+      Riedel, Sebastian",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.529/",
+    doi = "10.18653/v1/2021.acl-long.529",
+    pages = "6787--6799"
+}

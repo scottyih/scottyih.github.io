@@ -7,27 +7,32 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=8rDNIMsAAAAJ">Google Scholar profile</a></u> or on my <u><a href="https://www.semanticscholar.org/author/Wen-tau-Yih/144105277">Semantic Scholar profile</a></u>.
+My work spans multi-agent systems, memory, automated research, retrieval-augmented language models, and question answering. For a curated introduction, see the [selected papers on my homepage]({{ base_path }}/#selected-papers).
 
-{% for post in site.publications reversed %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=8rDNIMsAAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Wen-tau-Yih/144105277).
 
-    {% if forloop.first %}
-        {% assign my_year = this_year %}
-        {% include paper-list-year.html %}
-    {% endif %}
+<nav class="publication-years" aria-label="Publication years">
+  {% assign publication_years = site.publications | sort: "date" | reverse %}
+  {% assign previous_year = "" %}
+  {% for paper in publication_years %}
+    {% assign year = paper.date | date: "%Y" %}
+    {% if year != previous_year %}<a href="#year-{{ year }}">{{ year }}</a>{% endif %}
+    {% assign previous_year = year %}
+  {% endfor %}
+</nav>
 
-    {% include paper-single.html %}
-
-    {% if forloop.last %}
-    {% else %}
-      {% if this_year != next_year %}
-        {% assign my_year = next_year %}
-        {% include paper-list-year.html %}
-      {% endif %}
-    {% endif %}
+{% assign ordered_publications = site.publications | sort: "date" | reverse %}
+{% assign previous_year = "" %}
+{% for post in ordered_publications %}
+  {% assign this_year = post.date | date: "%Y" %}
+  {% if this_year != previous_year %}
+    {% assign my_year = this_year %}
+    {% include paper-list-year.html %}
+  {% endif %}
+  {% include paper-single.html %}
+  {% assign previous_year = this_year %}
 {% endfor %}
+
 
 {% comment %}
 

@@ -1,0 +1,24 @@
+@inproceedings{chuang-etal-2022-diffcse,
+    title = "{D}iff{CSE}: Difference-based Contrastive Learning for Sentence Embeddings",
+    author = "Chuang, Yung-Sung  and
+      Dangovski, Rumen  and
+      Luo, Hongyin  and
+      Zhang, Yang  and
+      Chang, Shiyu  and
+      Soljacic, Marin  and
+      Li, Shang-Wen  and
+      Yih, Wen-tau  and
+      Kim, Yoon  and
+      Glass, James",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the {N}orth {A}merican Chapter of the {A}ssociation for {C}omputational {L}inguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.311/",
+    doi = "10.18653/v1/2022.naacl-main.311",
+    pages = "4207--4218"
+}

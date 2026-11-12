@@ -1,0 +1,7 @@
+@inproceedings{learning-facts-at-scale-with-active-reading,
+  title = {Learning Facts at Scale with Active Reading},
+  author = {Jessy Lin and Vincent-Pierre Berges and Xilun Chen and Wen-tau Yih and Gargi Ghosh and Barlas Oguz},
+  year = {2026},
+  booktitle = {ICLR 2026},
+  url = {https://proceedings.iclr.cc/paper_files/paper/2026/hash/c4182d71e02a9673e530d3f0ea1c5cdf-Abstract-Conference.html}
+}

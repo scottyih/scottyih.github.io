@@ -1,0 +1,7 @@
+@misc{knowledge-distillation-during-mid-training-favors-reasoning-over-factual-recall,
+  title = {Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall},
+  author = {Jacqueline He and Howard Yen and Shuyue Stella Li and Margaret Li and Hanqing Zeng and Yinglong Xia and Benyu Zhang and Zhuokai Zhao and Qiang Zhang and Pang Wei Koh and Luke Zettlemoyer and Wen-tau Yih},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2609.01532}
+}

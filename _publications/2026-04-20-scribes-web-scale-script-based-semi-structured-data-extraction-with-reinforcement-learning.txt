@@ -1,0 +1,7 @@
+@inproceedings{scribes-web-scale-script-based-semi-structured-data-extraction-with-reinforcement-learning,
+  title = {SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning},
+  author = {Shicheng Liu and Kai Sun and Lisheng Fu and Xilun Chen and Xinyuan Zhang and Zhaojiang Lin and Rulin Shao and Yue Liu and Anuj Kumar and Wen-tau Yih and Xin Dong},
+  year = {2026},
+  booktitle = {ICLR 2026},
+  url = {https://proceedings.iclr.cc/paper_files/paper/2026/hash/d8af89af081e3e3b52fca7c92bd6ccab-Abstract-Conference.html}
+}

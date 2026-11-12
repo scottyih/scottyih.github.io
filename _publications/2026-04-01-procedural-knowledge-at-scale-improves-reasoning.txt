@@ -1,0 +1,7 @@
+@inproceedings{procedural-knowledge-at-scale-improves-reasoning,
+ author = {Di Wu and Devendra Singh Sachan and Wen-tau Yih and Mingda Chen},
+ booktitle = {COLM 2026},
+ title = {Procedural Knowledge at Scale Improves Reasoning},
+ url = {https://arxiv.org/abs/2604.01348},
+ year = {2026}
+}

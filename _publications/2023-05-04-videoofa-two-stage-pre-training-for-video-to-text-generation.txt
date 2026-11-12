@@ -1,0 +1,7 @@
+@misc{videoofa-two-stage-pre-training-for-video-to-text-generation,
+  title = {VideoOFA: Two-Stage Pre-Training for Video-to-Text Generation},
+  author = {Xilun Chen and Lili Yu and Wenhan Xiong and Barlas Oğuz and Yashar Mehdad and Wen-tau Yih},
+  year = {2023},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2305.03204}
+}

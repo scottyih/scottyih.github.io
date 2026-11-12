@@ -1,0 +1,18 @@
+@inproceedings{zhong-etal-2023-romqa,
+    title = "{R}o{MQA}: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    author = "Zhong, Victor  and
+      Shi, Weijia  and
+      Yih, Wen-tau  and
+      Zettlemoyer, Luke",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.470/",
+    doi = "10.18653/v1/2023.findings-emnlp.470",
+    pages = "7055--7067"
+}

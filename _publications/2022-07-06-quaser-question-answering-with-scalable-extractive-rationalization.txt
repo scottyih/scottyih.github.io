@@ -1,0 +1,7 @@
+@inproceedings{quaser-question-answering-with-scalable-extractive-rationalization,
+  title = {Quaser: Question answering with scalable extractive rationalization},
+  author = {Asish Ghoshal and Srinivasan Iyer and Bhargavi Paranjape and Kushal Lakhotia and Wen-tau Yih and Yashar Mehdad},
+  year = {2022},
+  booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  url = {https://dl.acm.org/doi/abs/10.1145/3477495.3532049}
+}

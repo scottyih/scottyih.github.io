@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v306-he26k,
+  title = 	 {Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model},
+  author =       {He, Jacqueline and Hayase, Jonathan and Yih, Wen-tau and Oh, Sewoong and Zettlemoyer, Luke and Koh, Pang Wei},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {41290--41342},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/he26k/he26k.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/he26k.html},
+  abstract = 	 {Language models (LMs) tend to memorize portions of their training data and reproduce verbatim spans. When the underlying sources are sensitive or copyright-protected, such reproduction raises issues of consent and compensation for creators and compliance risks for developers. We propose Anchored Decoding, a plug-and-play inference-time method for suppressing verbatim reproduction: it enables decoding from any risky LM trained on mixed-license data by keeping generation in bounded proximity to a permissively trained safe LM. Anchored Decoding does so by adaptively allocating a user-chosen information budget over the generation trajectory and enforcing per-step constraints that yield a sequence-level guarantee, enabling a tunable risk–utility trade-off. To make Anchored Decoding practically useful, we introduce a new permissively trained safe model (TinyComma 1.8B), as well as Anchored-Byte Decoding, a byte-level variant of our method that enables cross-vocabulary fusion via the ByteSampler (Hayase et al., 2025) framework. Across six model pairs on long-form metrics for copying risk and utility, Anchored and Anchored-Byte Decoding define a new Pareto frontier, preserving near-original fluency and factuality while eliminating up to 75% of the measurable copying gap between the risky baseline and a safe reference, at a modest inference overhead.}
+}

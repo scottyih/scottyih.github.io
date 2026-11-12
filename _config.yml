@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Scott Wen-tau Yih"
 title_separator          : "-"
 name                     : &name "Scott Yih"
-description              : &description "Personal website of Scott Wen-tau Yih, Research Scientist at Meta FAIR"
+description              : &description "Scott Wen-tau Yih, Research Scientist at Meta FAIR. Multi-agent systems, memory, automated research, and retrieval-augmented language models."
 url                      : "https://scottyih.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url : "http://127.0.0.1:4000"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Scott Yih"
   avatar           : "Scott Yih_FB Small.jpg"
-  bio              : "Research Scientist <BR> <a href='https://ai.meta.com/research/'>Meta Fundamental AI Research (FAIR)</a>"
+  bio              : "Research Scientist <BR> <a href='https://ai.meta.com/research/'>FAIR, Meta SuperIntelligence Labs</a>"
   location         : "Seattle, WA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=8rDNIMsAAAAJ"
@@ -141,6 +141,13 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - PUBLICATION_RELEASE_AUDIT.md
+  # Keep the unfinished CVs out of the public site, including old downloads.
+  - _pages/cv.md
+  - _cv
+  - _data/cv.yml
+  - files/CV*.pdf
+  - files/CV*.docx
   - tmp
 keep_files:
   - .git

@@ -1,0 +1,7 @@
+@misc{continual-learning-via-sparse-memory-finetuning,
+  title = {Continual learning via sparse memory finetuning},
+  author = {Jessy Lin and Luke Zettlemoyer and Gargi Ghosh and Wen-tau Yih and Aram Markosyan and Vincent-Pierre Berges and Barlas Oğuz},
+  year = {2025},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2510.15103}
+}

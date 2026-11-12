@@ -1,0 +1,7 @@
+@inproceedings{retrieval-augmented-generation-rag-from-modular-to-agentic-systems,
+  title = {Retrieval-Augmented Generation (RAG)—From Modular to Agentic Systems},
+  author = {Xin Luna Dong and Sanat Sharma and Kai Sun and Jiaqi Wang and Yinglong Xia and Xiao Yang and Wen-tau Yih and Franklin Zhang},
+  year = {2026},
+  booktitle = {KDD 2026},
+  url = {https://dl.acm.org/doi/abs/10.1145/3770855.3816460}
+}

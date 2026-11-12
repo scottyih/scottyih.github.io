@@ -47,29 +47,29 @@ pp. 207−218	Dual Coordinate Descent Algorithms for Efficient Large Margin Stru
 	Personalized Spam Filtering for Gray Mail 	 The 5th Conference on Email and Anti-Spam	"Ming-Wei Chang, Wen-tau Yih, and Robert McCann"								
 	The Importance of Syntactic Parsing and Inference in Semantic Role Labeling	in Computational Linguistics	"Vasin Punyakanok, Dan Roth, and Wen-tau Yih"								
 30 November 2007.	Global Inference for Entity and Relation Identification via a Linear Programming Formulation	in Introduction to Statistical Relational Learning	Dan Roth and Wen-tau Yih								
-20 September 2007.	Site-Independent Template-Block Detection	in Knowledge Discovery in Databases: PKDD 2007	A. Kolcz and W. Yih								
-	Raising the Baseline for High-Precision Text Classifiers	 KDD 2007	A. Kolcz and W. Yih								
-2 August 2007.	Improving Spam Filtering by Detecting Gray Mail	 the 4th Conference on Email and Anti-Spam	"W. Yih, R. McCann, and A. Kolcz"								
+20 September 2007.	Site-Independent Template-Block Detection	in Knowledge Discovery in Databases: PKDD 2007	A. Kolcz and Wen-tau Yih								
+	Raising the Baseline for High-Precision Text Classifiers	 KDD 2007	A. Kolcz and Wen-tau Yih								
+2 August 2007.	Improving Spam Filtering by Detecting Gray Mail	 the 4th Conference on Email and Anti-Spam	"Wen-tau Yih, R. McCann, and A. Kolcz"								
 25 July 2007.	Improving Similarity Measures for Short Segments of Text	 AAAI 2007	Wen-tau Yih and Christopher Meek								
 	Automatic Semantic Role Labeling (Tutorial Handout for AAAI-07)	22 July 2007.	Wen-tau Yih and Kristina Toutanova								
-	Multi-Document Summarization by Maximizing Informative Content-Words	 IJCAI 2007	"W. Yih, J. Goodman, L. Vanderwende, and H. Suzuki"								
-28 July 2006.	Learning at Low False Positive Rates	 the 3rd Conference on Email and Anti-Spam	"W. Yih, J. Goodman, and G. Hulten"								
-28 July 2006.	Online Discriminative Spam Filter Training	 the 3rd Conference on Email and Anti-Spam	J. Goodman and W. Yih								
+	Multi-Document Summarization by Maximizing Informative Content-Words	 IJCAI 2007	"Wen-tau Yih, J. Goodman, L. Vanderwende, and H. Suzuki"								
+28 July 2006.	Learning at Low False Positive Rates	 the 3rd Conference on Email and Anti-Spam	"Wen-tau Yih, J. Goodman, and G. Hulten"								
+28 July 2006.	Online Discriminative Spam Filter Training	 the 3rd Conference on Email and Anti-Spam	J. Goodman and Wen-tau Yih								
 18 July 2006.	Improved Discriminative Bilingual Word Alignment	 the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics	"Robert C. Moore, Wen-tau Yih, and Andreas Bode"								
 	Automatic Semantic Role Labeling (Tutorial Handout for HLT-NAACL-06)	4 June 2006.	Wen-tau Yih and Kristina Toutanova								
-	Finding Advertising Keywords on Web Pages	 the 15th World Wide Web Conference	"W. Yih, J. Goodman, and V. Carvalho"								
-	Integer Linear Programming Inference for Conditional Random Fields	 ICML 2005	D. Roth and W. Yih								
-	The Necessity of Syntactic Parsing for Semantic Role Labeling	 IJCAI 2005	"V. Punyakanok, D. Roth, and W. Yih"								
-	Learning and Inference over Constrained Output	 IJCAI 2005	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
-30 June 2005.	Generalized Inference with Multiple Semantic Role Labeling Systems	in Proc. of the Annual Conference on Computational Natural Language Learning (CoNLL)	"P. Koomen, V. Punyakanok, D. Roth, and W. Yih"								
-17 December 2004.	Learning via Inference over Structurally Constrained Output	in NIPS-04 Learning With Structured Outputs Workshop 	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
+	Finding Advertising Keywords on Web Pages	 the 15th World Wide Web Conference	"Wen-tau Yih, J. Goodman, and V. Carvalho"								
+	Integer Linear Programming Inference for Conditional Random Fields	 ICML 2005	D. Roth and Wen-tau Yih								
+	The Necessity of Syntactic Parsing for Semantic Role Labeling	 IJCAI 2005	"V. Punyakanok, D. Roth, and Wen-tau Yih"								
+	Learning and Inference over Constrained Output	 IJCAI 2005	"V. Punyakanok, D. Roth, Wen-tau Yih, and D. Zimak"								
+30 June 2005.	Generalized Inference with Multiple Semantic Role Labeling Systems	in Proc. of the Annual Conference on Computational Natural Language Learning (CoNLL)	"P. Koomen, V. Punyakanok, D. Roth, and Wen-tau Yih"								
+17 December 2004.	Learning via Inference over Structurally Constrained Output	in NIPS-04 Learning With Structured Outputs Workshop 	"V. Punyakanok, D. Roth, Wen-tau Yih, and D. Zimak"								
 20 September 2004.	Mining Online Deal Forums for Hot Deals	 The 2004 IEEE/WIC/ACM International Conference on Web Intelligence 2004	"Wen-tau Yih, Po-hao Chang, and Wooyoung Kim"								
-23 August 2004.	Semantic Role Labeling via Integer Linear Programming Inference	 the 20th International Conference on Computational Linguistics (COLING-04)	"V. Punyakanok, D. Roth, W. Yih, and D. Zimak"								
-7 May 2004.	Semantic Role Labeling via Generalized Inference over Classifiers	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	"V. Punyakanok, D. Roth, W. Yih, D. Zimak, and Y. Tu"								
-6 May 2004.	A Linear Programming Formulation for Global Inference in Natural Language Tasks	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	D. Roth and W. Yih								
-	Mapping Dependencies Trees: An Application to Question Answering	 AI&Math 2004 (Special session: Intelligent Text Processing)	"V. Punyakanok, D. Roth, and W. Yih"								
-November 2002.	Question-Answering via Enhanced Understanding of Questions	 TREC 2002	"D. Roth, C. Cumby, Xiao Li, P. Morie, R. Nagarajan, N. Rizzolo, K. Small, and W. Yih"								
-August 2002.	Probabilistic Reasoning for Entity & Relation Recognition	 the 19th International Conference on Computational Linguistics (COLING-02)	D. Roth and W. Yih								
-November 2001.	Learning Components for A Question-Answering System	 TREC 2001	"D. Roth, G. Kao, Xiao Li, R. Nagarajan, V. Punyakanok, N. Rizzolo, W. Yih, C. Alm, and L. Moran"								
-	Relational Learning via Propositional Algorithms: An Information Extraction Case Study	 IJCAI-2001	D. Roth and W. Yih								
-July 1997.	Template-Based Information Mining from HTML Documents	 AAAI-1997	J. Hsu and W. Yih								
+23 August 2004.	Semantic Role Labeling via Integer Linear Programming Inference	 the 20th International Conference on Computational Linguistics (COLING-04)	"V. Punyakanok, D. Roth, Wen-tau Yih, and D. Zimak"								
+7 May 2004.	Semantic Role Labeling via Generalized Inference over Classifiers	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	"V. Punyakanok, D. Roth, Wen-tau Yih, D. Zimak, and Y. Tu"								
+6 May 2004.	A Linear Programming Formulation for Global Inference in Natural Language Tasks	 the 8th Conference on Computational Natural Language Learning (CoNLL-04)	D. Roth and Wen-tau Yih								
+	Mapping Dependencies Trees: An Application to Question Answering	 AI&Math 2004 (Special session: Intelligent Text Processing)	"V. Punyakanok, D. Roth, and Wen-tau Yih"								
+November 2002.	Question-Answering via Enhanced Understanding of Questions	 TREC 2002	"D. Roth, C. Cumby, Xiao Li, P. Morie, R. Nagarajan, N. Rizzolo, K. Small, and Wen-tau Yih"								
+August 2002.	Probabilistic Reasoning for Entity & Relation Recognition	 the 19th International Conference on Computational Linguistics (COLING-02)	D. Roth and Wen-tau Yih								
+November 2001.	Learning Components for A Question-Answering System	 TREC 2001	"D. Roth, G. Kao, Xiao Li, R. Nagarajan, V. Punyakanok, N. Rizzolo, Wen-tau Yih, C. Alm, and L. Moran"								
+	Relational Learning via Propositional Algorithms: An Information Extraction Case Study	 IJCAI-2001	D. Roth and Wen-tau Yih								
+July 1997.	Template-Based Information Mining from HTML Documents	 AAAI-1997	J. Hsu and Wen-tau Yih								

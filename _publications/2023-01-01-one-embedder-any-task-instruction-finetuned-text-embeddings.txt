@@ -1,0 +1,24 @@
+@inproceedings{su-etal-2023-one,
+    title = "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+    author = "Su, Hongjin  and
+      Shi, Weijia  and
+      Kasai, Jungo  and
+      Wang, Yizhong  and
+      Hu, Yushi  and
+      Ostendorf, Mari  and
+      Yih, Wen-tau  and
+      Smith, Noah A.  and
+      Zettlemoyer, Luke  and
+      Yu, Tao",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.71/",
+    doi = "10.18653/v1/2023.findings-acl.71",
+    pages = "1102--1121"
+}

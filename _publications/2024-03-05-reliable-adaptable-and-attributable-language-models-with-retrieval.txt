@@ -1,0 +1,7 @@
+@misc{reliable-adaptable-and-attributable-language-models-with-retrieval,
+  title = {Reliable, Adaptable, and Attributable Language Models with Retrieval},
+  author = {Akari Asai and Zexuan Zhong and Danqi Chen and Pang Wei Koh and Luke Zettlemoyer and Hannaneh Hajishirzi and Wen-tau Yih},
+  year = {2024},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2403.03187}
+}

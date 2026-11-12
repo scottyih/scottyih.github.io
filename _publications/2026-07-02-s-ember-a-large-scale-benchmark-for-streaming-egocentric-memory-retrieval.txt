@@ -1,0 +1,7 @@
+@misc{s-ember-a-large-scale-benchmark-for-streaming-egocentric-memory-retrieval,
+  title = {S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval},
+  author = {Xiaodong Wang and Xuanyi Zhao and Pedro Rodriguez and Devendra Singh Sachan and Barlas Oguz and Seungwhan Moon and Shang-Wen Li and Gargi Ghosh and Xin Dong and Wen-tau Yih},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2607.02689}
+}

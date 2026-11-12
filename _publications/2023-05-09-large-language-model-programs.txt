@@ -1,0 +1,7 @@
+@misc{large-language-model-programs,
+  title = {Large Language Model Programs},
+  author = {Imanol Schlag and Sainbayar Sukhbaatar and Asli Celikyilmaz and Wen-tau Yih and Jason Weston and Jürgen Schmidhuber and Xian Li},
+  year = {2023},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2305.05364}
+}

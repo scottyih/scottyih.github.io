@@ -1,0 +1,7 @@
+@article{synthesizing-scientific-literature-with-retrieval-augmented-language-models,
+  title = {Synthesizing scientific literature with retrieval-augmented language models},
+  author = {Akari Asai and Jacqueline He and Rulin Shao and Weijia Shi and Amanpreet Singh and Joseph Chee Chang and Kyle Lo and Luca Soldaini and Sergey Feldman and Mike D’arcy and David Wadden and Matt Latzke and Jenna Sparks and Jena D Hwang and Varsha Kishore and Minyang Tian and Pan Ji and Shengyan Liu and Hao Tong and Bohao Wu and Yanyu Xiong and Luke Zettlemoyer and Graham Neubig and Daniel S Weld and Doug Downey and Wen-tau Yih and Pang Wei Koh and Hannaneh Hajishirzi},
+  year = {2026},
+  journal = {Nature},
+  url = {https://www.nature.com/articles/s41586-025-10072-4}
+}

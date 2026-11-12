@@ -1,0 +1,7 @@
+@misc{gitswarm-decentralized-compounding-inference,
+  title = {GitSwarm: Decentralized Compounding Inference},
+  author = {Vedant Shah and Ankur Samanta and Paras Dahal and Mikhail Plekhanov and Carole-Jean Wu and Wen-tau Yih and Remi Munos and Rob Fergus and Jakob Foerster and Ruslan Salakhutdinov and Sanjeev Arora and Jason Weston and Aaron Courville and Anirudh Goyal},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2610.04862}
+}

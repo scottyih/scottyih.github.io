@@ -1,0 +1,21 @@
+@inproceedings{min-etal-2023-nonparametric,
+    title = "Nonparametric Masked Language Modeling",
+    author = "Min, Sewon  and
+      Shi, Weijia  and
+      Lewis, Mike  and
+      Chen, Xilun  and
+      Yih, Wen-tau  and
+      Hajishirzi, Hannaneh  and
+      Zettlemoyer, Luke",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.132/",
+    doi = "10.18653/v1/2023.findings-acl.132",
+    pages = "2097--2118"
+}

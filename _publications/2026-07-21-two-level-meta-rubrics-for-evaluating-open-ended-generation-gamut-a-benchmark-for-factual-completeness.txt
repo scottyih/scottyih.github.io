@@ -1,0 +1,7 @@
+@misc{two-level-meta-rubrics-for-evaluating-open-ended-generation-gamut-a-benchmark-for-factual-completeness,
+  title = {Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness},
+  author = {Xilun Chen and Zhaleh Feizollahi and Ross Goodwin and Seungwhan Moon and Wen-tau Yih and Pinar Donmez and Babak Damavandi and Luna Dong},
+  year = {2026},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/2607.19322}
+}

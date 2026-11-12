@@ -1,0 +1,21 @@
+@inproceedings{lakhotia-etal-2021-fid,
+    title = "{F}i{D}-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation",
+    author = "Lakhotia, Kushal  and
+      Paranjape, Bhargavi  and
+      Ghoshal, Asish  and
+      Yih, Wen-tau  and
+      Mehdad, Yashar  and
+      Iyer, Srini",
+    editor = "Moens, Marie-Francine  and
+      Huang, Xuanjing  and
+      Specia, Lucia  and
+      Yih, Wen-tau",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.301/",
+    doi = "10.18653/v1/2021.emnlp-main.301",
+    pages = "3712--3727"
+}

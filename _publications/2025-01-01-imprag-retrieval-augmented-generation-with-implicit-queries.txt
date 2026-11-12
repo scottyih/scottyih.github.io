@@ -1,0 +1,21 @@
+@inproceedings{zhang-etal-2025-imprag,
+    title = "{I}mp{RAG}: Retrieval-Augmented Generation with Implicit Queries",
+    author = "Zhang, Wenzheng  and
+      Lin, Xi Victoria  and
+      Stratos, Karl  and
+      Yih, Wen-tau  and
+      Chen, Mingda",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.472/",
+    doi = "10.18653/v1/2025.findings-emnlp.472",
+    pages = "8888--8900",
+    ISBN = "979-8-89176-335-7"
+}

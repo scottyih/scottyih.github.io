@@ -1,0 +1,7 @@
+@inproceedings{ra-dit-retrieval-augmented-dual-instruction-tuning,
+  title = {RA-DIT: Retrieval-Augmented Dual Instruction Tuning},
+  author = {Victoria Lin and Xilun Chen and Mingda Chen and Weijia Shi and Maria Lomeli and Richard James and Pedro Rodriguez and Jacob Kahn and Gergely Szilvasy and Mike Lewis and Luke Zettlemoyer and Wen-tau Yih},
+  year = {2024},
+  booktitle = {ICLR 2024},
+  url = {https://proceedings.iclr.cc/paper_files/paper/2024/hash/536d18fbb454f80221465f1a42c6f389-Abstract-Conference.html}
+}

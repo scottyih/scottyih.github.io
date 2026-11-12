@@ -1,0 +1,39 @@
+source: https://scholar.google.com/citations?user=8rDNIMsAAAAJ
+fetched_on: '2026-10-23'
+selection_rule: The seven most-cited papers in the Google Scholar profile, ordered by citation count.
+papers:
+- rank: 1
+  title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  publication: /publication/2020-12-06-0085
+  citations: 32703
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:eq2jaN3J8jMC
+- rank: 2
+  title: Dense Passage Retrieval for Open-Domain Question Answering
+  publication: /publication/2020-11-16-0082
+  citations: 9630
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:fFSKOagxvKUC
+- rank: 3
+  title: Linguistic Regularities in Continuous Space Word Representations
+  publication: /publication/2013-05-27-0043
+  citations: 6128
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:RGFaLdJalmkC
+- rank: 4
+  title: Embedding Entities and Relations for Learning and Inference in Knowledge Bases
+  publication: /publication/2015-05-01-0054
+  citations: 5699
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:rO6llkc54NcC
+- rank: 5
+  title: 'FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation'
+  publication: /publication/2023-01-01-factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation
+  citations: 2172
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:4fGpz3EwCPoC
+- rank: 6
+  title: 'REPLUG: Retrieval-Augmented Black-Box Language Models'
+  publication: /publication/2024-01-01-replug-retrieval-augmented-black-box-language-models
+  citations: 1413
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:5qfkUJPXOUwC
+- rank: 7
+  title: 'WikiQA: A Challenge Dataset for Open-Domain Question Answering'
+  publication: /publication/2015-09-17-0056
+  citations: 1289
+  scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=8rDNIMsAAAAJ&pagesize=100&citation_for_view=8rDNIMsAAAAJ:dfsIfKJdRG4C

@@ -1,0 +1,22 @@
+@inproceedings{lin-etal-2023-train,
+    title = "How to Train Your Dragon: Diverse Augmentation Towards Generalizable Dense Retrieval",
+    author = "Lin, Sheng-Chieh  and
+      Asai, Akari  and
+      Li, Minghan  and
+      Oguz, Barlas  and
+      Lin, Jimmy  and
+      Mehdad, Yashar  and
+      Yih, Wen-tau  and
+      Chen, Xilun",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.423/",
+    doi = "10.18653/v1/2023.findings-emnlp.423",
+    pages = "6385--6400"
+}
